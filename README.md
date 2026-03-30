@@ -110,6 +110,7 @@
 - [MoonBit](#moonbit)
 - [Move](#move)
 - [Mustache](#mustache)
+- [NSIS](#nsis)
 - [Nextflow](#nextflow)
 - [Nginx](#nginx)
 - [Nim](#nim)
@@ -187,6 +188,7 @@
 - [Wikitext](#wikitext)
 - [Wolfram Language](#wolfram-language)
 - [XML](#xml)
+- [XQuery](#xquery)
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Yacc](#yacc)
@@ -307,7 +309,6 @@
 - [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) - Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.
 - [gndx/ev0-astro-theme](https://github.com/gndx/ev0-astro-theme) - EV0 Astro Theme is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.
 - [srleom/astro-theme-resume](https://github.com/srleom/astro-theme-resume) - An open-sourced personal resume site template with a blog, built with Astro and Tailwind.
-- [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
 - [TimWitzdam/astro-minimal-portfolio-template](https://github.com/TimWitzdam/astro-minimal-portfolio-template) - Minimalistic portfolio template for Astro with Tailwind
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) - Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.
@@ -1033,6 +1034,7 @@
 
 ## C# # 
 
+- [Rei2020GitHub/MyPublicProject](https://github.com/Rei2020GitHub/MyPublicProject) - 
 - [skozlowsky/MovieRating](https://github.com/skozlowsky/MovieRating) - K6 Tests with ASP.NET Core Minimal Web API
 - [dotnet/infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
 - [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
@@ -1497,6 +1499,7 @@
 
 ## C++ 
 
+- [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 - [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
 - [celclow/SwitchControlLibrary](https://github.com/celclow/SwitchControlLibrary) - 
@@ -2312,7 +2315,7 @@
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [pytorch/FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
-- [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus) - Multilingual neural TTS (6 languages: JA/EN/ZH/ES/FR/PT) — C++, C# (.NET), Rust, Python SDKs. VITS + Prosody, streaming, CUDA/CoreML/DirectML, custom dictionaries. Install: pip install piper-tts-plus 
+- [ayutaz/piper-plus](https://github.com/ayutaz/piper-plus) - Multilingual neural TTS (6 languages: JA/EN/ZH/ES/FR/PT) — C++, C# (.NET), Rust, Python, npm (WASM) SDKs. VITS + Prosody, streaming, CUDA/CoreML/DirectML, custom dictionaries. Install: pip install pip
 - [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
@@ -2403,6 +2406,7 @@
 
 ## CSS 
 
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [project/project.github.io](https://github.com/project/project.github.io) - 
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [zenodo/zenodo-docs-user](https://github.com/zenodo/zenodo-docs-user) - Zenodo User Documentation
@@ -3138,6 +3142,9 @@
 
 ## Go 
 
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
+- [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
+- [pryzmatpl/prismalama](https://github.com/pryzmatpl/prismalama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [timescale/tiger-cli](https://github.com/timescale/tiger-cli) - Tiger CLI is the command-line interface for Tiger Cloud. It includes an MCP server for helping coding agents write production-level Postgres code.
@@ -3286,7 +3293,7 @@
 - [juicebox-systems/juicebox-software-realm](https://github.com/juicebox-systems/juicebox-software-realm) - 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [kaedeek/port_scan-go](https://github.com/kaedeek/port_scan-go) - 
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
@@ -4145,7 +4152,6 @@
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [nextcloud/helm](https://github.com/nextcloud/helm) - A community maintained helm chart for deploying Nextcloud on Kubernetes.
 - [NXVZBGBFBEN/dotfiles](https://github.com/NXVZBGBFBEN/dotfiles) - My dotfiles
-- [Nobara-Project/nobara-images](https://github.com/Nobara-Project/nobara-images) - 
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 
 ## Gosu 
@@ -4204,6 +4210,8 @@
 
 ## HTML 
 
+- [Istituto-freudinttheprodev/Sito-web-lavoro-di-gruppo-INFORMATICA](https://github.com/Istituto-freudinttheprodev/Sito-web-lavoro-di-gruppo-INFORMATICA) - In questa repository è presente un sito web (creato per un lavoro di gruppo a riguardo) programmato in HTML, CSS e JavaScript raffigurante una pasticceria esempio (non veritiera)
+- [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [symfony-si/magento1-sl-si](https://github.com/symfony-si/magento1-sl-si) - 🇸🇮 Magento 1 Slovenian translations
 - [thank-you-php/thank-you-php.github.io](https://github.com/thank-you-php/thank-you-php.github.io) - GitHub pages for the open letter of gratitude to PHP
@@ -4764,6 +4772,7 @@
 - [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [Mojang/bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 - [Kumafuji1202/kumafuji1202.github.io](https://github.com/Kumafuji1202/kumafuji1202.github.io) - My GitHub Pages website.
+- [Nobara-Project/nobara-images](https://github.com/Nobara-Project/nobara-images) - 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [javascript-tutorial/ja.javascript.info](https://github.com/javascript-tutorial/ja.javascript.info) - 現代の JavaScript チュートリアル
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -4887,6 +4896,8 @@
 
 ## Java 
 
+- [BaseXdb/basex](https://github.com/BaseXdb/basex) - BaseX Main Repository.
+- [blendi-remade/falcraft](https://github.com/blendi-remade/falcraft) - 3D structure generation in Minecraft, powered by fal.ai
 - [codedrinker/community](https://github.com/codedrinker/community) - 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - 
 - [evomi/datacenter-proxies-instructions](https://github.com/evomi/datacenter-proxies-instructions) - Code Integrations for our Swiss Quality Datacenter Proxies in multiple Programming Languages.
@@ -5596,6 +5607,7 @@
 
 ## JavaScript 
 
+- [meodai/heerich](https://github.com/meodai/heerich) - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.
 - [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [codervivek5/VigyBag](https://github.com/codervivek5/VigyBag) - VigyBag is an e-commerce platform designed to empower villagers by providing them with a nationwide marketplace to sell their eco-friendly products across India. This platform bridges the gap between 
@@ -5924,7 +5936,6 @@
 - [loadingio/css-spinner](https://github.com/loadingio/css-spinner) - small, elegant pure css spinner for ajax or loading animation
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -7825,6 +7836,7 @@
 
 ## Jupyter Notebook 
 
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 - [VizuaraAI/Transformers-for-vision-BOOK](https://github.com/VizuaraAI/Transformers-for-vision-BOOK) - 
 - [open-spaced-repetition/srs-benchmark](https://github.com/open-spaced-repetition/srs-benchmark) - A benchmark for spaced repetition schedulers/algorithms
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
@@ -8418,7 +8430,7 @@
 - [model-checking/rust-lean-models](https://github.com/model-checking/rust-lean-models) - Lean models of Rust libraries
 - [math-inc/ZkLinalg](https://github.com/math-inc/ZkLinalg) - Formally proving the security of Fast Reed-Solomon interactive oracle proofs of proximity
 - [trishullab/PutnamBench](https://github.com/trishullab/PutnamBench) - An evaluation benchmark for undergraduate competition math in Lean4, Isabelle, Coq, and natural language.
-- [YaelDillies/LeanCamCombi](https://github.com/YaelDillies/LeanCamCombi) - Formalisation of the Cambridge Part II and Part III courses Graph Theory, Combinatorics, Extremal and Probabilistic Combinatorics in Lean
+- [YaelDillies/cam-combi](https://github.com/YaelDillies/cam-combi) - Formalisation of the Cambridge Part II and Part III courses Graph Theory, Combinatorics, Extremal and Probabilistic Combinatorics in Lean
 - [dwrensha/lean4-maze](https://github.com/dwrensha/lean4-maze) - maze game encoded in Lean 4 syntax
 - [dwrensha/compfiles](https://github.com/dwrensha/compfiles) - Catalog Of Math Problems Formalized In Lean
 - [leanprover-community/repl](https://github.com/leanprover-community/repl) - A simple REPL for Lean 4, returning information about errors and sorries.
@@ -8776,6 +8788,10 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [mastodon/chart](https://github.com/mastodon/chart) - Helm chart for Mastodon deployment in Kubernetes
 
+## NSIS 
+
+- [BaseXdb/basex-dist](https://github.com/BaseXdb/basex-dist) - BaseX Distribution Files
+
 ## Nextflow 
 
 - [nf-core/nanoseq](https://github.com/nf-core/nanoseq) - Nanopore demultiplexing, QC and alignment pipeline
@@ -8857,6 +8873,7 @@
 
 ## Objective-C 
 
+- [problame/CSNotificationView](https://github.com/problame/CSNotificationView) - Drop-in, semi-translucent and blurring notification view.
 - [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) - ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
 - [msching/PcmDataPlayer](https://github.com/msching/PcmDataPlayer) - Playing raw audio data with AVAudioPlayer
 - [ricohapi/theta-api2.1-ios-sdk](https://github.com/ricohapi/theta-api2.1-ios-sdk) - RICOH THETA API v2.1 SDK for iOS
@@ -8945,6 +8962,7 @@
 
 ## Others 
 
+- [t3tra-dev/t3tra-dev](https://github.com/t3tra-dev/t3tra-dev) - 
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs
@@ -10491,6 +10509,13 @@
 
 ## Python 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+- [realityinspector/teeny-tiny-t9](https://github.com/realityinspector/teeny-tiny-t9) - a teeny tiny shape that unfolds to t9 through Inverse Morphogenic Training (IMT)
+- [miu200521358/vroid2pmx](https://github.com/miu200521358/vroid2pmx) - 
+- [miu200521358/vrm2pmx](https://github.com/miu200521358/vrm2pmx) - vrm(glb) を pmx（準標準ボーンまで）に変換するツール
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [krishealty/jack-keylogger](https://github.com/krishealty/jack-keylogger) - a simple keylogger that records hardware inputs like keyboard, mouse, microphone and webcam and sends it to your e-mail.
 - [krishealty/worm](https://github.com/krishealty/worm) - Worm is an Android post exploitation Framework to gain remote access of any Android device by exploiting Android Debug Bridge.
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
@@ -10866,7 +10891,7 @@
 - [europanite/rag_container_template](https://github.com/europanite/rag_container_template) - A Full-Stack RAG Container Template
 - [Kairatzh/TextGuardAI](https://github.com/Kairatzh/TextGuardAI) - TextGuard AI — сервис, который принимает текст и определяет класс токсичности сообщения (нейтральный / токсичный / ненависть / спам) с помощью собственной нейросети на PyTorch, обученной на простом TF
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 254 stars and 195 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 253 stars and 195 forks 🌟
 - [hiroharu-kato/neural_renderer](https://github.com/hiroharu-kato/neural_renderer) - "Neural 3D Mesh Renderer" (CVPR 2018) by H. Kato, Y. Ushiku, and T. Harada.
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -11328,7 +11353,7 @@
 - [Yug2920/Expense-Tracker](https://github.com/Yug2920/Expense-Tracker) - 
 - [1minds3t/github_stats](https://github.com/1minds3t/github_stats) - 
 - [mennylevinski/cat_chase_ball](https://github.com/mennylevinski/cat_chase_ball) - Basic Python Game
-- [Cre4T3Tiv3/gitvoyant](https://github.com/Cre4T3Tiv3/gitvoyant) - Temporal Code Intelligence platform. Time-series analysis on Git commit history: linear regression trend analysis, cyclomatic complexity tracking, confidence scoring, and predictive decay forecasting.
+- [Cre4T3Tiv3/gitvoyant](https://github.com/Cre4T3Tiv3/gitvoyant) - Temporal Code Intelligence platform. Time-series complexity analysis across Python, JavaScript, Java, and Go. Linear regression trend detection, cyclomatic complexity tracking, confidence scoring, and
 - [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [astra0x/insightface](https://github.com/astra0x/insightface) - State-of-the-art 2D and 3D Face Analysis Project
@@ -12653,7 +12678,7 @@
 - [pinterest/mysql_utils](https://github.com/pinterest/mysql_utils) - Pinterest MySQL Management Tools
 - [pinterest/snappass](https://github.com/pinterest/snappass) - Share passwords securely
 - [pinterest/pymemcache](https://github.com/pinterest/pymemcache) - A comprehensive, fast, pure-Python memcached client.
-- [intel/auto-round](https://github.com/intel/auto-round) - SOTA rounding-based quantization for high-accuracy low-bit LLM inference, seamlessly optimized for CPU, Intel GPU, and CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and T
+- [intel/auto-round](https://github.com/intel/auto-round) - SOTA rounding-based quantization for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.
 - [intel/openvino-ai-plugins-gimp](https://github.com/intel/openvino-ai-plugins-gimp) - GIMP AI plugins with OpenVINO Backend
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 - [intel/ai-reference-models](https://github.com/intel/ai-reference-models) - Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs
@@ -12861,7 +12886,7 @@
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
-- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
+- [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language and Multi modal Systems Web User Interface
 - [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - [ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
@@ -13554,6 +13579,7 @@
 
 ## Rust 
 
+- [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [docuowl/owl-fts](https://github.com/docuowl/owl-fts) - 🦉 Docuowl full-text search parser
@@ -13584,7 +13610,7 @@
 - [sile/erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard written in Rust
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real-Time, Self-Learning, Vector GNN, Memory DB built in Rust.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
@@ -14132,7 +14158,7 @@
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
 - [AzurIce/ranim](https://github.com/AzurIce/ranim) - An animation engine implemented in rust, inspired by manim and JAnim
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render image, GIF or video from JSX-like syntax.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -14640,6 +14666,7 @@
 
 ## Shell 
 
+- [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [krishealty/venom-instagram-bruteforce](https://github.com/krishealty/venom-instagram-bruteforce) - Instagram bruteforce attack tool with 10,000,000 passwords, custom password attack and string attack. Fast cooldown helps to bypass instagram account more effectively.
 - [krishealty/tunnel-ADB](https://github.com/krishealty/tunnel-ADB) - Simple ADB toolkit to penetrate Android device using Android Debug Bridge with over 35 features.
@@ -15126,6 +15153,7 @@
 
 ## Svelte 
 
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [stophecom/scrt-link-v2](https://github.com/stophecom/scrt-link-v2) - Scrt.link lets you share sensitive information online: End-to-end encrypted. Ephemeral. Open source.
 - [AssistantNMS/WebComponents](https://github.com/AssistantNMS/WebComponents) - 🧩 A collection of components for you to use on your NMS projects 💖
 - [richshaw2015/dino-rss-electron](https://github.com/richshaw2015/dino-rss-electron) - A simple, efficient, open source RSS reader service
@@ -15177,6 +15205,7 @@
 
 ## Swift 
 
+- [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
 - [pock/pockkit](https://github.com/pock/pockkit) - Core framework for building Pock widgets
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [wigging/numerix](https://github.com/wigging/numerix) - Linear algebra and numerical computing with Swift.
@@ -15606,6 +15635,11 @@
 
 ## TypeScript 
 
+- [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+- [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - Translate text and entire notes in Obsidian
+- [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
@@ -16116,6 +16150,7 @@
 - [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [ashish10alex/vscode-ollama-chat](https://github.com/ashish10alex/vscode-ollama-chat) - Experimental extension to chat with models available to download from Ollama
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [splo/vscode-bevy-inspector](https://github.com/splo/vscode-bevy-inspector) - Bevy Inspector Visual Studio Code Extension
 - [nilfalse/ctf](https://github.com/nilfalse/ctf) - :checkered_flag: Capture The Flag is a browser extension. Inspect responses of websites you visit to see how data travels to you.
 - [shinshin86/use-mini18n](https://github.com/shinshin86/use-mini18n) - A simple and minimalistic React hook library for i18n.
@@ -16388,7 +16423,7 @@
 - [brklntmhwk/younagi.dev](https://github.com/brklntmhwk/younagi.dev) - Website of Nagi, by Nagi, and for nobody.
 - [playcanvas/react](https://github.com/playcanvas/react) - Build 3D apps with React
 - [playcanvas/splat-transform](https://github.com/playcanvas/splat-transform) - CLI tool for 3D Gaussian splat format conversion and transformation
-- [playcanvas/supersplat-viewer](https://github.com/playcanvas/supersplat-viewer) - A user-friendly viewer for 3D Gaussian splats
+- [playcanvas/supersplat-viewer](https://github.com/playcanvas/supersplat-viewer) - A user-friendly, high-performance viewer for 3D Gaussian splats
 - [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [justadudewhohacks/tfjs-tiny-yolov2](https://github.com/justadudewhohacks/tfjs-tiny-yolov2) - Tiny YOLO v2 object detection with tensorflow.js.
@@ -17210,6 +17245,7 @@
 - [Devographics/Monorepo](https://github.com/Devographics/Monorepo) - Monorepo containing the State of JS apps
 - [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui) - A collection of Sci-Fi themed components and futuristic design elements for modern web applications.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
 - [team-mirai/marumie](https://github.com/team-mirai/marumie) - 政治資金の流れを透明性を持って公開するプラットフォームです
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [MikeyA-yo/vaultanime](https://github.com/MikeyA-yo/vaultanime) - 
@@ -18958,6 +18994,11 @@
 ## XML 
 
 - [php/doc-ja](https://github.com/php/doc-ja) - Japanese translation of the PHP documentation
+
+## XQuery 
+
+- [eeditiones/jinks](https://github.com/eeditiones/jinks) - A new application generator for TEI Publisher
+- [eeditiones/tei-publisher-app](https://github.com/eeditiones/tei-publisher-app) - The main TEI Publisher app
 
 ## YAML 
 
