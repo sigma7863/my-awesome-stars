@@ -191,6 +191,7 @@
 - [Wolfram Language](#wolfram-language)
 - [XML](#xml)
 - [XQuery](#xquery)
+- [XSLT](#xslt)
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Yacc](#yacc)
@@ -1530,6 +1531,7 @@
 
 ## C++ 
 
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [Nightmare-Eclipse/UnDefend](https://github.com/Nightmare-Eclipse/UnDefend) - Repository hosting windows defender DOS tool
 - [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) - The Red Sun vulnerability repository
 - [fraunhoferhhi/vvdec](https://github.com/fraunhoferhhi/vvdec) - VVdeC, the Fraunhofer Versatile Video Decoder
@@ -2701,6 +2703,7 @@
 
 ## Clojure 
 
+- [kawasima/jagrid](https://github.com/kawasima/jagrid) - Japanese-styled grid framework.
 - [grammarly/perseverance](https://github.com/grammarly/perseverance) - Flexible retries library for Clojure
 - [funcool/buddy](https://github.com/funcool/buddy) - Security library for Clojure
 - [grammarly/omniconf](https://github.com/grammarly/omniconf) - Configuration library for Clojure that favors explicitness
@@ -2776,6 +2779,7 @@
 ## Cuda 
 
 - [k2-fsa/k2](https://github.com/k2-fsa/k2) - FSA/FST algorithms, differentiable, with PyTorch compatibility.
+- [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [JeffreyXiang/CuMesh](https://github.com/JeffreyXiang/CuMesh) - Cuda mesh utils.
 - [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - [ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
@@ -4357,7 +4361,6 @@
 - [ampproject/amp-by-example](https://github.com/ampproject/amp-by-example) - DEPRECATED: AMP by Example has been merged into amp.dev
 - [EinfachNurNico/Experimental-Websites](https://github.com/EinfachNurNico/Experimental-Websites) - The purpose of this repository is to organize all of my website ideas/templates.
 - [heygen-com/hyperframes-launch-video](https://github.com/heygen-com/hyperframes-launch-video) - 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [w3c/jlreq](https://github.com/w3c/jlreq) - Text Layout Requirements for Japanese
 - [w3c/i18n-activity](https://github.com/w3c/i18n-activity) - Home pages, charters, style-guides, and similar documents related to the W3C Internationalization Activity.
 - [w3c/i18n-drafts](https://github.com/w3c/i18n-drafts) - A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.
@@ -5076,6 +5079,7 @@
 
 ## Java 
 
+- [kawasima/raoh](https://github.com/kawasima/raoh) - Java decoder library for turning untyped boundary input into typed domain values
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
 - [nhkrd/hyconet4j](https://github.com/nhkrd/hyconet4j) - Hybridcast-Connect reference SDK For Java
 - [nhkrd/antwapp4hc](https://github.com/nhkrd/antwapp4hc) - Android Tv Websocket APPlication for Hybridcast-Connect : (Hybridcast-Connect Server Emulator)
@@ -5796,6 +5800,7 @@
 
 ## JavaScript 
 
+- [rotejin/MotionPNGTuber_Player](https://github.com/rotejin/MotionPNGTuber_Player) - Browser-based PNGTuber lipsync player - No Python required
 - [iritec/usage-menubar](https://github.com/iritec/usage-menubar) - macOS menubar app for Claude and Codex usage tracking
 - [iritec/Input_Tag](https://github.com/iritec/Input_Tag) - 自動補完でタグを選択入力できるjQueryプラグイン
 - [pipipi-dev/multi-platform-publisher](https://github.com/pipipi-dev/multi-platform-publisher) - Write once, publish everywhere - Automated article publishing to Zenn, Qiita, and Dev.to
@@ -6183,7 +6188,7 @@
 - [vuejs-id/docs](https://github.com/vuejs-id/docs) - 🇮🇩 Dokumentasi resmi Vue.js dalam Bahasa Indonesia, diterjemahkan oleh komunitas Vue.js Indonesia
 - [angular-indonesia/angular-indonesia.github.io](https://github.com/angular-indonesia/angular-indonesia.github.io) - Angular Indonesia Homepage
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
-- [veD-tnayrB/Starflix](https://github.com/veD-tnayrB/Starflix) - Starflix is a website that allows you to see advanced information about your favorite movies
+- [eynort/Starflix](https://github.com/eynort/Starflix) - Starflix is a website that allows you to see advanced information about your favorite movies
 - [masonliiu/south-park-view-counter](https://github.com/masonliiu/south-park-view-counter) - A Github profile view counter that is based off of South Park characters.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
@@ -9089,7 +9094,7 @@
 
 ## Move 
 
-- [buckybonez/evm-sui-nft-token-launchpad-smart-contract](https://github.com/buckybonez/evm-sui-nft-token-launchpad-smart-contract) - This is a EVM | SUI NFT & Token Launchpad Smart Contract
+- [0xagarg/evm-sui-nft-token-launchpad-smart-contract](https://github.com/0xagarg/evm-sui-nft-token-launchpad-smart-contract) - This is a EVM | SUI NFT & Token Launchpad Smart Contract
 
 ## Mustache 
 
@@ -10897,6 +10902,11 @@
 
 ## Python 
 
+- [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
+- [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
+- [openclaw/skills](https://github.com/openclaw/skills) - All versions of all skills that are on clawhub.com archived
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.
 - [haxibami/dotfiles](https://github.com/haxibami/dotfiles) - my environment
 - [shortdoom/gh-fake-analyzer](https://github.com/shortdoom/gh-fake-analyzer) - Dump github profile data for OSINT analysis
@@ -11404,7 +11414,7 @@
 - [europanite/rag_container_template](https://github.com/europanite/rag_container_template) - A Full-Stack RAG Container Template
 - [Kairatzh/TextGuardAI](https://github.com/Kairatzh/TextGuardAI) - TextGuard AI — сервис, который принимает текст и определяет класс токсичности сообщения (нейтральный / токсичный / ненависть / спам) с помощью собственной нейросети на PyTorch, обученной на простом TF
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 255 stars and 195 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 256 stars and 195 forks 🌟
 - [hiroharu-kato/neural_renderer](https://github.com/hiroharu-kato/neural_renderer) - "Neural 3D Mesh Renderer" (CVPR 2018) by H. Kato, Y. Ushiku, and T. Harada.
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -11867,7 +11877,7 @@
 - [Cre4T3Tiv3/gitvoyant](https://github.com/Cre4T3Tiv3/gitvoyant) - Temporal Code Intelligence platform. Time-series complexity analysis across Python, JavaScript, Java, and Go. Linear regression trend detection, cyclomatic complexity tracking, confidence scoring, and
 - [feldroy/air](https://github.com/feldroy/air) - The first web framework designed for AI to write. Built on Python, FastAPI, Pydantic, and HTMX. By the authors of Two Scoops of Django.
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
-- [astra0x/insightface](https://github.com/astra0x/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+- [radlogic15/insightface](https://github.com/radlogic15/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [ibragimov-owner/Vorislar_darslari](https://github.com/ibragimov-owner/Vorislar_darslari) - 
 - [corelan/mona](https://github.com/corelan/mona) - Corelan Repository for mona.py
 - [KN1053/neco-arc-GPT](https://github.com/KN1053/neco-arc-GPT) - Neco-Arc desktop pet with ChatGPT support
@@ -12121,7 +12131,7 @@
 - [cleanmind777/Kraken_test](https://github.com/cleanmind777/Kraken_test) - 
 - [tanzinabd23/fastapi](https://github.com/tanzinabd23/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [zjunlp/LightMem](https://github.com/zjunlp/LightMem) - [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
-- [TheM1ddleM1n/Learning-PythonV2](https://github.com/TheM1ddleM1n/Learning-PythonV2) - Yo guys I'm learning Python... I'll improve this for ya!
+- [TheM1ddleM1n/Learning-PythonV2](https://github.com/TheM1ddleM1n/Learning-PythonV2) - Henry's repo but improved!
 - [TheM1ddleM1n/PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3) - Upgraded version of V2 PythonPrograms! Lets make this popular :D
 - [goldstac/Lightweight-QA-Bot](https://github.com/goldstac/Lightweight-QA-Bot) - A lightweight, CPU-friendly chatbot that learns from your Q&A and responds in real-time.
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs.
@@ -14135,7 +14145,6 @@
 - [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 5
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [Zfinix/another](https://github.com/Zfinix/another) - A desktop app for mirroring and controlling Android devices over USB. Built with Tauri, React, and Rust.
-- [m0at/rvllm](https://github.com/m0at/rvllm) - rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [docuowl/owl-fts](https://github.com/docuowl/owl-fts) - 🦉 Docuowl full-text search parser
@@ -15228,6 +15237,8 @@
 
 ## Shell 
 
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [secretlint/git-hooks](https://github.com/secretlint/git-hooks) - Global git hooks integration example
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [heygen-com/skills](https://github.com/heygen-com/skills) - HeyGen AI agent skills — avatar creation and video production via the v3 Video Agent pipeline
@@ -15719,7 +15730,7 @@
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [base/contract-deployments](https://github.com/base/contract-deployments) - 
-- [buckybonez/EVM-Pumpfun-fourmeme-solidity-smart-contract](https://github.com/buckybonez/EVM-Pumpfun-fourmeme-solidity-smart-contract) - This is a EVM version of pumpfun smart contract so it has the exact same functionality to Solana pumpfun except for migrating to Uniswap rather than Raydium.
+- [0xagarg/EVM-Pumpfun-fourmeme-solidity-smart-contract](https://github.com/0xagarg/EVM-Pumpfun-fourmeme-solidity-smart-contract) - This is a EVM version of pumpfun smart contract so it has the exact same functionality to Solana pumpfun except for migrating to Uniswap rather than Raydium.
 - [veox/solidity-contracts](https://github.com/veox/solidity-contracts) - My Solidity contracts (simple ones that don't need a separate repo)
 - [eternauta1337/chicken](https://github.com/eternauta1337/chicken) - An Ethereum economic game designed to harvest greed and coerce it into a common good.
 - [dapphub/erc20](https://github.com/dapphub/erc20) - erc20 interface definition container package
@@ -16254,11 +16265,16 @@
 
 ## TypeScript 
 
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
+- [cline/kanban](https://github.com/cline/kanban) - Launch a local web app that runs CLI agents in parallel
 - [iritec/myloggy](https://github.com/iritec/myloggy) - Local-first work logging app powered by Electron, SQLite, and Ollama.
 - [secretlint/secretlint.github.io](https://github.com/secretlint/secretlint.github.io) - Secretint Demo Site. Online Checker
 - [secretlint/webextension](https://github.com/secretlint/webextension) - Detect secrets in your request/response using secretlint.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [molyashi/CharacterCounter](https://github.com/molyashi/CharacterCounter) - 文字数をカウントする利便性の高いソフトです。
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
 - [millionco/claude-doctor](https://github.com/millionco/claude-doctor) - Diagnose your Claude Code sessions
 - [memoreru/memoreru-cli](https://github.com/memoreru/memoreru-cli) - Memoreru CLI - sync local files with Memoreru
@@ -16393,7 +16409,7 @@
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - Translate text and entire notes in Obsidian
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,650+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
@@ -16886,7 +16902,7 @@
 - [ta-ku44/PromptLibrary](https://github.com/ta-ku44/PromptLibrary) - 
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [hiero-ledger/hiero-cli](https://github.com/hiero-ledger/hiero-cli) - Hiero command line tools for developers
-- [veD-tnayrB/administrator](https://github.com/veD-tnayrB/administrator) - Administror is a project with all the basic functionalities that an administrator should have, the idea is to use this as a template to release new administrators en masse ensuring the programmer only
+- [eynort/administrator](https://github.com/eynort/administrator) - Administror is a project with all the basic functionalities that an administrator should have, the idea is to use this as a template to release new administrators en masse ensuring the programmer only
 - [jircdev/reactive-model](https://github.com/jircdev/reactive-model) - TypeScript library designed to provide a reactive data layer for your application. By offering tools to create and manage reactive data structures, it enables developers to construct performant and sc
 - [Zipgune/MEMcash](https://github.com/Zipgune/MEMcash) - Privacy focused communication with memes
 - [neet/vscode-qiita](https://github.com/neet/vscode-qiita) - 🔍 Smart Qiita integration for Visual Studio Code
@@ -17756,8 +17772,8 @@
 - [HamiParsa/Art-The-Clown](https://github.com/HamiParsa/Art-The-Clown) - 
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [johansatge/obsidian-automatic-table-of-contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) - 💠 An Obsidian plugin to create a table of contents in a note, that updates itself when the note changes
-- [buckybonez/EVM-Solana-Prediction-Market](https://github.com/buckybonez/EVM-Solana-Prediction-Market) - Solana | EVM Prediction Market where users can create market, add liquidity, and bet, forking polymarket
-- [buckybonez/ai-chat-bot](https://github.com/buckybonez/ai-chat-bot) - 
+- [0xagarg/EVM-Solana-Prediction-Market](https://github.com/0xagarg/EVM-Solana-Prediction-Market) - Solana | EVM Prediction Market where users can create market, add liquidity, and bet, forking polymarket
+- [0xagarg/ai-chat-bot](https://github.com/0xagarg/ai-chat-bot) - 
 - [pavlohushuliak/my-influencer](https://github.com/pavlohushuliak/my-influencer) - A marketplace and matching system for UGC creators and brands, supporting project briefs, creator applications, content delivery, and performance tracking.
 - [pavlohushuliak/trainer](https://github.com/pavlohushuliak/trainer) - A digital platform offering professional online animal training services and resources with personalized guidance for pet owners.
 - [vercel/workflow-examples](https://github.com/vercel/workflow-examples) - Example projects and templates build using Workflow DevKit
@@ -19192,7 +19208,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [lerna-lite/lerna-lite](https://github.com/lerna-lite/lerna-lite) - Subset of Lerna in a smaller & more modular project. Help manage and publish multiple packages in a monorepo/workspace structure
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -19765,6 +19781,10 @@
 
 - [eeditiones/jinks](https://github.com/eeditiones/jinks) - A new application generator for TEI Publisher
 - [eeditiones/tei-publisher-app](https://github.com/eeditiones/tei-publisher-app) - The main TEI Publisher app
+
+## XSLT 
+
+- [exslt/exslt.github.io](https://github.com/exslt/exslt.github.io) - EXSLT website
 
 ## YAML 
 
