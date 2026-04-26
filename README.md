@@ -1571,7 +1571,7 @@
 - [lefmarna/NintendoSwitchControlLibrary](https://github.com/lefmarna/NintendoSwitchControlLibrary) - A library for microcontrollers that uses Arduino to automate Nintendo Switch games.
 - [interpretml/interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [vslavik/poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
+- [vslavik/poedit](https://github.com/vslavik/poedit) - Simple translation editor for PO, XLIFF, JSON etc. for Mac/Windows/Unix
 - [gbionics/idyntree](https://github.com/gbionics/idyntree) - Multibody Dynamics Library designed for Free Floating Robots
 - [dartsim/dart](https://github.com/dartsim/dart) - C++20 physics engine for robotics and animation with collision, constraints, and Python bindings
 - [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
@@ -6263,7 +6263,7 @@
 - [frewsxcv/graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 - [anvaka/ngraph.pixel](https://github.com/anvaka/ngraph.pixel) - Fast graph renderer based on low level ShaderMaterial from three.js
 - [fabiocolacio/Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
-- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [nilbuild/pennywise](https://github.com/nilbuild/pennywise) - Cross-platform application to open any website or media in a floating window
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [visjs/vis](https://github.com/visjs/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
@@ -8438,7 +8438,6 @@
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - 🚀 100+ mini-projects demonstrating the power of concise code. Perfect for learning, portfolio building, and first-time open source contributors. Under 100 lines each!
 - [kylepls/kylepls](https://github.com/kylepls/kylepls) - My profile overview repo.
 - [bicycle1885/Julia-Tutorial](https://github.com/bicycle1885/Julia-Tutorial) - 高速でJuliaを学ぶ入門チュートリアル
 - [SakanaAI/natural_niches](https://github.com/SakanaAI/natural_niches) - The code repository of the paper: Competition and Attraction Improve Model Fusion
@@ -9308,6 +9307,7 @@
 
 ## Others 
 
+- [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) - Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.
 - [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
 - [borpendy/DSpi](https://github.com/borpendy/DSpi) - Dual screen CM5 Gaming Handheld. Its a DS and pi. Depricated project, go see the 2nd version :)
 - [mdn/awesome](https://github.com/mdn/awesome) - A curated list of awesome projects powered by (and powering) MDN Web Docs
@@ -13666,6 +13666,7 @@
 - [balena-io/balena-sdk-python](https://github.com/balena-io/balena-sdk-python) - Balena SDK for Python
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [robotlearning123/awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym) - A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources
+- [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode) - 🚀 100+ mini-projects demonstrating the power of concise code. Perfect for learning, portfolio building, and first-time open source contributors. Under 100 lines each!
 - [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni) - VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [threedle/ll3m](https://github.com/threedle/ll3m) - LL3M writes Python code that generates 3D assets in Blender.
@@ -14377,7 +14378,6 @@
 - [sohosai/sos-backend](https://github.com/sohosai/sos-backend) - 雙峰祭オンラインシステム バックエンド
 - [model-checking/verify-rust-std](https://github.com/model-checking/verify-rust-std) - Verifying the Rust standard library
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
-- [miracle709/solana-market-maker-volume-bot](https://github.com/miracle709/solana-market-maker-volume-bot) - This project is solana marker maker & solana volume bot with a simple, non‑technical setup, it can generate wallets, distribute funds, auto buy/sell, manage Solana WSOL, and push Telegram alerts -a pr
 - [base/op-rbuilder](https://github.com/base/op-rbuilder) - 
 - [base/triedb](https://github.com/base/triedb) - 
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
@@ -14890,7 +14890,7 @@
 - [kazuki0824/recisdb-rs](https://github.com/kazuki0824/recisdb-rs) - recisdb-rs and b25-sys are more convenient Rust wrapper for libaribb25. recisdb can read both Unix character device-based and BonDriver-based TV sources.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [mongodb/bson-rust](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON in Rust
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Find, verify, and map the impact of leaked secrets across your stack. Revoke fast. 900+ rules.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Find, validate, and map the impact of leaked secrets across your stack. Revoke fast. 900+ rules.
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [phil-opp/shared_memory](https://github.com/phil-opp/shared_memory) - A Rust wrapper around native shared memory for Linux and Windows
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
@@ -16328,6 +16328,7 @@
 
 ## TypeScript 
 
+- [tukuyomil032/MC-Vector](https://github.com/tukuyomil032/MC-Vector) - A completely new server management software that lets you create and manage Minecraft servers all in one place.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [digital-go-jp/genai-web](https://github.com/digital-go-jp/genai-web) - 源内Web（AIインターフェース）
@@ -17056,8 +17057,6 @@
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 - [model-checking/kani-vscode-extension](https://github.com/model-checking/kani-vscode-extension) - Kani VSCode Extension
-- [miracle709/Pumpfun_Volulme_Bot_Telegram](https://github.com/miracle709/Pumpfun_Volulme_Bot_Telegram) - Solana PumpFun volume bot for Pump.fun tokens that uses the correct PumpSwapSDK and JITO bundles for accurate and efficient transaction processing.
-- [miracle709/Solana-Token-Creation-Platform](https://github.com/miracle709/Solana-Token-Creation-Platform) - Token 2022 Creation Platform. Demo: https://saio-platform.vercel.app This platform enables users create token on Solana with UI no requiring technical knowledges.
 - [SamuelOnyedikachi/MetaAPI-Integration](https://github.com/SamuelOnyedikachi/MetaAPI-Integration) - https://meta-api-pi.vercel.app/
 - [azurespheredev/Werewolf](https://github.com/azurespheredev/Werewolf) - Online multiplayer Werewolf game for 4~26 users to play around
 - [0x4m4/hexstrike-website](https://github.com/0x4m4/hexstrike-website) - 
@@ -18170,7 +18169,7 @@
 - [timhor/obsidian-editor-shortcuts](https://github.com/timhor/obsidian-editor-shortcuts) - Obsidian plugin to add keyboard shortcuts commonly found in code editors such as Visual Studio Code (vscode) or Sublime Text
 - [basyura/inkdrop-sidetoc](https://github.com/basyura/inkdrop-sidetoc) - inkdrop's side toc plugin
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [samuelrawrs/recent-tab-switcher](https://github.com/samuelrawrs/recent-tab-switcher) - Recent Tab Switcher Plugin for Obsidian.
 - [mvdkwast/obsidian-copy-as-html](https://github.com/mvdkwast/obsidian-copy-as-html) - Obsidian plugin: copy document as HTML, including images
 - [namikaze-40p/obsidian-tab-selector](https://github.com/namikaze-40p/obsidian-tab-selector) - This is an Obsidian plugin which can quickly switch tabs in various ways.
