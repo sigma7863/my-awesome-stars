@@ -565,6 +565,7 @@
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks and digital self defense
@@ -4714,7 +4715,7 @@
 - [ivanhoff/connect-four](https://github.com/ivanhoff/connect-four) - The classic Connect 4 game to play in the terminal.
 - [goodybag/bootstrap-notify](https://github.com/goodybag/bootstrap-notify) - Bootstrap alert system made better, builds off of bootstrap-alert.js
 - [bitcoin-dot-org/Bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org) - Bitcoin.org Website
-- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CR
+- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - CAUTION: END OF SUPPORT ON 3 JUN 2026. The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 pr
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [maraoz/dashboard-argentina](https://github.com/maraoz/dashboard-argentina) - 
@@ -5813,6 +5814,11 @@
 
 ## JavaScript 
 
+- [sweriko/smolglb](https://github.com/sweriko/smolglb) - web based GLB optimizer
+- [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
+- [takahirox/online-wgsl-editor](https://github.com/takahirox/online-wgsl-editor) - A tiny WGSL online editor
+- [takahirox/toho-like-js](https://github.com/takahirox/toho-like-js) - Touhou style danmaku shooter game which runs on your chrome.
+- [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 - [rohitg00/k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 - [rullerzhou-afk/memoria-chat](https://github.com/rullerzhou-afk/memoria-chat) - An open-source AI chat client with structured memory and persona engineering.
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
@@ -6285,7 +6291,7 @@
 - [googleworkspace/add-ons-samples](https://github.com/googleworkspace/add-ons-samples) - Sample Google Workspace Add-ons
 - [yymm/flask-vuejs](https://github.com/yymm/flask-vuejs) - Example & Tips, Flask with Vue.js.
 - [HeatBlock/HeatBlock](https://github.com/HeatBlock/HeatBlock) - Real Time Minecraft Server Status Checker
-- [KuronekoServer/image-convert-api](https://github.com/KuronekoServer/image-convert-api) - Webpに変換するサイト
+- [KuronekoServer/image-convert-api](https://github.com/KuronekoServer/image-convert-api) - Webpに変換するAPI
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome-like / Firefox plugin for wallabag v2.
 - [pablomarle/networkmaps](https://github.com/pablomarle/networkmaps) - Online network diagram editor
@@ -9307,6 +9313,7 @@
 
 ## Others 
 
+- [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines.
 - [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) - Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.
 - [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
 - [borpendy/DSpi](https://github.com/borpendy/DSpi) - Dual screen CM5 Gaming Handheld. Its a DS and pi. Depricated project, go see the 2nd version :)
@@ -10934,6 +10941,7 @@
 
 ## Python 
 
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
 - [brave/ocelot](https://github.com/brave/ocelot) - Dataset Collection, Training & Evaluation Code for Brave's Ocelot model
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -11460,7 +11468,7 @@
 - [europanite/rag_container_template](https://github.com/europanite/rag_container_template) - A Full-Stack RAG Container Template
 - [Kairatzh/TextGuardAI](https://github.com/Kairatzh/TextGuardAI) - TextGuard AI — сервис, который принимает текст и определяет класс токсичности сообщения (нейтральный / токсичный / ненависть / спам) с помощью собственной нейросети на PyTorch, обученной на простом TF
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 258 stars and 195 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 257 stars and 195 forks 🌟
 - [hiroharu-kato/neural_renderer](https://github.com/hiroharu-kato/neural_renderer) - "Neural 3D Mesh Renderer" (CVPR 2018) by H. Kato, Y. Ushiku, and T. Harada.
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -11608,7 +11616,7 @@
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [nwg-piotr/nwg-clipman](https://github.com/nwg-piotr/nwg-clipman) - nwg-shell clipboard manager - a GTK3-based GUI for cliphist
 - [nwg-piotr/nwg-icon-picker](https://github.com/nwg-piotr/nwg-icon-picker) - GTK icon chooser with a text search option
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway, Hyprland and Niri
 - [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper manager for wlroots-based compositors and some other WMs
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all
@@ -12223,7 +12231,7 @@
 - [wachawo/checkcrontab](https://github.com/wachawo/checkcrontab) - A Python script for checking syntax of crontab files.
 - [Youri666/Xtream-m3u_plus-IPTV-Player](https://github.com/Youri666/Xtream-m3u_plus-IPTV-Player) - This is a free open-source IPTV player that is able to load your IPTV playlist data and view them using external media players.
 - [rezazad68/BCDU-Net](https://github.com/rezazad68/BCDU-Net) - BCDU-Net : Medical Image Segmentation
-- [1minds3t/omnipkg](https://github.com/1minds3t/omnipkg) - Universal Python Runtime Orchestrator  - One environment. Infinite Pythons and packages. &lt;1ms zero-copy IPC. On @conda-forge and Docker.
+- [1minds3t/omnipkg](https://github.com/1minds3t/omnipkg) - Run infinite Python package & interpreter versions concurrently in one environment in milliseconds. On @conda-forge and Docker.
 - [eyyMinda/FarmerReplaced](https://github.com/eyyMinda/FarmerReplaced) - My functions created for 'The Farmer Was Replaced 1.0' game using python-like programming language.
 - [janbocloud/TheFarmerWasReplaced](https://github.com/janbocloud/TheFarmerWasReplaced) - 農業用ドローンを自動化するゲーム「The Farmer Was Replaced」の動画で使用するコード
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) - Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
@@ -13350,7 +13358,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -14155,6 +14163,11 @@
 
 ## Rust 
 
+- [takahirox/nes-rust](https://github.com/takahirox/nes-rust) - NES emulator written in Rust + WASM
+- [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
+- [ZippelLabs/ZP1](https://github.com/ZippelLabs/ZP1) - RISC-V prover system
+- [kirisaki/substrix](https://github.com/kirisaki/substrix) - A RISC-V unikernel written in Rust for bare-metal systems.
+- [lkjsxc/kjxlkj](https://github.com/lkjsxc/kjxlkj) - 
 - [withastro/oxc](https://github.com/withastro/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -14539,7 +14552,7 @@
 - [steph3nm/CD](https://github.com/steph3nm/CD) - Edge-Optimized Adaptive Caching with Origin Shielding for Intelligent Distributed Content Delivery across Enterprise Platforms.
 - [steph3nm/AssetOptimizer](https://github.com/steph3nm/AssetOptimizer) - Automated resource streamlining via intelligent data compression and decentralized analytics manager. with intelligent architecture
 - [JackVanta/Recloud](https://github.com/JackVanta/Recloud) - Cloud-agnostic, microservices-based RESTfulAPI, leveraging API-key authentication and auto-scaling for scalable, fault-tolerant, high-availability enterprise Platform.
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for vector embeddings and reranking.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
 - [reown-com/a2](https://github.com/reown-com/a2) - An Asynchronous Apple Push Notification (apns2) Client for Rust
 - [dwrensha/fuzz-rustc](https://github.com/dwrensha/fuzz-rustc) - setup for fuzzing the Rust compiler
 - [dwrensha/sandstorm-rawapi-example-rust](https://github.com/dwrensha/sandstorm-rawapi-example-rust) - Example Sandstorm app using only the raw Cap'n Proto API, written in Rust.
@@ -15825,6 +15838,7 @@
 
 ## Svelte 
 
+- [otoneko1102/justuuid](https://github.com/otoneko1102/justuuid) - Your permanent identity, one UUID at a time.
 - [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
 - [sveltejs/sites](https://github.com/sveltejs/sites) - 
 - [svelte-jp/svelte.dev](https://github.com/svelte-jp/svelte.dev) - The Svelte omnisite for Japanese
@@ -16060,7 +16074,6 @@
 - [giginet/Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Route URL schemes easily
 - [Kotlin/swift-export-sample](https://github.com/Kotlin/swift-export-sample) - Kotlin to Swift technology preview
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [kitasuke/Cardio](https://github.com/kitasuke/Cardio) - Simple HealthKit wrapper for workout in watchOS 2
 - [milk-cocoa/milkcocoa-swift-sdk](https://github.com/milk-cocoa/milkcocoa-swift-sdk) - Milkcocoa swift SDK.
@@ -16328,6 +16341,9 @@
 
 ## TypeScript 
 
+- [sweriko/weltenbauer](https://github.com/sweriko/weltenbauer) - web based terrain editor
+- [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
+- [sweriko/ai4anim-webgpu](https://github.com/sweriko/ai4anim-webgpu) - 
 - [tukuyomil032/MC-Vector](https://github.com/tukuyomil032/MC-Vector) - A completely new server management software that lets you create and manage Minecraft servers all in one place.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
@@ -16520,7 +16536,7 @@
 - [dojo/cli](https://github.com/dojo/cli) - :rocket: Dojo - command line tooling.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [timescale/tiger-eon](https://github.com/timescale/tiger-eon) - An LLM-powered Slack bot for your internal knowledge, powered by tiger-agents-for-work libraries.
-- [smartcontract1111/solana-mint-token](https://github.com/smartcontract1111/solana-mint-token) - opensource.solana.net is an open-source tool to mint Solana tokens instantly, simple for beginners and powerful for developers.
+- [suliman-al-tech/solana-mint-token](https://github.com/suliman-al-tech/solana-mint-token) - opensource.solana.net is an open-source tool to mint Solana tokens instantly, simple for beginners and powerful for developers.
 - [elenalape/chef-ai](https://github.com/elenalape/chef-ai) - OpenAI recipe generator webapp built with ChatGPT API, Next.js, Tailwind CSS.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [squarestack/github-invite](https://github.com/squarestack/github-invite) - 😍 Join our Github organization in a few clicks
