@@ -404,7 +404,6 @@
 
 ## Bicep 
 
-- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [radius-project/bicep](https://github.com/radius-project/bicep) - Temporary fork of azure/bicep while Bicep extensibility gets built out
 - [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) - This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/doc
 - [Azure/bicep](https://github.com/Azure/bicep) - Bicep is a declarative language for describing and deploying Azure resources
@@ -1041,7 +1040,7 @@
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [TeraTermProject/teraterm](https://github.com/TeraTermProject/teraterm) - 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -2985,7 +2984,6 @@
 - [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch) - A ready-to-game Arch Linux based OCI designed for use exclusively in distrobox.
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [Perl/docker-perl](https://github.com/Perl/docker-perl) - Dockerfiles for index.docker.io (official Perl Docker image)
-- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [gezp/docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop) - Docker Image for Ubuntu Desktop which support HW GPU accelerated GUI apps. you can access the Container with ssh or remote desktop,  just like Cloud VM.
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
@@ -3229,6 +3227,7 @@
 
 ## Go 
 
+- [Swival/security-audits](https://github.com/Swival/security-audits) - Reports from automated security audits made by Swival.
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - Embed gRPC, use xDS, build inherent mesh.
 - [basecamp/basecamp-cli](https://github.com/basecamp/basecamp-cli) - Basecamp CLI and Agent Skills
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service)
@@ -4986,6 +4985,7 @@
 - [liferay/alloyui.com](https://github.com/liferay/alloyui.com) - Website for AlloyUI
 - [varnish/Varnish-Book](https://github.com/varnish/Varnish-Book) - Varnish Tutorial and training material
 - [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [EQ-bench/eqbench3](https://github.com/EQ-bench/eqbench3) - 
 - [arscan/pleaserotate.js](https://github.com/arscan/pleaserotate.js) - 🔄 Politely ask your users to view your mobile website in portrait or landscape mode
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -9313,6 +9313,7 @@
 
 ## Others 
 
+- [gamesir-labs/gamehub-for-mac](https://github.com/gamesir-labs/gamehub-for-mac) - Issue tracking for the GameHub for Mac beta client （https://gamemac.com）
 - [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines.
 - [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) - Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.
 - [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
@@ -9790,6 +9791,7 @@
 - [lyngfin/Mint-opensea](https://github.com/lyngfin/Mint-opensea) - mint nft on opensea
 - [lyngfin/Pikolobase](https://github.com/lyngfin/Pikolobase) - 
 - [EstebanGrp/PixelVortex_Launcher](https://github.com/EstebanGrp/PixelVortex_Launcher) - Un launcher para miniblox.io
+- [radioman/pocket-option](https://github.com/radioman/pocket-option) - pocket option
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [LogRocket/logrocket](https://github.com/LogRocket/logrocket) - :rocket: Record and replay user sessions to fix bugs faster.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
@@ -10422,7 +10424,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [oppiliappan/curie](https://github.com/oppiliappan/curie) - An upscaled version of scientifica.
 - [donkuri/kaishi](https://github.com/donkuri/kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -10460,7 +10462,7 @@
 - [mdn/mdn-community](https://github.com/mdn/mdn-community) - A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn](https://github.com/mdn/mdn) - Planning and proposals for MDN Web Docs content
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [nodejs/help](https://github.com/nodejs/help) - :sparkles: Need help with Node.js? File an Issue here. :rocket:
 - [OpenSource-Communities/guestbook](https://github.com/OpenSource-Communities/guestbook) - The place where future contributors are born
@@ -10591,7 +10593,7 @@
 - [koraktor/steam-condenser-php](https://github.com/koraktor/steam-condenser-php) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
 - [patrikf/glip](https://github.com/patrikf/glip) - git library in PHP
 - [jacwright/RestServer](https://github.com/jacwright/RestServer) - A PHP REST server for providing a very light-weight REST API.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [eleonora2687/pokemon](https://github.com/eleonora2687/pokemon) - 
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [scribu/wp-posts-to-posts](https://github.com/scribu/wp-posts-to-posts) - Efficient many-to-many connections between posts, pages, custom post types, users.
@@ -10876,6 +10878,7 @@
 ## PowerShell 
 
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
+- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [SpecterShell/Dumplings](https://github.com/SpecterShell/Dumplings) - Dump remote resources and lint outdated packages
 - [ctrlaltint3l/intelligence](https://github.com/ctrlaltint3l/intelligence) - Malware, tooling, logs, IOCs and intelligence
 - [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262) - GOG Galaxy LPE Exploit
@@ -11936,7 +11939,7 @@
 - [KN1053/neco-arc-GPT](https://github.com/KN1053/neco-arc-GPT) - Neco-Arc desktop pet with ChatGPT support
 - [Shirros/desktop-pet](https://github.com/Shirros/desktop-pet) - Desktop pet using Python with chatGPT support
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010) - 🐍 Python Exploit for CVE-2021-45010
-- [xPloits3c/DorkEye](https://github.com/xPloits3c/DorkEye) - Automated Google Dorking Tool. Generates and runs advanced search queries for exposed files. It also tests SQLi, Analyzes and extracts metadata
+- [xPloits3c/DorkEye](https://github.com/xPloits3c/DorkEye) - Automated Google Dorking Tool. Generates and runs advanced search queries for exposed files. It also test Vulns, Analyzes and extracts metadata
 - [570RMBR3AK3R/xwiki-cve-2025-24893-poc](https://github.com/570RMBR3AK3R/xwiki-cve-2025-24893-poc) - PoC for CVE-2025-24893
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [Nullbyte0x/Ropdump](https://github.com/Nullbyte0x/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
@@ -13112,7 +13115,7 @@
 - [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [chainfeeds/RSSAggregatorforWeb3](https://github.com/chainfeeds/RSSAggregatorforWeb3) - Bootstrapping your personal Web3 info hub from more than 600 RSS Feeds.
 - [toio/toio.py](https://github.com/toio/toio.py) - 
-- [elastic/ecs](https://github.com/elastic/ecs) - Elastic Common Schema
+- [elastic/ecs](https://github.com/elastic/ecs) - 
 - [armbian/documentation](https://github.com/armbian/documentation) - The central source of truth for Armbian user guides, developer documentation, and technical manuals. This repository provides the markdown source for the official Armbian website and wiki, helping use
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [beetbox/mediafile](https://github.com/beetbox/mediafile) - elegant audio file tagging
@@ -14202,7 +14205,7 @@
 - [tmandry/glide](https://github.com/tmandry/glide) - A tiling window manager for macOS
 - [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library) - A collection of Solana programs maintained by Solana Labs
 - [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Program Framework
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and orde
 - [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -15894,7 +15897,7 @@
 
 ## Swift 
 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
 - [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 - [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) - 
 - [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
@@ -16341,6 +16344,9 @@
 
 ## TypeScript 
 
+- [nico-martin/gemma4-browser-extension](https://github.com/nico-martin/gemma4-browser-extension) - On-device AI agent Chrome extension powered by Transformers.js and Gemma 4
+- [microsoft/pxt-maker](https://github.com/microsoft/pxt-maker) - MakeCode target for "Maker" boards (beta)
+- [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
 - [sweriko/weltenbauer](https://github.com/sweriko/weltenbauer) - web based terrain editor
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [sweriko/ai4anim-webgpu](https://github.com/sweriko/ai4anim-webgpu) - 
@@ -16931,7 +16937,7 @@
 - [mathisjs/simple-portfolio](https://github.com/mathisjs/simple-portfolio) - A basic portfolio built in nextjs typescript
 - [europanite/client_side_python](https://github.com/europanite/client_side_python) - A Browser-Based Python Playground for Free.
 - [europanite/client_side_ai_training_environment](https://github.com/europanite/client_side_ai_training_environment) - A Browser-Based Image AI Transfer Learning Playground.
-- [europanite/client_side_time_series_forecast](https://github.com/europanite/client_side_time_series_forecast) - A Browser-Based Multivariate Time-Series Forecast Playground Powered by XGBoost.
+- [europanite/client_side_time_series_forecast](https://github.com/europanite/client_side_time_series_forecast) - A Browser-Based Multivariate Time-Series Forecast Playground Powered by XGBoost and VARMA.
 - [europanite/client_side_audio_transcription](https://github.com/europanite/client_side_audio_transcription) - A Browser-Based AI Audio Transcription Playground Powered by Whisper.
 - [jinjor/whiteboard](https://github.com/jinjor/whiteboard) - An implementation of online whiteboard
 - [jinjor/kaleidoshare](https://github.com/jinjor/kaleidoshare) - Let's create and share kaleidoscopes on the web.
@@ -18574,7 +18580,7 @@
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [lit/lit-element](https://github.com/lit/lit-element) - LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.
 - [lit/lit.dev](https://github.com/lit/lit.dev) - The Lit website
 - [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
