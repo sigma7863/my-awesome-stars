@@ -364,7 +364,7 @@
 - [sanity-io/sanity-template-astro-clean](https://github.com/sanity-io/sanity-template-astro-clean) - Clean starter template with Astro
 - [withastro/blog-tutorial-demo](https://github.com/withastro/blog-tutorial-demo) - 
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro
-- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 5+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 6+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
 - [NOPLAB/noplab.github.io](https://github.com/NOPLAB/noplab.github.io) - 
 - [sho1374k/dev-sample](https://github.com/sho1374k/dev-sample) - Development sample of web production.
@@ -5357,7 +5357,7 @@
 - [mynameisSergey/BankApp](https://github.com/mynameisSergey/BankApp) - Java 21, Spring (Boot, MVC, OAuth2, Security, AOP, Actuator, JPA), Lombok, JUnit, Maven, Helm, Jenkins, Kubernetes, Thymeleaf, PostgreSQL, Keycloak, Docker, Nginx, Zipkin, Prometheus с алертами, Grafa
 - [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows older clients to connect to newer server versions for Minecraft servers.
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - ViaVersion addon to allow 1.8.x and 1.7.x clients on newer server versions.
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Minecraft Fabric mod that allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) - Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
 - [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric) - Client-side and server-side ViaVersion implementation for Fabric
 - [KunMinX/VIABUS-Architecture](https://github.com/KunMinX/VIABUS-Architecture) - 让 Android 开发可以像流水线一样高效的 “职责分离架构” ⚡ 不同于 MVP 的配置解耦，也非 MVVM-Clean，VIABUS 是世界范围内首个明确提出 “通过职责分离” 真正实现 UI 和业务并行开发的 Android 业务架构和设计模式理念。
@@ -6045,9 +6045,9 @@
 - [dataxwalker/GasOptimizer](https://github.com/dataxwalker/GasOptimizer) - Cloud-enabled, AI-infused predictive modeling for data-driven energy efficiency, delivering efficient, real-time insights to the GasOptimizerPlatform.
 - [dataxwalker/FoundryChain](https://github.com/dataxwalker/FoundryChain) - Cloud-agnostic FoundryChain orchestrator enables highly-parallelizable, self-healing, event-driven processing with adaptive workload manager.
 - [dataxwalker/PrivacyShield](https://github.com/dataxwalker/PrivacyShield) - Synthetic Risk Governance Engine utilizing advanced data encryption and real-time threat mitigation orchestration infrastructure.
-- [Mark-1176/RoyaltideLab](https://github.com/Mark-1176/RoyaltideLab) - Hyper-converged, real-time data analytics platform leveraging Google Cloud AI services for scalable enterprise infrastructure.
-- [Mark-1176/ApexVault](https://github.com/Mark-1176/ApexVault) - Real-Time, AI-Infused, Cyber-Secure Data Orchestration Platform for Intelligent, Scalable, and Adaptive Enterprise Data Exchange Gateway.
-- [Mark-1176/TradeForge](https://github.com/Mark-1176/TradeForge) - Autonomous Enterprise Risk Navigator powered by predictive analytics and modular, adaptive TradeForge CoreIntegrate.
+- [KeatonInglis/RoyaltideLab](https://github.com/KeatonInglis/RoyaltideLab) - Hyper-converged, real-time data analytics platform leveraging Google Cloud AI services for scalable enterprise infrastructure.
+- [KeatonInglis/ApexVault](https://github.com/KeatonInglis/ApexVault) - Real-Time, AI-Infused, Cyber-Secure Data Orchestration Platform for Intelligent, Scalable, and Adaptive Enterprise Data Exchange Gateway.
+- [KeatonInglis/TradeForge](https://github.com/KeatonInglis/TradeForge) - Autonomous Enterprise Risk Navigator powered by predictive analytics and modular, adaptive TradeForge CoreIntegrate.
 - [sachanayush47/Email-Phone-Verification-ReactJS-NodeJS](https://github.com/sachanayush47/Email-Phone-Verification-ReactJS-NodeJS) - A webapp that verifies email address and phone number
 - [madhavgadge01/krino](https://github.com/madhavgadge01/krino) - 
 - [madhavgadge01/megaProject](https://github.com/madhavgadge01/megaProject) - this project only for practice
@@ -10967,6 +10967,7 @@
 
 ## Python 
 
+- [microsoft-foundry/discussions](https://github.com/microsoft-foundry/discussions) - 
 - [goozebump86/KokoOS](https://github.com/goozebump86/KokoOS) - KokoCode is an Agentioc OpenAI (but tailored for localQwen) harness with a variety of useful tools
 - [fedi-libs/apmodel](https://github.com/fedi-libs/apmodel) - ActivityStreams 2.0 and nodeinfo 2.0/2.1 implementation for Python.
 - [fedi-libs/apkit](https://github.com/fedi-libs/apkit) - Powerful Toolkit for ActivityPub Implementations.
@@ -11170,6 +11171,7 @@
 - [GalaxyGeneralRobotics/LATENT](https://github.com/GalaxyGeneralRobotics/LATENT) - Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data
 - [kotoba-tech/kotoba-whisper](https://github.com/kotoba-tech/kotoba-whisper) - 
 - [THU-SI/Spatial-TTT](https://github.com/THU-SI/Spatial-TTT) - Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [shinybrightstar/advanced-copilot](https://github.com/shinybrightstar/advanced-copilot) - 
 - [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate) - OpenAI & Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
@@ -11830,13 +11832,12 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
-- [shinkuan/Akagi](https://github.com/shinkuan/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggesti
 - [peefpee/discord-member-backup-bot](https://github.com/peefpee/discord-member-backup-bot) - Want to Backup your Discord members incase of a server termination , With Its own site that includes hcaptcha to prevent bots
 - [Saebasol/Heliotrope](https://github.com/Saebasol/Heliotrope) - Hitomi.la metadata REST API (mirror)
 - [nakamura196/portal_pro](https://github.com/nakamura196/portal_pro) - 東京大学学術資産等アーカイブズポータルの活用例です。
 - [nakamura196/iiif](https://github.com/nakamura196/iiif) - IIIF Discovery in Japan
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Spec-driven development for large codebases
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - The memory for your AI Agents in 6 lines of code
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [w3c/feedvalidator](https://github.com/w3c/feedvalidator) - W3C-customized version of the feedvalidator (forked from https://github.com/rubys/feedvalidator/)
 - [TypeQuicker/character_sequence](https://github.com/TypeQuicker/character_sequence) - 
@@ -12186,7 +12187,7 @@
 - [Cartmanishere/zippyshare-scraper](https://github.com/Cartmanishere/zippyshare-scraper) - A module to get direct downloadable links from zippyshare download page.
 - [MoveAngel/One4uBot](https://github.com/MoveAngel/One4uBot) - Telegram Userbot Project to helping your Telegram experience based on PaperplaneExtended - Our Support https://t.me/userbotindo,
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (images, PDF, EPUB, CBR, CBZ).
+- [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate) - AI comic and manga translator app for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).
 - [NorthDice/AgentCLI](https://github.com/NorthDice/AgentCLI) - 
 - [Yasher201/Bluetooth-DOS-Attack](https://github.com/Yasher201/Bluetooth-DOS-Attack) - Bluetooth DOS Attack Script for Educational Purposes. Used in School Project
 - [anasrar/Blender-UE4-Workspace](https://github.com/anasrar/Blender-UE4-Workspace) - Blender add-on for better workflow with unreal engine 4
@@ -12891,7 +12892,7 @@
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) - A hackable shell for Hyprland, powered by Fabric.
 - [dongweiming/web_develop](https://github.com/dongweiming/web_develop) - 《Python Web开发实战》书中源码
 - [ArcadeAI/arcade-py](https://github.com/ArcadeAI/arcade-py) - Official Arcade Python Client
-- [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - The best way to create, deploy, and share MCP Servers
+- [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - MCP Server Framework and Tool Development library for building custom capabilities into agents.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [tilde-research/activault](https://github.com/tilde-research/activault) - Engine for collecting, uploading, and downloading model activations
 - [tilde-research/momoe-release](https://github.com/tilde-research/momoe-release) - Memory optimized Mixture of Experts
@@ -13546,7 +13547,7 @@
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [drkostas/Youtube-FirstCommentBot](https://github.com/drkostas/Youtube-FirstCommentBot) - A bot that post the first comment on every new video of specified channels.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -14192,7 +14193,7 @@
 ## Rust 
 
 - [dev-Kanade/Library-System](https://github.com/dev-Kanade/Library-System) - 図書システムです。
-- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator that supports inline 3D graphics 🐀🧀
 - [takahirox/nes-rust](https://github.com/takahirox/nes-rust) - NES emulator written in Rust + WASM
 - [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
 - [ZippelLabs/ZP1](https://github.com/ZippelLabs/ZP1) - RISC-V prover system
@@ -14295,14 +14296,14 @@
 - [Light00Side/PolkadotBridge](https://github.com/Light00Side/PolkadotBridge) - Autonomous Cross-Chain Data Convergence Engine: Real-time Synchronization Relay featuring Risk management and mitigation capabilities with Scalable architecture
 - [dataxwalker/TestnetFaucet](https://github.com/dataxwalker/TestnetFaucet) - Optimizing Real-time Transaction Processing, High-Performance Caching, and Fault-Tolerant Architectures TestnetFaucet projects: Expedited, Resilient, Optimized, Secure, Efficient, and Scalable.
 - [dataxwalker/SignatureVerify](https://github.com/dataxwalker/SignatureVerify) - Digital Transaction Authenticator leveraging Machine-Learning-Powered Real-Time Processing for Scalable Distributed Signature Verification.
-- [Mark-1176/Memepit-v1](https://github.com/Mark-1176/Memepit-v1) - Memepit is where Kalshi meets the internet. It’s a dedicated section for fast, fun, and highly speculative prediction markets on memes, trending topics, social media, and pop culture
-- [Mark-1176/EchoVault](https://github.com/Mark-1176/EchoVault) - Transformative, self-healing EchoVault orchestrates real-time data harmonization with adaptive resilience across ApexInfrastructure.
-- [Mark-1176/LumenMatch](https://github.com/Mark-1176/LumenMatch) - Holistic omnichannel intelligence hub leveraging predictive event-driven architecture for intelligent, scalable, and distributed analytics.
-- [Mark-1176/RegentXJ77](https://github.com/Mark-1176/RegentXJ77) - Hyper-convergent stream-processing framework for real-time analytics, leveraging distributed caching for scalable intelligent orchestration.
-- [Mark-1176/FluxBroker](https://github.com/Mark-1176/FluxBroker) - Dynamic event-driven architectures seamlessly orchestrate scalable, intelligent, and adaptive microservices through FluxBroker, a distributed orchestration hub.
-- [Mark-1176/WalletConnect](https://github.com/Mark-1176/WalletConnect) - Decentralized peer-to-peer transaction facilitation via secure, interoperable, and scalable wallet ecosystem suite.
-- [Mark-1176/CoinRelay](https://github.com/Mark-1176/CoinRelay) - Scalable, self-healing CoinRelay clusters optimize high-performance order processing with response times at the nexus of every transaction Core.
-- [Mark-1176/SwapNexus](https://github.com/Mark-1176/SwapNexus) - High-performance, dynamic infrastructure orchestration enables adaptive load balancing and auto-scaling through AI-driven optimization Management Framework.
+- [KeatonInglis/Memepit-v1](https://github.com/KeatonInglis/Memepit-v1) - Memepit is where Kalshi meets the internet. It’s a dedicated section for fast, fun, and highly speculative prediction markets on memes, trending topics, social media, and pop culture
+- [KeatonInglis/EchoVault](https://github.com/KeatonInglis/EchoVault) - Transformative, self-healing EchoVault orchestrates real-time data harmonization with adaptive resilience across ApexInfrastructure.
+- [KeatonInglis/LumenMatch](https://github.com/KeatonInglis/LumenMatch) - Holistic omnichannel intelligence hub leveraging predictive event-driven architecture for intelligent, scalable, and distributed analytics.
+- [KeatonInglis/RegentXJ77](https://github.com/KeatonInglis/RegentXJ77) - Hyper-convergent stream-processing framework for real-time analytics, leveraging distributed caching for scalable intelligent orchestration.
+- [KeatonInglis/FluxBroker](https://github.com/KeatonInglis/FluxBroker) - Dynamic event-driven architectures seamlessly orchestrate scalable, intelligent, and adaptive microservices through FluxBroker, a distributed orchestration hub.
+- [KeatonInglis/WalletConnect](https://github.com/KeatonInglis/WalletConnect) - Decentralized peer-to-peer transaction facilitation via secure, interoperable, and scalable wallet ecosystem suite.
+- [KeatonInglis/CoinRelay](https://github.com/KeatonInglis/CoinRelay) - Scalable, self-healing CoinRelay clusters optimize high-performance order processing with response times at the nexus of every transaction Core.
+- [KeatonInglis/SwapNexus](https://github.com/KeatonInglis/SwapNexus) - High-performance, dynamic infrastructure orchestration enables adaptive load balancing and auto-scaling through AI-driven optimization Management Framework.
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [James-k007/chronos_track](https://github.com/James-k007/chronos_track) - 🕰️ Measure clock skew in real-time to identify devices with Chronos-Track's advanced fingerprinting engine, ensuring accurate device recognition and security.
@@ -14488,6 +14489,7 @@
 - [UnlimitedHugs/MazeWalk](https://github.com/UnlimitedHugs/MazeWalk) - Interactive first-person 3D demo
 - [sevenc-nanashi/aviutl2-rs](https://github.com/sevenc-nanashi/aviutl2-rs) - AviUtl2 SDKのRust版。
 - [Kicky1618/AtCoder-Notify-Bot-Rust](https://github.com/Kicky1618/AtCoder-Notify-Bot-Rust) - 
+- [shinkuan/Akagi](https://github.com/shinkuan/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggesti
 - [Roblox/studio-rust-mcp-server](https://github.com/Roblox/studio-rust-mcp-server) - Standalone Roblox Studio MCP Server
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [Zian25/pawb](https://github.com/Zian25/pawb) - A blazing fast secret-hunting tool for bug bounty hunters and security enthusiasts.
@@ -16389,7 +16391,7 @@
 - [sweriko/weltenbauer](https://github.com/sweriko/weltenbauer) - web based terrain editor
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [sweriko/ai4anim-webgpu](https://github.com/sweriko/ai4anim-webgpu) - 
-- [tukuyomil032/MC-Vector](https://github.com/tukuyomil032/MC-Vector) - A completely new server management software that lets you create and manage Minecraft servers all in one place.
+- [tukuyomil032/MC-Vector](https://github.com/tukuyomil032/MC-Vector) - A comprehensive Minecraft server management app built with Tauri, featuring a wide range of functions such as server creation, plugin installation, file editing, and automatic backups.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [digital-go-jp/genai-web](https://github.com/digital-go-jp/genai-web) - 源内Web（AIインターフェース）
@@ -16423,7 +16425,7 @@
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [cameronapak/freedom-stack-v3](https://github.com/cameronapak/freedom-stack-v3) - A no-build, un-bloated stack built upon Web Standards that feels freeing to use and can be deployed anywhere.
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [harvouscom/heresmychurch](https://github.com/harvouscom/heresmychurch) - An interactive, crowd-sourced map of Christian churches in the U.S.
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
@@ -16667,7 +16669,6 @@
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) - An Obsidian.md plugin that syncs highlights from Raindrop.
 - [dsebastien/obsidian-life-tracker-base-view](https://github.com/dsebastien/obsidian-life-tracker-base-view) - Capture and visualize the data that matters in your life
-- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [CharHubAI/stage-template](https://github.com/CharHubAI/stage-template) - A template repository for stages.
 - [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [inabagumi/shinju-date](https://github.com/inabagumi/shinju-date) - 「SHINJU DATE」はななしいんくに所属するタレントがYouTubeで配信や投稿した動画を検索できるウェブサービスです。
@@ -18356,7 +18357,7 @@
 - [Werhww/Litematic-reader](https://github.com/Werhww/Litematic-reader) - 
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [Kira-NT/mc-publish](https://github.com/Kira-NT/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
+- [Kira-NT/mc-publish](https://github.com/Kira-NT/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
