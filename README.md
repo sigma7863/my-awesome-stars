@@ -180,6 +180,7 @@
 - [VCL](#vcl)
 - [VHDL](#vhdl)
 - [Vala](#vala)
+- [Vento](#vento)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
@@ -2741,7 +2742,7 @@
 
 ## CoffeeScript 
 
-- [otoneko1102/coffeescript-milkee](https://github.com/otoneko1102/coffeescript-milkee) - A simple CoffeeScript build tool with coffee.config.cjs ☕
+- [otnc/coffeescript-milkee](https://github.com/otnc/coffeescript-milkee) - A simple CoffeeScript build tool with coffee.config.cjs ☕
 - [huafu/hubot-gitter2](https://github.com/huafu/hubot-gitter2) - Hubot adapter for Gitter
 - [uhyo/jinrou](https://github.com/uhyo/jinrou) - Are you a werewolf?
 - [davidagraf/passwd](https://github.com/davidagraf/passwd) - Passwordmanager built with Meteor
@@ -3239,6 +3240,7 @@
 
 ## Go 
 
+- [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 - [boyvinall/dirtygit](https://github.com/boyvinall/dirtygit) - Finds git repos in need of commitment
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [watany-dev/gitreal](https://github.com/watany-dev/gitreal) - 
@@ -4384,6 +4386,7 @@
 
 ## HTML 
 
+- [iskwmsy/dim](https://github.com/iskwmsy/dim) - dim / 3D Application based on SVG for graphic designers
 - [vividvilla/ezhil](https://github.com/vividvilla/ezhil) - Clean and minimal personal blog theme for Hugo
 - [XXXMrG/archie-zola](https://github.com/XXXMrG/archie-zola) - A zola theme forked from https://github.com/athul/archie
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps that you can just copy and paste into any project.
@@ -4693,7 +4696,6 @@
 - [lacrm29/Python-Website](https://github.com/lacrm29/Python-Website) - A website using python for project
 - [evcc-io/evcc.io](https://github.com/evcc-io/evcc.io) - evcc website
 - [jasonbegy/github-slideshow](https://github.com/jasonbegy/github-slideshow) - A robot powered training repository :robot:
-- [goldstac/SyntheraQr](https://github.com/goldstac/SyntheraQr) - © 2025 SyntheraQr. All rights reserved.
 - [goldstac/text-particle-animation](https://github.com/goldstac/text-particle-animation) - Interactive particle text animation — do whatever you want with it 😎
 - [xpadev-net/niwango-live-loader](https://github.com/xpadev-net/niwango-live-loader) - 
 - [codemirror/website](https://github.com/codemirror/website) - 
@@ -5278,7 +5280,7 @@
 - [tatt61880/JuggleMasterJava](https://github.com/tatt61880/JuggleMasterJava) - JuggleMaster Java
 - [koraktor/steam-condenser-java](https://github.com/koraktor/steam-condenser-java) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
 - [yiotro/Antiyoy](https://github.com/yiotro/Antiyoy) - A source code of android game called 'antiyoy'.
-- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [iPlayForSG/CVE-2023-51444](https://github.com/iPlayForSG/CVE-2023-51444) - 
 - [tHeFoX-sys/Family_guy_animation](https://github.com/tHeFoX-sys/Family_guy_animation) - The whole family guy family in a GUI. Animated and of course being a fan of the series I expect to have someday a good ending. It's been almost three decades since the series has been running!!!
 - [projava17/examples](https://github.com/projava17/examples) - 
@@ -5834,9 +5836,11 @@
 
 ## JavaScript 
 
+- [iskwmsy/svg2step](https://github.com/iskwmsy/svg2step) - convert svg from clipboard to .step
+- [pixel-point/fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS
 - [mykolaharmash/hyntax](https://github.com/mykolaharmash/hyntax) - Straightforward HTML parser for JavaScript
 - [hawkymisc/mdview](https://github.com/hawkymisc/mdview) - Terminal-launched, browser-rendered Markdown viewer for Linux (mo/arto alternative)
-- [thcp/stemdeck](https://github.com/thcp/stemdeck) - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio wor
+- [thcp/stemdeck](https://github.com/thcp/stemdeck) - Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflo
 - [noimzip/Soul-Widgets-Manager](https://github.com/noimzip/Soul-Widgets-Manager) - 
 - [supechicken/ChromeOS-Desktop](https://github.com/supechicken/ChromeOS-Desktop) - 
 - [supechicken/ChromeOS-AutoStart](https://github.com/supechicken/ChromeOS-AutoStart) - An extension for running Linux commands at ChromeOS startup.
@@ -7306,7 +7310,6 @@
 - [richardtun/to-do-list-app](https://github.com/richardtun/to-do-list-app) - a simple app that lets users add, edit, and delete tasks.
 - [richardtun/quiz-game-mobile](https://github.com/richardtun/quiz-game-mobile) - A funny quiz game on mobile
 - [richardtun/quiz-game](https://github.com/richardtun/quiz-game) - A funny quiz game
-- [daniel149afonso/pokemon_app](https://github.com/daniel149afonso/pokemon_app) - A simple web app to search for Pokemon and display their information using the PokeAPI.
 - [daniel149afonso/geolocated_weather_app](https://github.com/daniel149afonso/geolocated_weather_app) - A simple weather app that lets you check the current weather in any city using the OpenWeatherMap API.
 - [midudev/jscamp](https://github.com/midudev/jscamp) - Contenido y ejercicios del JSCamp InfoJobs
 - [JarielGFox/expense_planner](https://github.com/JarielGFox/expense_planner) - Small web app to track new and old expenses.
@@ -7913,6 +7916,7 @@
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
 - [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
+- [SocketDev/vscode-socket-security](https://github.com/SocketDev/vscode-socket-security) - Editor integration with Socket Security
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [Fevol/starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - A Starlight plugin for adding a page graph to your website
@@ -8956,6 +8960,7 @@
 
 ## MDX 
 
+- [3ru/gpt-translate](https://github.com/3ru/gpt-translate) - 💬Translate Files into Any Languages with AI
 - [microsoft/aspire.dev](https://github.com/microsoft/aspire.dev) - The official website for all things aspire.dev.
 - [BasisVR/BasisDocs](https://github.com/BasisVR/BasisDocs) - BasisDocs Website
 - [yamakenji24/blog.yamakenji](https://github.com/yamakenji24/blog.yamakenji) - 
@@ -9345,6 +9350,7 @@
 
 ## Others 
 
+- [AnLinkSoft/AnLinkTranslation](https://github.com/AnLinkSoft/AnLinkTranslation) - AnLinkTranslation from https://anl.ink/
 - [hawkymisc/cc-ojosama](https://github.com/hawkymisc/cc-ojosama) - Claude Codeにお嬢様口調で喋らせるだけのSkill
 - [vrchat-community/creator-docs](https://github.com/vrchat-community/creator-docs) - 
 - [mrdarrengriffin/google-weather-icons](https://github.com/mrdarrengriffin/google-weather-icons) - A comprehensive collection of Google's weather icons across 6 visual styles, with light/dark themes, Lottie animations, and a JSON mapping file.
@@ -10980,6 +10986,7 @@
 
 ## Python 
 
+- [cybertronai/schmidhuber-problems](https://github.com/cybertronai/schmidhuber-problems) - 58 implementations of synthetic learning problems from Jürgen Schmidhuber's papers (1989-2025). Pure numpy, laptop-runnable, paper-comparison metrics per stub. Algorithmic-lineage companion to hinton-
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 - [aisa-group/skill-inject](https://github.com/aisa-group/skill-inject) - Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks
@@ -11158,7 +11165,7 @@
 - [DOAJ/doaj](https://github.com/DOAJ/doaj) - The Directory of Open Access Journals - website and directory software
 - [Clad3815/gpt-play-pokemon-firered](https://github.com/Clad3815/gpt-play-pokemon-firered) - An autonomous AI agent that plays Pokemon FireRed in real time using OpenAI's LLM, with a live web dashboard for monitoring.
 - [GaTech-RL2/EgoVerse](https://github.com/GaTech-RL2/EgoVerse) - EgoVerse: Egocentric Data for Robot Learning from Around the World
-- [bfly123/claude_codex_bridge](https://github.com/bfly123/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
 - [dropbox/gemlite](https://github.com/dropbox/gemlite) - Fast low-bit matmul kernels in Triton
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [zenodo/zenodo-rdm](https://github.com/zenodo/zenodo-rdm) - Zenodo, powered by InvenioRDM
@@ -11518,7 +11525,7 @@
 - [europanite/rag_container_template](https://github.com/europanite/rag_container_template) - A Full-Stack RAG Container Template
 - [Kairatzh/TextGuardAI](https://github.com/Kairatzh/TextGuardAI) - TextGuard AI — сервис, который принимает текст и определяет класс токсичности сообщения (нейтральный / токсичный / ненависть / спам) с помощью собственной нейросети на PyTorch, обученной на простом TF
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 258 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 259 stars and 194 forks 🌟
 - [hiroharu-kato/neural_renderer](https://github.com/hiroharu-kato/neural_renderer) - "Neural 3D Mesh Renderer" (CVPR 2018) by H. Kato, Y. Ushiku, and T. Harada.
 - [hiroharu-kato/mesh_reconstruction](https://github.com/hiroharu-kato/mesh_reconstruction) - Code of single-image 3D reconstruction "Neural 3D Mesh Renderer" by H. Kato, Y. Ushiku, and T. Harada.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -15358,6 +15365,7 @@
 
 ## Shell 
 
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [supechicken/ChromeOS-Waydroid-Installer](https://github.com/supechicken/ChromeOS-Waydroid-Installer) - Scripts for installing Waydroid on Crostini/ChromeOS (Flex)
@@ -15897,7 +15905,7 @@
 
 ## Svelte 
 
-- [otoneko1102/justuuid](https://github.com/otoneko1102/justuuid) - Your permanent identity, one UUID at a time.
+- [otnc/justuuid](https://github.com/otnc/justuuid) - Your permanent identity, one UUID at a time.
 - [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
 - [sveltejs/sites](https://github.com/sveltejs/sites) - 
 - [svelte-jp/svelte.dev](https://github.com/svelte-jp/svelte.dev) - The Svelte omnisite for Japanese
@@ -15953,6 +15961,7 @@
 
 ## Swift 
 
+- [pixel-point/media-downloader](https://github.com/pixel-point/media-downloader) - Beautiful native macOS video downloader. Download and trim in one app.
 - [mykolaharmash/notelet](https://github.com/mykolaharmash/notelet) - SwiftUI component for displaying rich release notes inside an app
 - [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
 - [heyderekj/binky](https://github.com/heyderekj/binky) - Binky sorts your files.
@@ -16408,6 +16417,8 @@
 
 ## TypeScript 
 
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
+- [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [npmx-dev/vscode-npmx](https://github.com/npmx-dev/vscode-npmx) - A better browser for the npm registry
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -16764,7 +16775,7 @@
 - [vibe-stack/three-maps](https://github.com/vibe-stack/three-maps) - A rapid 3d blockout / greyboxing tool for the web
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
-- [otoneko1102/NoShift.js](https://github.com/otoneko1102/NoShift.js) - Write JavaScript without pressing the Shift key.
+- [otnc/NoShift.js](https://github.com/otnc/NoShift.js) - Write JavaScript without pressing the Shift key.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [wood3n/icodex-next](https://github.com/wood3n/icodex-next) - 前端博客，前端笔记 - frontend cookbook and blog post
 - [anaclumos/extracranial](https://github.com/anaclumos/extracranial) - 🤴🏻 extracranial: the exosuit for my brain
@@ -17062,7 +17073,6 @@
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [digitaldemocracy2030/idobata-analyst](https://github.com/digitaldemocracy2030/idobata-analyst) - 
 - [digitaldemocracy2030/idobata](https://github.com/digitaldemocracy2030/idobata) - 
-- [digitaldemocracy2030/website](https://github.com/digitaldemocracy2030/website) - https://dd2030.org
 - [greptileai/chameleon](https://github.com/greptileai/chameleon) - Changelog generator
 - [greptileai/greptile-vscode](https://github.com/greptileai/greptile-vscode) - Greptile VS Code Extension
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -18276,6 +18286,7 @@
 - [dermatologist/fhirformjs](https://github.com/dermatologist/fhirformjs) - NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering.
 - [dermatologist/dhti](https://github.com/dermatologist/dhti) - DHTI: a reference architecture for Gen AI in healthcare and a skill platform for vibe coding!
 - [daniel149afonso/tic_tac_toe](https://github.com/daniel149afonso/tic_tac_toe) - This project is a Tic Tac Toe (Morpion) game built with React.
+- [daniel149afonso/pokemon_app](https://github.com/daniel149afonso/pokemon_app) - A simple web app to search for Pokemon and display their information using the PokeAPI.
 - [danielikechukwu/NgRx-in-Angular](https://github.com/danielikechukwu/NgRx-in-Angular) - Implementing NGRX in Angular version 17, working specifically with ngrx-store(action, reducer), and also handling side effects with NGRX effects for (CRUD).
 - [netlify-templates/content-ops-starter](https://github.com/netlify-templates/content-ops-starter) - Netlify starter that's made for customization with a flexible content model, component library, visual editing and Git Content Source.
 - [obeyyyy/site](https://github.com/obeyyyy/site) - 
@@ -19307,7 +19318,6 @@
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [SocketDev/socket-sdk-js](https://github.com/SocketDev/socket-sdk-js) - JavaScript SDK for Socket.dev API
 - [SocketDev/socket-cli](https://github.com/SocketDev/socket-cli) - The Socket CLI
-- [SocketDev/vscode-socket-security](https://github.com/SocketDev/vscode-socket-security) - Editor integration with Socket Security
 - [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [Khan/perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's exercise question editor and renderer.
@@ -19463,7 +19473,7 @@
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
-- [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) - 🟡👻 Turn your GitHub contribution graph into a Pac-Man SVG animation! Easy to integrate into your profile with GitHub Actions 🚀.
+- [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) - 👻🧱🚀 Turn your GitHub contribution graph into an arcade game SVG animation! Easy to integrate into your profile with GitHub Actions 🚀.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -19751,6 +19761,10 @@
 - [elementary/granite](https://github.com/elementary/granite) - Library that extends GTK with common widgets and utilities
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 
+## Vento 
+
+- [digitaldemocracy2030/website](https://github.com/digitaldemocracy2030/website) - https://dd2030.org
+
 ## Verilog 
 
 - [RISCV-MYTH-WORKSHOP/riscv_myth_workshop_dec20-jmevel](https://github.com/RISCV-MYTH-WORKSHOP/riscv_myth_workshop_dec20-jmevel) - riscv_myth_workshop_dec20-jmevel created by GitHub Classroom
@@ -20012,6 +20026,7 @@
 
 ## Zig 
 
+- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [ind4skylivey/ZigHound](https://github.com/ind4skylivey/ZigHound) - 🎯🐺  Advanced Red Team Framework written in Zig. Features encrypted C2, stealth agent, process   injection, persistence, and post-exploitation modules.
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
