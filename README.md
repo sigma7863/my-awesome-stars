@@ -442,6 +442,7 @@
 
 ## C 
 
+- [ip-arch/linux-riscv32](https://github.com/ip-arch/linux-riscv32) - Linux code reading text execution environment
 - [pham-tuan-binh/claude-knob](https://github.com/pham-tuan-binh/claude-knob) - A Knob For Claude
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
@@ -1552,6 +1553,8 @@
 
 ## C++ 
 
+- [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
+- [ip-arch/NESLab](https://github.com/ip-arch/NESLab) - Educational materials for Embedded systems with NES
 - [kallewoof/gguf-eval](https://github.com/kallewoof/gguf-eval) - Evaluation framework for GGUF
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [menloresearch/robotics-sim](https://github.com/menloresearch/robotics-sim) - 
@@ -2742,6 +2745,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [kawasima/jagrid](https://github.com/kawasima/jagrid) - Japanese-styled grid framework.
 - [grammarly/perseverance](https://github.com/grammarly/perseverance) - Flexible retries library for Clojure
 - [funcool/buddy](https://github.com/funcool/buddy) - Security library for Clojure
@@ -3119,6 +3123,7 @@
 
 ## Erlang 
 
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [travelping/eradius](https://github.com/travelping/eradius) - Erlang RADIUS server framework
 - [basho/riak_core](https://github.com/basho/riak_core) - Distributed systems infrastructure used by Riak.
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
@@ -3268,6 +3273,8 @@
 
 ## Go 
 
+- [common-fate/iamzero](https://github.com/common-fate/iamzero) - Identity & Access Management simplified and secure.
+- [SigNoz/signoz-otel-collector](https://github.com/SigNoz/signoz-otel-collector) - SigNoz distro for OpenTelemetry Collector
 - [tnakagawa/bipschnorr](https://github.com/tnakagawa/bipschnorr) - 
 - [pandax381/lectcp](https://github.com/pandax381/lectcp) - Tiny TCP/IP protocol stack for lectures implemented in Go language
 - [menloresearch/cli](https://github.com/menloresearch/cli) - menlo-cli
@@ -3331,7 +3338,7 @@
 - [youzan/nsq](https://github.com/youzan/nsq) - A realtime distributed messaging platform (forked from https://github.com/nsqio/nsq)
 - [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
 - [Rican7/define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model throu
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) - WIP! Reverse engineered Cursor Tab API in Neovim
 - [lovablelabs/neon-operator](https://github.com/lovablelabs/neon-operator) - (Part of acquisition of Molnett) Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary components of Neon's control plane on K
 - [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
@@ -5876,6 +5883,8 @@
 
 ## JavaScript 
 
+- [takanorip/eleventy-google-fonts](https://github.com/takanorip/eleventy-google-fonts) - A Nunjucks shortcode to optimize Google Fonts. This shortcode download and inline Google Font's CSS.
+- [davidhckh/pokedex](https://github.com/davidhckh/pokedex) - Pokedex using PokeAPI, made for practice
 - [craftzdog/asciiquarium-js](https://github.com/craftzdog/asciiquarium-js) - Enjoy the mysteries of the sea from the safety of your own terminal
 - [takuya0206/precedence_diagram_maker](https://github.com/takuya0206/precedence_diagram_maker) - Google spreadsheet add-on which allows users to create a network chart in PDM automatically
 - [takuya0206/ganttchart_generator](https://github.com/takuya0206/ganttchart_generator) - Google spreadsheet add-on which allows users to create a gantt chart automatically
@@ -6361,7 +6370,7 @@
 - [nagix/chartjs-plugin-streaming](https://github.com/nagix/chartjs-plugin-streaming) - Chart.js plugin for live streaming data
 - [nagix/japan-eq-locator](https://github.com/nagix/japan-eq-locator) - A 3D hypocenter map of earthquakes around Japan
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
-- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+- [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [ljianshu/Blog](https://github.com/ljianshu/Blog) - 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
 - [pypi/inspector](https://github.com/pypi/inspector) - 🕵️ File browser for distributions on PyPI
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -8205,6 +8214,7 @@
 
 ## Jupyter Notebook 
 
+- [chiuhans111/RCWA](https://github.com/chiuhans111/RCWA) - Electromagnetic wave solver for periodic structures.
 - [miiitomi/all-stable-matching](https://github.com/miiitomi/all-stable-matching) - This repository provides algorithms that return the man/woman-optimal stable matching (DA algorithm), the list of all rotations, the join-irreducible matching that corresponding to a given rotation, t
 - [Northern-System-Service/gpt4-autoeval](https://github.com/Northern-System-Service/gpt4-autoeval) - GPT-4 を用いて、言語モデルの応答を自動評価するスクリプト
 - [tannakaken/vertigo-garden](https://github.com/tannakaken/vertigo-garden) - 360 panorama novel reader for desktop, mobile, and head mount display browsers
@@ -9403,6 +9413,11 @@
 
 ## Others 
 
+- [shreekanthashokg-lang/loan-approval-predictor](https://github.com/shreekanthashokg-lang/loan-approval-predictor) - Built an end to end supervises ML pipeline using KNN, Logistic Regression and Naive Bayes to predict loan approval. Implemented Binary classification along with EDA , feature engineering and model eva
+- [catppuccin/template](https://github.com/catppuccin/template) - 💡 Template for Catppuccin ports. Please follow the instructions in the link below
+- [Mouadhbendjedidi/catppuccin-iconpack](https://github.com/Mouadhbendjedidi/catppuccin-iconpack) - 📱 Soothing pastel icons for Android Launchers
+- [twilic/twilic](https://github.com/twilic/twilic) - Specification for a fast, compact binary wire format for modern data transport.
+- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [Orsoniks/scavgame-locale](https://github.com/Orsoniks/scavgame-locale) - Locale stuff for the scav game
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
@@ -10119,7 +10134,7 @@
 - [YclepticStudios/vscode-unity-snippets](https://github.com/YclepticStudios/vscode-unity-snippets) - Code snippets for working with Unity C# scripts within Visual Studio Code.
 - [maraoz/multipaper](https://github.com/maraoz/multipaper) - Multi-signature address (P2SH) paper wallet using bitcore
 - [douglasmg7/txt](https://github.com/douglasmg7/txt) - 
-- [nercone-dev/zeta-llm](https://github.com/nercone-dev/zeta-llm) - Fully Open-source LLM
+- [nercone-zeta/zeta-llm](https://github.com/nercone-zeta/zeta-llm) - Fully Open-source LLM
 - [graceavery/tamagotchiTemp](https://github.com/graceavery/tamagotchiTemp) - 
 - [amirallami-code/license-guide](https://github.com/amirallami-code/license-guide) - A comprehensive guide to understanding, choosing, and applying software licenses
 - [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode) - A list of practical knowledge-building projects.
@@ -11048,6 +11063,10 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [lip6/alliance-check-toolkit](https://github.com/lip6/alliance-check-toolkit) - Tutorial, examples and regression tests for Coriolis & Alliance (LIP6)
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
+- [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [termius/termius-cli](https://github.com/termius/termius-cli) - CLI for the ssh client Termius
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench) - ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.
@@ -14304,6 +14323,8 @@
 
 ## Rust 
 
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [Shin-sibainu/ccmux](https://github.com/Shin-sibainu/ccmux) - Claude Code Multiplexer — manage multiple Claude Code instances in TUI panes
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
 - [torao/tinymt](https://github.com/torao/tinymt) - 🔢 Rust implementation for TinyMT 64/32 - a lightweight variant of the Mersenne Twister PRNG
@@ -15457,6 +15478,7 @@
 
 ## Shell 
 
+- [deckset/deckset-scripts](https://github.com/deckset/deckset-scripts) - 
 - [silverstein/nudge](https://github.com/silverstein/nudge) - Keep AI coding agents productive. Auto-detects when Codex, Claude Code, or Gemini CLI stalls in tmux and sends continuation signals.
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [am-will/codex-skills](https://github.com/am-will/codex-skills) - 
@@ -16053,6 +16075,9 @@
 
 ## Swift 
 
+- [noppefoxwolf/presentations](https://github.com/noppefoxwolf/presentations) - 登壇md
+- [noppefoxwolf/AnimatedImage](https://github.com/noppefoxwolf/AnimatedImage) - High-performance animation image library.
+- [noppefoxwolf/MergeableView](https://github.com/noppefoxwolf/MergeableView) - SwiftUI package for merging Liquid Glass views with drag gestures.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [teach310/ATOMMateForToioSample](https://github.com/teach310/ATOMMateForToioSample) - 
@@ -16515,6 +16540,14 @@
 
 ## TypeScript 
 
+- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
+- [takanorip/takanorip.com.v4](https://github.com/takanorip/takanorip.com.v4) - 
+- [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code & Codex Session Analytics
+- [davidhckh/portfolio-2025](https://github.com/davidhckh/portfolio-2025) - 
+- [johansan/pixel-perfect-image](https://github.com/johansan/pixel-perfect-image) - Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more.
+- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
+- [Mouadhbendjedidi/themed-obsidian-discord-rpc](https://github.com/Mouadhbendjedidi/themed-obsidian-discord-rpc) - A Customizable Obsidian discord RPC
+- [phd20/obsidian-discord-share](https://github.com/phd20/obsidian-discord-share) - This plugin allows you to share your Obsidian Vault content to Discord using discord.js.
 - [tnakagawa/mpc-ecdsa-js](https://github.com/tnakagawa/mpc-ecdsa-js) - Distributed ECDSA with Shamir Secret Sharing in Browser
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library.
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
@@ -19030,7 +19063,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
@@ -19611,7 +19644,7 @@
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly 
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -19964,6 +19997,7 @@
 
 ## Vue 
 
+- [chiuhans111/OpticTool](https://github.com/chiuhans111/OpticTool) - Web-based interactive lens design tool.
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) - Japanese translation for Vue docs
