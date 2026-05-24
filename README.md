@@ -442,6 +442,8 @@
 
 ## C 
 
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+- [sefcom/Witcher](https://github.com/sefcom/Witcher) - Witcher is the first framework for using AFL to fuzz web applications.
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [ip-arch/linux-riscv32](https://github.com/ip-arch/linux-riscv32) - Linux code reading text execution environment
 - [pham-tuan-binh/claude-knob](https://github.com/pham-tuan-binh/claude-knob) - A Knob For Claude
@@ -789,7 +791,7 @@
 - [Steven6234/openssl](https://github.com/Steven6234/openssl) - TLS/SSL and crypto library
 - [glmcdona/Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [wbenny/injdrv](https://github.com/wbenny/injdrv) - proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [coderup2u/systeminformer](https://github.com/coderup2u/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [dji-sdk/Windows-SDK](https://github.com/dji-sdk/Windows-SDK) - DJI Windows SDK: http://developer.dji.com/windows-sdk/
 - [dji-sdk/Payload-SDK](https://github.com/dji-sdk/Payload-SDK) - DJI Payload SDK Official Repository
@@ -3273,6 +3275,7 @@
 
 ## Go 
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 - [common-fate/iamzero](https://github.com/common-fate/iamzero) - Identity & Access Management simplified and secure.
 - [SigNoz/signoz-otel-collector](https://github.com/SigNoz/signoz-otel-collector) - SigNoz distro for OpenTelemetry Collector
@@ -4111,7 +4114,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [cam-inc/MxTransporter](https://github.com/cam-inc/MxTransporter) - Export change streams of mongoDB to Data Warehouse, streaming services.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight, powerful workflow engine built in a single binary with Web UI. Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full tr
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
 - [skanehira/gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -7183,7 +7186,7 @@
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
 - [maraoz/solidity-experiments](https://github.com/maraoz/solidity-experiments) - Solidity experiments
 - [maraoz/solidity-proxy](https://github.com/maraoz/solidity-proxy) - Solidity implementation of a delegate proxy
-- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P-lexity AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
+- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
 - [FellouAI/eko-cli](https://github.com/FellouAI/eko-cli) - eko-cli
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [f3liz-casa/noraneko-runtime](https://github.com/f3liz-casa/noraneko-runtime) - The builds for noraneko
@@ -7449,7 +7452,7 @@
 - [c-hive/gha-remove-artifacts](https://github.com/c-hive/gha-remove-artifacts) - GitHub Action to customize artifact cleanup
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr) - A simple, self-hosted service to keep track of your personal library 📚
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use.
-- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [junsaba/route-map](https://github.com/junsaba/route-map) - じゅん鯖路線図
 - [froala/wysiwyg-editor-dotnet-sdk](https://github.com/froala/wysiwyg-editor-dotnet-sdk) - .NET SDK to ease the integration of Froala WYSIWYG Editor on server side.
 - [froala/ember-froala-editor](https://github.com/froala/ember-froala-editor) - Ember component for Froala WYSIWYG HTML Rich Text Editor.
@@ -9162,7 +9165,6 @@
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 
 ## Markdown 
 
@@ -9202,6 +9204,7 @@
 
 ## Mermaid 
 
+- [yewton/kanpro](https://github.com/yewton/kanpro) - 〈完全なプログラミング〉を目指す会 2020 資料
 - [ninehills/PatentWriterAgent](https://github.com/ninehills/PatentWriterAgent) - PatentWriterAgent Demo
 
 ## Meson 
@@ -11075,6 +11078,7 @@
 
 ## Python 
 
+- [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
 - [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - 
 - [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
@@ -12183,7 +12187,7 @@
 - [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [zerokpr/learning_in_univ](https://github.com/zerokpr/learning_in_univ) - 大学の課題で書いたものの内、他でも使えそうなものをいくつか載せています。
 - [AmirhosseinHonardoust/Forecast-Factory](https://github.com/AmirhosseinHonardoust/Forecast-Factory) - Forecast factory is an interactive AI-powered forecasting and simulation tool built with Python, Streamlit, Prophet, and SQL. It enables analysts to forecast business metrics, run what-if scenarios, a
-- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Network scanner, LAN discovery & port audit tool for IPv4 networks
+- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Cross-platform network scanner, LAN discovery & port audit tool for IPv4 subnets
 - [devstar829/VideoStreaming_Django](https://github.com/devstar829/VideoStreaming_Django) - Django + Tensorflow + OpenCV for live streaming
 - [GeorgeGkolfis/python-mini-projects](https://github.com/GeorgeGkolfis/python-mini-projects) - 
 - [PandaDev888/AIL-framework](https://github.com/PandaDev888/AIL-framework) - 
@@ -13197,7 +13201,7 @@
 - [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [diStyApps/Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI](https://github.com/diStyApps/Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI) - Convert your Stable Diffusion checkpoints quickly and easily.
@@ -14344,6 +14348,7 @@
 
 ## Rust 
 
+- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [VectorPrivacy/Vector-SDK](https://github.com/VectorPrivacy/Vector-SDK) - The Official Rust Vector SDK
 - [VectorPrivacy/Vector](https://github.com/VectorPrivacy/Vector) - Privacy is a basic human right.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
@@ -15329,6 +15334,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -15663,7 +15669,6 @@
 - [tupleapp/community-triggers](https://github.com/tupleapp/community-triggers) - Run your own code in response to Tuple events
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [kyanny/git-delete-merged-branches](https://github.com/kyanny/git-delete-merged-branches) - 
-- [yewton/kanpro](https://github.com/yewton/kanpro) - 〈完全なプログラミング〉を目指す会 2020 資料
 - [nobuoka/shino](https://github.com/nobuoka/shino) - 
 - [shogo82148/dotfiles](https://github.com/shogo82148/dotfiles) - Setting files
 - [fabianlee/kubeadm-cluster-kvm](https://github.com/fabianlee/kubeadm-cluster-kvm) - 
@@ -16044,6 +16049,8 @@
 
 ## Svelte 
 
+- [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
+- [matiadev/svelte-sandbox](https://github.com/matiadev/svelte-sandbox) - 🧪 Interactive Svelte code sandbox
 - [otnc/justuuid](https://github.com/otnc/justuuid) - Your permanent identity, one UUID at a time.
 - [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
 - [sveltejs/sites](https://github.com/sveltejs/sites) - 
@@ -16563,9 +16570,11 @@
 
 ## TypeScript 
 
+- [hashedhyphen/pitch-test](https://github.com/hashedhyphen/pitch-test) - #440Hzを当てるやつ
+- [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [chloe463/panelgrid](https://github.com/chloe463/panelgrid) - A flexible and performant React grid layout library with drag-and-drop and resize capabilities.
 - [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) - Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [huozhi/langsagne](https://github.com/huozhi/langsagne) - Minimal programming language parser and execution experiment
 - [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
 - [takanorip/takanorip.com.v4](https://github.com/takanorip/takanorip.com.v4) - 
