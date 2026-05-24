@@ -658,7 +658,7 @@
 
 ## ai 
 
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
@@ -868,7 +868,7 @@
 - [MorpheusAIs/Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
 - [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2) - Repository for the Lux AI Challenge, season 2 (NeurIPS 23). Hosted on @kaggle
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P-lexity AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
+- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
 - [nercone-zeta/zeta-llm](https://github.com/nercone-zeta/zeta-llm) - Fully Open-source LLM
 - [rohanarun/Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
 - [lshqqytiger/stable-diffusion-webui-amdgpu](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu) - Stable Diffusion web UI
@@ -3567,7 +3567,7 @@
 - [zjunlp/LightMem](https://github.com/zjunlp/LightMem) - [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 - [0xAdafang/PersonAi](https://github.com/0xAdafang/PersonAi) - PersonAi is a local-first desktop app that lets you create and chat with AI-powered characters. Built with Tauri, React, Rust, Go, and Python, privacy-friendly experience with persistent local history
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P-lexity AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
+- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
 - [iTzArshia/GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - 🧠 Example Discord Bot written in JavaScript that uses OpenAIs models such as ,`GPT 4`, `GPT-3.5-Turbo`, `Dall-E`, and `Text-Moderation-Stable` with many features such as ChatGPT-Style Conversation, im
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [Kos-M/acg_protocol](https://github.com/Kos-M/acg_protocol) - The Audited Context Generation (ACG) Protocol prevents AI hallucinations with a dual-layer system. The UGVP layer links every fact to a precise source for verification. The RSVP layer audits the AI's 
@@ -3959,7 +3959,7 @@
 
 ## cli 
 
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 - [veebch/boostbox](https://github.com/veebch/boostbox) - Some notes on a cli terminal, upcycling an old super 8 film viewer
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
@@ -5487,7 +5487,7 @@
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
-- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Network scanner, LAN discovery & port audit tool for IPv4 networks
+- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Cross-platform network scanner, LAN discovery & port audit tool for IPv4 subnets
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [toxy4ny/artaxerxes](https://github.com/toxy4ny/artaxerxes) - Artaxerxes - Adaptive High-Performance Stress Tester v.1.0. Rebuild old version Xerxes DDoS. Supports GPU+io_uring, DPDK, eBPF/XDP with intelligent fallbacks. Educational tool for advanced cybersecuri
 - [toxy4ny/Decoy-Hunter](https://github.com/toxy4ny/Decoy-Hunter) - Advanced Decoy Detection Toolkit versus cool man s0i37 (https://github.com/s0i37/defence)
@@ -6152,6 +6152,7 @@
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [oreilly-japan/deep-learning-from-scratch-3](https://github.com/oreilly-japan/deep-learning-from-scratch-3) - 『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
@@ -6543,7 +6544,7 @@
 - [iam-veeramalla/go-web-app](https://github.com/iam-veeramalla/go-web-app) - This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight, powerful workflow engine built in a single binary with Web UI. Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full tr
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -6594,7 +6595,6 @@
 - [abalabahaha/eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [weakphish/hackpack-bot](https://github.com/weakphish/hackpack-bot) - NC State's Hackpack Discord Bot
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [Erisa/Cliptok](https://github.com/Erisa/Cliptok) - Moderation Discord bot
 - [xNabil/discord-ai-bot](https://github.com/xNabil/discord-ai-bot) - Discord Gemini Chat Bot is a Python-based self-bot that uses Gemini AI to automate responses, handle mentions, and engage in conversations on Discord. Ideal for leveling up in servers, participating i
 - [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
@@ -7256,7 +7256,7 @@
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P-lexity AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
+- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
@@ -8878,6 +8878,7 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
 - [K1rsN7/SubManager](https://github.com/K1rsN7/SubManager) - 👨‍💼 SubManager is a cross-platform Python tool for automatically managing GitHub subscriptions
+- [TheM1ddleM1n/TheM1ddleM1n](https://github.com/TheM1ddleM1n/TheM1ddleM1n) - All About Me Github page! if you like this please star (not forcing dw)
 - [NickC4p/hhj](https://github.com/NickC4p/hhj) - Hi everyone this is my first repo!!
 - [nimakian/github-unfollower](https://github.com/nimakian/github-unfollower) - github-unfollower: 🕵️ Detect GitHub users who don’t follow you back and those you don’t follow back. ⚡ Supports accounts with +6,000 connections using personal access tokens — enabling analysis of hun
 - [g1f1/RepoPromotion](https://github.com/g1f1/RepoPromotion) - A frontend page that displays the star and fork options by the repository. Don't forget to star 🌟 this repository.
@@ -9337,6 +9338,7 @@
 
 ## golang 
 
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [furukawa1020/furukawalabo1](https://github.com/furukawa1020/furukawalabo1) - 💬 お前って結局何が作れるん？技術スタックは？(意訳）」と突っ込まれることが増えてきたのでここでひとつ、アーキテクチャ的に必然性があり美しい構成のフルスタックウェブポートフォリオサイトを作ろう！というノリで作りました
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [einride/gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension for reviewing Dependabot PRs.
@@ -10937,6 +10939,7 @@
 
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card) - A Lovelace card that shows a directional indicator on a compass for Home Assistant
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -11696,6 +11699,7 @@
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [codewitch-honey-crisis/uix](https://github.com/codewitch-honey-crisis/uix) - UIX is a cross platform UI/UX library for IoT and embedded
 - [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
@@ -12405,7 +12409,7 @@
 - [xf00f/web3x](https://github.com/xf00f/web3x) - Ethereum TypeScript Client Library - for perfect types and tiny builds.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P-lexity AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
+- [inulute/simplexity-ai-app](https://github.com/inulute/simplexity-ai-app) - Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop.
 - [nibushibu/rakuraku-riot](https://github.com/nibushibu/rakuraku-riot) - jQuery で忙しい人のための Riot.js を最短で使うための手引き
 - [ONLYOFFICE/web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
 - [caspartse/eBooksAssistant](https://github.com/caspartse/eBooksAssistant) - eBooks Assistant for douban.com, weread.qq.com
@@ -14195,7 +14199,7 @@
 ## llm 
 
 - [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) - Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
@@ -15243,7 +15247,7 @@
 ## markdown 
 
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
@@ -15991,7 +15995,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
@@ -16815,7 +16819,7 @@
 
 ## nodejs 
 
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [microcmsio/microcms-js-sdk](https://github.com/microcmsio/microcms-js-sdk) - microCMS JavaScript SDK.
@@ -17544,6 +17548,7 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [Shayanthn/hamrah-email-apply](https://github.com/Shayanthn/hamrah-email-apply) - Persian desktop app for managing university applications. Track professors, emails & deadlines offline. For Iranian students applying abroad.
@@ -17970,6 +17975,14 @@
 
 ## others 
 
+- [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
+- [matiadev/svelte-sandbox](https://github.com/matiadev/svelte-sandbox) - 🧪 Interactive Svelte code sandbox
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+- [hashedhyphen/pitch-test](https://github.com/hashedhyphen/pitch-test) - #440Hzを当てるやつ
+- [sefcom/Witcher](https://github.com/sefcom/Witcher) - Witcher is the first framework for using AFL to fuzz web applications.
+- [sefcom/oxidizer](https://github.com/sefcom/oxidizer) - A Rust decompiler built on top of angr
+- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
+- [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [Virgileboat/lerobot-humanoid](https://github.com/Virgileboat/lerobot-humanoid) - 
 - [chloe463/panelgrid](https://github.com/chloe463/panelgrid) - A flexible and performant React grid layout library with drag-and-drop and resize capabilities.
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
@@ -25721,7 +25734,7 @@
 - [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [lucasjinreal/Kokoros](https://github.com/lucasjinreal/Kokoros) - 🔥🔥 Kokoro in Rust. https://huggingface.co/hexgrad/Kokoro-82M Insanely fast, realtime TTS with high quality you ever have.
 - [TheOrdinaryWow/svelte-adapter-bun-next](https://github.com/TheOrdinaryWow/svelte-adapter-bun-next) - Adapter for SvelteKit apps that generates a standalone Bun.js server.
-- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [topi-banana/pumpkin-tabtps](https://github.com/topi-banana/pumpkin-tabtps) - 
 - [topi-banana/Guildly](https://github.com/topi-banana/Guildly) - Guildly is a Discord bot designed to quickly retrieve a server's invite link from a message link.
 - [SinaKitagami/program-team](https://github.com/SinaKitagami/program-team) - Program of Sina.
@@ -29436,7 +29449,7 @@
 - [spookylukey/django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro
 - [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [AmirhosseinHonardoust/Forecast-Factory](https://github.com/AmirhosseinHonardoust/Forecast-Factory) - Forecast factory is an interactive AI-powered forecasting and simulation tool built with Python, Streamlit, Prophet, and SQL. It enables analysts to forecast business metrics, run what-if scenarios, a
-- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Network scanner, LAN discovery & port audit tool for IPv4 networks
+- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Cross-platform network scanner, LAN discovery & port audit tool for IPv4 subnets
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [noahmorrison/chevron](https://github.com/noahmorrison/chevron) - A Python implementation of mustache
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
@@ -30173,7 +30186,7 @@
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
 - [coetaur0/ESIM](https://github.com/coetaur0/ESIM) - Implementation of the ESIM model for natural language inference with PyTorch
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -32469,7 +32482,7 @@
 - [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [JamesWoolfenden/pike](https://github.com/JamesWoolfenden/pike) - Pike is a tool for determining the permissions or policy required for IAC code
@@ -32579,7 +32592,7 @@
 - [Syslifters/HackTheBox-Reporting](https://github.com/Syslifters/HackTheBox-Reporting) - Hack The Box CPTS, CWES, CDSA, CWEE, CAPE, CJCA Exam and Lab Reporting / Note-Taking Tool
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)
-- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Network scanner, LAN discovery & port audit tool for IPv4 networks
+- [mennylevinski/uspector-net](https://github.com/mennylevinski/uspector-net) - Cross-platform network scanner, LAN discovery & port audit tool for IPv4 subnets
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [toxy4ny/artaxerxes](https://github.com/toxy4ny/artaxerxes) - Artaxerxes - Adaptive High-Performance Stress Tester v.1.0. Rebuild old version Xerxes DDoS. Supports GPU+io_uring, DPDK, eBPF/XDP with intelligent fallbacks. Educational tool for advanced cybersecuri
 - [madneal/articles-translator](https://github.com/madneal/articles-translator) - :books:Translate the distinct technical blogs. Please star or watch. Welcome to join me.
@@ -32777,6 +32790,7 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [Azure/logicapps](https://github.com/Azure/logicapps) - Azure Logic Apps labs, samples, and tools
 - [seehiong/ats-buddy](https://github.com/seehiong/ats-buddy) - ATS Buddy is a production-ready, serverless AI resume analyzer built on AWS Bedrock (Nova Lite). It intelligently compares resumes against job descriptions, providing compatibility scores, missing key
 - [rubyonjets/jets](https://github.com/rubyonjets/jets) - Ruby on Jets
@@ -33777,7 +33791,6 @@
 
 - [TheAndreyZakharov/Botyan](https://github.com/TheAndreyZakharov/Botyan) - 🤖👩🏻 Botyan is a cross-platform Telegram and Discord bot powered by a language model and featuring the persona of Kate Artivian. Botyan can chat, generate memes-demotivators, run mini-games, apply vide
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [Kourva/AnonProxies](https://github.com/Kourva/AnonProxies) - Proxy scraper bot to Scrape and send proxies to Telegram topics automatically
 - [mvrozanti/RAT-via-Telegram](https://github.com/mvrozanti/RAT-via-Telegram) - Windows Remote Administration Tool via Telegram
 - [TopTrenDev/telegram-verification-bot](https://github.com/TopTrenDev/telegram-verification-bot) - This is the TypeScript Telegram Verification Bot with a mini-app for joining telegram channel.
@@ -34326,7 +34339,7 @@
 
 ## typescript 
 
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in Markdown
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [davidhckh/portfolio-2025](https://github.com/davidhckh/portfolio-2025) - Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library.
@@ -36435,7 +36448,7 @@
 - [aikawame/tiler](https://github.com/aikawame/tiler) - Store/restore window positions for Windows.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [d3cod3/ofxVisualProgramming](https://github.com/d3cod3/ofxVisualProgramming) - A visual programming patching environment for OF
 - [d3cod3/Mosaic](https://github.com/d3cod3/Mosaic) - Mosaic, an openFrameworks/ImGui based Visual Patching Creative-Coding Platform
