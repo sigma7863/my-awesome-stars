@@ -2374,7 +2374,7 @@
 - [ju1ce/April-Tag-VR-FullBody-Tracker](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker) - Full-body tracking in VR using AprilTag markers.
 - [r57zone/OpenVR-OpenTrack](https://github.com/r57zone/OpenVR-OpenTrack) - OpenVR driver with OpenTrack support / OpenVR драйвер, с поддержкой OpenTrack
 - [LatiteClient/Latite](https://github.com/LatiteClient/Latite) - Latite Client V2, a toolkit for Minecraft Windows 10/11 Edition featuring a clean UI, 30+ customizable mods, and a powerful plugin system.
-- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - Lupine is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [spotify/voyager](https://github.com/spotify/voyager) - 🛰️ An approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
@@ -3514,7 +3514,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [anush999/avalanchego](https://github.com/anush999/avalanchego) - Go implementation of an Avalanche node.
 - [anush999/cosmos-sdk](https://github.com/anush999/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [sgt-kabukiman/kabukibot](https://github.com/sgt-kabukiman/kabukibot) - Kabukibot is a simple, Go-based chat bot for Twitch.tv
@@ -4127,7 +4127,7 @@
 - [golang/tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
-- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
@@ -4197,7 +4197,7 @@
 - [sheepla/og](https://github.com/sheepla/og) - A typo correcting tool for Go programmers
 - [harakeishi/whris](https://github.com/harakeishi/whris) - "whris" is Displays management information for IPs associated with the domain.
 - [torikushiii/BlueArchiveAPI](https://github.com/torikushiii/BlueArchiveAPI) - A fan-made API for Blue Archive game.
-- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - 🚀 Go Faster. Go Typed
+- [web-infra-dev/rslint](https://github.com/web-infra-dev/rslint) - High-performance, ESLint-compatible linter for JavaScript and TypeScript.
 - [rssnyder/discord-stock-ticker](https://github.com/rssnyder/discord-stock-ticker) - Add live stock & crypto prices to your discord sidebar.
 - [jiro4989/ojosama](https://github.com/jiro4989/ojosama) - テキストを壱百満天原サロメお嬢様風の口調に変換します
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3
@@ -5083,7 +5083,7 @@
 - [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [UGOKU-Lab/ugoku-lab.github.io](https://github.com/UGOKU-Lab/ugoku-lab.github.io) - UGOKU-Labのホームぺージ
-- [HaruLab/HARULAB-portfolio](https://github.com/HaruLab/HARULAB-portfolio) - 
+- [HARULAB/HARULAB-portfolio](https://github.com/HARULAB/HARULAB-portfolio) - 
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [HidegonSan/blog](https://github.com/HidegonSan/blog) - 
 - [nwiizo/nwiizo.github.io](https://github.com/nwiizo/nwiizo.github.io) - 
@@ -6117,9 +6117,9 @@
 - [428lab/debug-shrine](https://github.com/428lab/debug-shrine) - 
 - [hacetheworld/ecommerce-store](https://github.com/hacetheworld/ecommerce-store) - An full-stack eCommerce store web application in nodejs
 - [TahiraNawab123/mySpotify](https://github.com/TahiraNawab123/mySpotify) - 
-- [AdmAkbar/ApolloServer](https://github.com/AdmAkbar/ApolloServer) - Effortlessly harnessing the power of real-time data with automatic ApolloServer projects: adaptive, high-performance, scalable, resilient, concurrent, and fault-tolerant.
-- [AdmAkbar/DjangoR](https://github.com/AdmAkbar/DjangoR) - Distributed, API-Driven Data Fabric with Scalable Caching and Adaptive Security Controls Platform.
-- [AdmAkbar/ExpressRouter](https://github.com/AdmAkbar/ExpressRouter) - Dynamic path routing for real-time content delivery, leveraging intelligent load-balancing and scalable, distributed architecture Engine
+- [CasinoCoinUSDC/ApolloServer](https://github.com/CasinoCoinUSDC/ApolloServer) - Effortlessly harnessing the power of real-time data with automatic ApolloServer projects: adaptive, high-performance, scalable, resilient, concurrent, and fault-tolerant.
+- [CasinoCoinUSDC/DjangoR](https://github.com/CasinoCoinUSDC/DjangoR) - Distributed, API-Driven Data Fabric with Scalable Caching and Adaptive Security Controls Platform.
+- [CasinoCoinUSDC/ExpressRouter](https://github.com/CasinoCoinUSDC/ExpressRouter) - Dynamic path routing for real-time content delivery, leveraging intelligent load-balancing and scalable, distributed architecture Engine
 - [deadlyrwr/OpenZeppelin](https://github.com/deadlyrwr/OpenZeppelin) - Decentralized Smart Contract Governance Ensured via Automated Compliance Enforcement and Verification across the Blockchain Network.
 - [deadlyrwr/GasOptimizer](https://github.com/deadlyrwr/GasOptimizer) - Cloud-enabled, AI-infused predictive modeling for data-driven energy efficiency, delivering efficient, real-time insights to the GasOptimizerPlatform.
 - [deadlyrwr/FoundryChain](https://github.com/deadlyrwr/FoundryChain) - Cloud-agnostic FoundryChain orchestrator enables highly-parallelizable, self-healing, event-driven processing with adaptive workload manager.
@@ -6476,6 +6476,7 @@
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [wakatime/discord-wakatime](https://github.com/wakatime/discord-wakatime) - BetterDiscord plugin for automatic time tracking and stats about your Discord usage
 - [Nextjs-ja-translation/Nextjs-ja-translation-docs](https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs) - (Unofficial) Japanese transition of Next.js documentation
+- [reactjs/ja.react.dev](https://github.com/reactjs/ja.react.dev) - React documentation website in Japanese
 - [evex-dev/scratch-gui-vite](https://github.com/evex-dev/scratch-gui-vite) - 
 - [watayan/PyPEN](https://github.com/watayan/PyPEN) - WaPENの文法をPythonっぽくしたもの
 - [deanm/omggif](https://github.com/deanm/omggif) - JavaScript implementation of a GIF 89a encoder and decoder
@@ -6619,7 +6620,7 @@
 - [nuskey8/osc-wasm](https://github.com/nuskey8/osc-wasm) - Open Sound Control (OSC) library implemented in WebAssembly/Rust for browsers and servers
 - [abirmeskin22-glitch/plateforme-restaurant-en-ligne](https://github.com/abirmeskin22-glitch/plateforme-restaurant-en-ligne) - Notre plateforme de restaurant en ligne est une solution numérique moderne qui permet aux utilisateurs de commander leurs repas en quelques clics, tout en offrant aux restaurateurs un outil efficace p
 - [Quiz2earn/Vila-State-frontend](https://github.com/Quiz2earn/Vila-State-frontend) - 
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [fgsants/REST-API-FreeRADIUS](https://github.com/fgsants/REST-API-FreeRADIUS) - A simple REST Server for the FreeRADIUS rlm_rest module
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [dtjohnson/xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support, jQuery/d3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact.
@@ -8813,7 +8814,6 @@
 - [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
 - [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) - The platform that powers Airbyte. Please file issues in https://github.com/airbytehq/airbyte
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-brow
-- [shotadft/KanaConverter](https://github.com/shotadft/KanaConverter) - This is a library that converts Roman letters to both hiragana and katakana and vice versa.
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
@@ -9424,6 +9424,7 @@
 
 ## Others 
 
+- [googlecodelabs/feedback](https://github.com/googlecodelabs/feedback) - Provide feedback to our codelabs by filing an issue here
 - [Virgileboat/lerobot-humanoid](https://github.com/Virgileboat/lerobot-humanoid) - 
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [nvdajp/cheatsheet](https://github.com/nvdajp/cheatsheet) - NVDA Cheat Sheet
@@ -9448,7 +9449,6 @@
 - [borpendy/DSpi](https://github.com/borpendy/DSpi) - Dual screen CM5 Gaming Handheld. Its a DS and pi. Depricated project, go see the 2nd version :)
 - [mdn/awesome](https://github.com/mdn/awesome) - A curated list of awesome projects powered by (and powering) MDN Web Docs
 - [ninstar/UniMaker](https://github.com/ninstar/UniMaker) - An easy-to-use level design tool.
-- [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) - A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
@@ -13201,7 +13201,7 @@
 - [modelscope/ms-agent](https://github.com/modelscope/ms-agent) - MS-Agent: a lightweight framework to empower agentic execution of complex tasks
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [diStyApps/Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI](https://github.com/diStyApps/Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI) - Convert your Stable Diffusion checkpoints quickly and easily.
@@ -14369,6 +14369,7 @@
 - [withastro/oxc](https://github.com/withastro/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+- [pound-emu/pound](https://github.com/pound-emu/pound) - Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress
 - [getfloresta/Floresta](https://github.com/getfloresta/Floresta) - A lightweight and embeddable Bitcoin client, built for sovereignty.
 - [endevco/aube](https://github.com/endevco/aube) - A fast Node.js package manager
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
@@ -14457,9 +14458,9 @@
 - [jmevel/git-eq](https://github.com/jmevel/git-eq) - A git command to quickly save your local changes in case of earthquake
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [MommaWatasu/Horse](https://github.com/MommaWatasu/Horse) - Horse is my OS.
-- [AdmAkbar/FastA](https://github.com/AdmAkbar/FastA) - Decentralized, event-driven microservice orchestrator enabling high-performance, scalable API gateways with adaptive security authentication hubs.
-- [AdmAkbar/CosmosHub](https://github.com/AdmAkbar/CosmosHub) - Transformative, real-time, event-driven architecture for interoperable, decentralized blockchain applications on a scalable multi-cloud BlockchainPlatform.
-- [AdmAkbar/PolkadotBridge](https://github.com/AdmAkbar/PolkadotBridge) - Autonomous Cross-Chain Data Convergence Engine: Real-time Synchronization Relay featuring Risk management and mitigation capabilities with Scalable architecture
+- [CasinoCoinUSDC/FastA](https://github.com/CasinoCoinUSDC/FastA) - Decentralized, event-driven microservice orchestrator enabling high-performance, scalable API gateways with adaptive security authentication hubs.
+- [CasinoCoinUSDC/CosmosHub](https://github.com/CasinoCoinUSDC/CosmosHub) - Transformative, real-time, event-driven architecture for interoperable, decentralized blockchain applications on a scalable multi-cloud BlockchainPlatform.
+- [CasinoCoinUSDC/PolkadotBridge](https://github.com/CasinoCoinUSDC/PolkadotBridge) - Autonomous Cross-Chain Data Convergence Engine: Real-time Synchronization Relay featuring Risk management and mitigation capabilities with Scalable architecture
 - [deadlyrwr/TestnetFaucet](https://github.com/deadlyrwr/TestnetFaucet) - Optimizing Real-time Transaction Processing, High-Performance Caching, and Fault-Tolerant Architectures TestnetFaucet projects: Expedited, Resilient, Optimized, Secure, Efficient, and Scalable.
 - [deadlyrwr/SignatureVerify](https://github.com/deadlyrwr/SignatureVerify) - Digital Transaction Authenticator leveraging Machine-Learning-Powered Real-Time Processing for Scalable Distributed Signature Verification.
 - [cprknr/XaraPLX](https://github.com/cprknr/XaraPLX) - What makes a Good AI?
@@ -16570,6 +16571,8 @@
 
 ## TypeScript 
 
+- [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
+- [yui540/comimi](https://github.com/yui540/comimi) - Open-source comic reader library for JS/TS
 - [hashedhyphen/pitch-test](https://github.com/hashedhyphen/pitch-test) - #440Hzを当てるやつ
 - [workos/auth.md](https://github.com/workos/auth.md) - An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain.
 - [chloe463/panelgrid](https://github.com/chloe463/panelgrid) - A flexible and performant React grid layout library with drag-and-drop and resize capabilities.
@@ -16893,7 +16896,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [amantus-ai/vibetunnel-landing](https://github.com/amantus-ai/vibetunnel-landing) - Landing Page for VibeTunnel: Turn any browser into your terminal & command your agents on the go.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [open-gitagent/gitagent-protocol](https://github.com/open-gitagent/gitagent-protocol) - A framework-agnostic, git-native standard for defining AI agents
+- [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - A framework-agnostic, git-native standard for defining AI agents
 - [theatre-js/website](https://github.com/theatre-js/website) - www.theatrejs.com
 - [izzylogo/newton-s-cradle](https://github.com/izzylogo/newton-s-cradle) - 
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
@@ -17486,7 +17489,6 @@
 - [denoland/dotland](https://github.com/denoland/dotland) - [Archived] deno.land website
 - [AkifumiSato/dexr](https://github.com/AkifumiSato/dexr) - React SSR & hydrate library on Deno.
 - [AkifumiSato/akfm-nextjs-rules-demo](https://github.com/AkifumiSato/akfm-nextjs-rules-demo) - 
-- [reactjs/ja.react.dev](https://github.com/reactjs/ja.react.dev) - React documentation website in Japanese
 - [AkifumiSato/akfm-test-utils](https://github.com/AkifumiSato/akfm-test-utils) - 
 - [recruit-tech/location-state](https://github.com/recruit-tech/location-state) - State management library for React that synchronizes with history entries supporting Next.js App Router.
 - [usounds/Rito](https://github.com/usounds/Rito) - ATProto Social Bookmark
@@ -19573,7 +19575,7 @@
 - [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - MentraOS is the leading smart glasses platform + SDK. Stream your view, transcribe audio, talk to AI and capture photos hands-free on compatible glasses.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Web3 users
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - [crafter-station/chess-battle](https://github.com/crafter-station/chess-battle) - llms playing chess
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch) - Open source tool for monitoring and managing ClickHouse clusters
@@ -19917,7 +19919,7 @@
 
 ## V 
 
-- [v420v/vas](https://github.com/v420v/vas) - x86-64 Assembler written in V for ELF/Mach-O/PE
+- [ibuki256/vas](https://github.com/ibuki256/vas) - x86-64 Assembler written in V for ELF/Mach-O/PE
 - [elliotchance/vsql](https://github.com/elliotchance/vsql) - ✌️ Single-file or PostgreSQL-server compatible transactional SQL database written in pure V.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
