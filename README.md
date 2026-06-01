@@ -254,6 +254,7 @@
 
 ## Assembly 
 
+- [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [nukep/gbshader](https://github.com/nukep/gbshader) - A real-time shader demo for the Game Boy Color!
 - [johnny-shaman/Sign](https://github.com/johnny-shaman/Sign) - Sign integrity generic notation
@@ -4066,7 +4067,7 @@
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -8504,6 +8505,7 @@
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [cocodrips/ipynb-writing](https://github.com/cocodrips/ipynb-writing) - 
@@ -9514,7 +9516,6 @@
 - [reddr/axplorer](https://github.com/reddr/axplorer) - axplorer - Android Permission Mappings
 - [warpdotdev/figma-skills](https://github.com/warpdotdev/figma-skills) - A collection of skills to facilitate the usage of the Figma MCP in Warp and Oz.
 - [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [hyp1231/awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
 - [coky-t/owasp-devsecops-guideline-ja](https://github.com/coky-t/owasp-devsecops-guideline-ja) - unofficial Japanese translation of OWASP DevSecOps Guideline.
 - [34306/TrollStoreiPA](https://github.com/34306/TrollStoreiPA) - This repo saved iPA for TrollStore, work as jailbreak.
@@ -9957,7 +9958,7 @@
 - [LiuYuan-SHU/webgpu-WGSL-EBNF-paraser](https://github.com/LiuYuan-SHU/webgpu-WGSL-EBNF-paraser) - 
 - [LiuYuan-SHU/web_server](https://github.com/LiuYuan-SHU/web_server) - A web server based on C++11, CMake, XMake, Git, Doxygen
 - [Yug2920/Yug2920](https://github.com/Yug2920/Yug2920) - 
-- [shinbatsu/typing](https://github.com/shinbatsu/typing) - The most comprehensive guide to fast typing practice. You are definitely destined for success. From 40 WPM and up to 200+ WPM
+- [shinbatsu/typing](https://github.com/shinbatsu/typing) - A small guide to fast typing practice. You are definitely destined for success. From 40 WPM and up to 200+ WPM
 - [MaryamKalantarii/TodoApp-FastApi](https://github.com/MaryamKalantarii/TodoApp-FastApi) - Create a Todo App Project with Fast API
 - [sakhader88-cloud/what-is-GitHub-](https://github.com/sakhader88-cloud/what-is-GitHub-) - GitHub is a platform for:  Hosting and sharing your code  Managing projects with version control (Git)  Collaborating with others  A GitHub repository = a folder for your project (with history, branch
 - [CVEProject/automation-working-group](https://github.com/CVEProject/automation-working-group) - CVE Automation Working Group
@@ -10501,7 +10502,6 @@
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
-- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -11277,6 +11277,7 @@
 - [continuedev/instinct](https://github.com/continuedev/instinct) - The state-of-the-art open Next Edit model, built by Continue
 - [lyang36/IMO25](https://github.com/lyang36/IMO25) - An AI agent system for solving International Mathematical Olympiad (IMO) problems using Google's Gemini, OpenAI, and XAI APIs.
 - [thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent) - A LLM-based Agent that predict its tasks proactively.
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [Flode-Labs/auto-labeler](https://github.com/Flode-Labs/auto-labeler) - Label your images using GPT-4!
 - [DIUx-xView/xView1_baseline](https://github.com/DIUx-xView/xView1_baseline) - Baseline models, scoring, and inference for the xView 2018 Challenge (i.e., xview1)
 - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) - xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
@@ -12043,7 +12044,7 @@
 - [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive) - Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for DRM research and education.
 - [peefpee/discord-member-backup-bot](https://github.com/peefpee/discord-member-backup-bot) - Want to Backup your Discord members incase of a server termination , With Its own site that includes hcaptcha to prevent bots
 - [Saebasol/Heliotrope](https://github.com/Saebasol/Heliotrope) - Hitomi.la metadata REST API (mirror)
-- [nakamura196/portal_pro](https://github.com/nakamura196/portal_pro) - 東京大学学術資産等アーカイブズポータルの活用例です。
+- [nakamura196/portal_pro](https://github.com/nakamura196/portal_pro) - UTokyo Digital Archive Portal Apps — visualization, IIIF, 3D, AR and WebGL demos built on the UTokyo Digital Archive Portal API / 東京大学デジタルアーカイブポータルAPIの活用例集
 - [nakamura196/iiif](https://github.com/nakamura196/iiif) - IIIF Discovery in Japan
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Spec-driven development for large codebases
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
@@ -12184,7 +12185,7 @@
 - [0xgh057r3c0n/CVE-2025-47812](https://github.com/0xgh057r3c0n/CVE-2025-47812) - Wing FTP Server RCE via Lua Injection
 - [d78ui98/APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
 - [persees/grafana_exploits](https://github.com/persees/grafana_exploits) - A repository with some scripts and ways of thinking to get code execution on Grafana
-- [rvizx/backdrop-rce](https://github.com/rvizx/backdrop-rce) - Backdrop CMS 1.27.1 Authenticated Remote Code Execution (RCE)  - PoC Exploit
+- [rvzsec/backdrop-rce](https://github.com/rvzsec/backdrop-rce) - Backdrop CMS 1.27.1 Authenticated Remote Code Execution (RCE)  - PoC Exploit
 - [MrSaighnal/GCR-Google-Calendar-RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT) - Google Calendar RAT is a PoC of Command&Control over Google Calendar Events
 - [zachChilders/deanonymization](https://github.com/zachChilders/deanonymization) - Deanonymization Pipeline
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
@@ -12462,7 +12463,6 @@
 - [0xmainak/Iris-project](https://github.com/0xmainak/Iris-project) - A simple machine learning project
 - [0xmainak/jiosaavn-main](https://github.com/0xmainak/jiosaavn-main) - 
 - [Ell-716/Book-Alchemy](https://github.com/Ell-716/Book-Alchemy) - A personalised digital library for organising and accessing your books.
-- [conorheffron/booking-sys](https://github.com/conorheffron/booking-sys) - Sample Reservations & Bookings Viewer System (Python / Django API & React TypeScript UI)
 - [Adrijan-Petek/Adrijan-Petek](https://github.com/Adrijan-Petek/Adrijan-Petek) - Hi, I’m Adrijan Petek a full-stack Web3 developer passionate about building decentralized apps, crypto tools, and creative digital experiences.  🚀 Exploring React, TypeScript, Python, Solidity, wagmi,
 - [wachawo/checkcrontab](https://github.com/wachawo/checkcrontab) - A Python script for checking syntax of crontab files.
 - [Youri666/Xtream-m3u_plus-IPTV-Player](https://github.com/Youri666/Xtream-m3u_plus-IPTV-Player) - This is a free open-source IPTV player that is able to load your IPTV playlist data and view them using external media players.
@@ -12774,7 +12774,7 @@
 - [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro) - Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: https://arxiv.org/pdf/2508.00414
 - [SkyworkAI/Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation metho
 - [swiss-ai/pretrain-data](https://github.com/swiss-ai/pretrain-data) - Pretraining data reconstruction scripts for Apertus
-- [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
+- [SemiAnalysisAI/InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Kimi K2.6, DeepSeekv4, GLM5 - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
 - [karakuri-ai/gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPTがYouTuberをやります
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [rkmt/summarize_arxv](https://github.com/rkmt/summarize_arxv) - 
@@ -14401,6 +14401,7 @@
 
 ## Rust 
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [browser-use/terminal](https://github.com/browser-use/terminal) - Terminal UI to get stuff done in the browser
 - [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden) - Perplexity open source garden for inference technology
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
@@ -15681,7 +15682,6 @@
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
-- [sileshn/ManjaroWSL2](https://github.com/sileshn/ManjaroWSL2) - Manjaro for WSL2 using wsldl
 - [ading2210/shimboot](https://github.com/ading2210/shimboot) - Boot a desktop Linux distribution from a Chrome OS RMA shim.
 - [matsuolab/ucllm_nedo_prod](https://github.com/matsuolab/ucllm_nedo_prod) - 
 - [ryanoasis/devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
@@ -18229,6 +18229,7 @@
 - [spejamchr/discover-automata](https://github.com/spejamchr/discover-automata) - Explore 1D cellular automata in the browser
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [HamiParsa/My-Messenger](https://github.com/HamiParsa/My-Messenger) - 
+- [conorheffron/booking-sys](https://github.com/conorheffron/booking-sys) - Sample Reservations & Bookings Viewer System (Python / Django API & React TypeScript UI)
 - [oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs) - An Obsidian plugin that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
 - [iceqing/react-amis-admin](https://github.com/iceqing/react-amis-admin) - 一个开箱可用的Amis + React 低代码开发环境
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
