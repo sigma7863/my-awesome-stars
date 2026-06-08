@@ -2184,7 +2184,6 @@
 - [atcoder/live_library](https://github.com/atcoder/live_library) - 解説放送で作ったライブラリ集です。コメントに該当放送へのURLを貼ります。
 - [Noeli14/MCppServer](https://github.com/Noeli14/MCppServer) - Fast and super efficient Minecraft Server written in C++
 - [koide3/glim](https://github.com/koide3/glim) - GLIM: versatile and extensible point cloud-based 3D localization and mapping framework
-- [Blockaid0-0/Block-Engine](https://github.com/Blockaid0-0/Block-Engine) - This is a game engine I am personally developing on. I don't have much experience in Graphics development, so this project will be a learning experience for me. Ill be working on this project on an av
 - [tpu-game-2024/quaternion_study](https://github.com/tpu-game-2024/quaternion_study) - ゲームプログラム論の課題です
 - [tpu-game-2024/tick-tack-toe](https://github.com/tpu-game-2024/tick-tack-toe) - ゲームプログラム論の課題です
 - [tpu-game-2024/path_finding_study](https://github.com/tpu-game-2024/path_finding_study) - ゲームプログラム論での経路探索のサンプル
@@ -2249,7 +2248,7 @@
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
+- [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -2274,7 +2273,7 @@
 - [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
-- [GalaxyGeneralRobotics/OpenTrack](https://github.com/GalaxyGeneralRobotics/OpenTrack) - Official implementation of OpenTrack.
+- [GalaxyGeneralRobotics/OpenTrack](https://github.com/GalaxyGeneralRobotics/OpenTrack) - Official implementation of Any2Track.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [Kitware/VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
@@ -5889,6 +5888,9 @@
 
 ## JavaScript 
 
+- [ArchiveLabs/iajs](https://github.com/ArchiveLabs/iajs) - Internet Archive client for the web (JavaScript & NodeJS).
+- [ArchiveLabs/audiobooks](https://github.com/ArchiveLabs/audiobooks) - Listen to millions of free books, read aloud by robot voices
+- [ArchiveLabs/iiif.archivelab.org](https://github.com/ArchiveLabs/iiif.archivelab.org) - Internet Archive IIIF Image 2.0 Server
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 - [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 - [koyasi777/searxng-gemini-answer-injector](https://github.com/koyasi777/searxng-gemini-answer-injector) - SearXNGの検索結果ページに、Google GeminiのAI回答を直接表示するユーザースクリプト
@@ -8473,7 +8475,7 @@
 - [sondosaabed/PalTaqdeer](https://github.com/sondosaabed/PalTaqdeer) - 🇵🇸 PalTaqdeer is an AI-Driven Student Success Forecaster. Was developed for Hackathon Google Launchpad, data analysis techniques, Linear regression model, and Flask for the web 🇵🇸
 - [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
 - [plotly/dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Open-source demos hosted on Dash Gallery
-- [Riochin/Apology_work](https://github.com/Riochin/Apology_work) - 🏆 Waffle College卒業ハッカソン最優秀賞受賞 【ごめんなさい.com】
+- [Riochin/Apology_work](https://github.com/Riochin/Apology_work) - 🏆 Waffle College 卒業ハッカソン 最優秀賞受賞 【ごめんなさい.com】
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
 - [siliconflow/onediff](https://github.com/siliconflow/onediff) - OneDiff: An out-of-the-box acceleration library for diffusion models.
 - [shhossain/computer_science](https://github.com/shhossain/computer_science) - Computer Science Topics
@@ -9847,7 +9849,6 @@
 - [labex-labs/practice-c-programming-projects](https://github.com/labex-labs/practice-c-programming-projects) - Build real C projects with 18 beginner-friendly challenges. Learn by doing with guided coding exercises and practical applications.
 - [MMAKINGDOM/CVE-2025-63419](https://github.com/MMAKINGDOM/CVE-2025-63419) - CrushFTP before 11.3.7_60 is vulnerable to HTML Injection. The Web-Based Server has a feature where users can share files, the feature reflects the filename to an emailbody field with no sanitzations 
 - [StevenZoernack/ReputationBoss-Wikipedia-](https://github.com/StevenZoernack/ReputationBoss-Wikipedia-) - 
-- [Gearlight-Labs/Windows-Privacy-Security-Toolkit](https://github.com/Gearlight-Labs/Windows-Privacy-Security-Toolkit) - A comprehensive PowerShell toolkit by Gearlight Labs designed to enhance Windows network privacy and security. It automates cache clearing, secure DNS configuration, firewall management, hosts file pr
 - [mediaelement/mediaelement-files](https://github.com/mediaelement/mediaelement-files) - Sample media files (MP4, WebM, Ogv, MP3, etc.) for the MediaElement.js library
 - [codecrafters-io/learning-stipends](https://github.com/codecrafters-io/learning-stipends) - Companies that support engineers with learning stipends
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
@@ -11096,6 +11097,10 @@
 
 ## Python 
 
+- [ArchiveLabs/lenny](https://github.com/ArchiveLabs/lenny) - The open source Library-in-a-Box to preserve and lend digital books.
+- [ArchiveLabs/pragma.archivelab.org](https://github.com/ArchiveLabs/pragma.archivelab.org) - An API for citing Wayback snapshots with OpenAnnotations
+- [ArchiveLabs/api.archivelab.org](https://github.com/ArchiveLabs/api.archivelab.org) - Archive.org API Server
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model
 - [Tencent-Hunyuan/Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) - Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition
@@ -12039,7 +12044,7 @@
 - [nakamura196/portal_pro](https://github.com/nakamura196/portal_pro) - UTokyo Digital Archive Portal Apps — visualization, IIIF, 3D, AR and WebGL demos built on the UTokyo Digital Archive Portal API / 東京大学デジタルアーカイブポータルAPIの活用例集
 - [nakamura196/iiif](https://github.com/nakamura196/iiif) - IIIF Discovery in Japan
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Spec-driven development for large codebases
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory platform for AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [w3c/feedvalidator](https://github.com/w3c/feedvalidator) - W3C-customized version of the feedvalidator (forked from https://github.com/rubys/feedvalidator/)
 - [TypeQuicker/character_sequence](https://github.com/TypeQuicker/character_sequence) - 
@@ -13503,7 +13508,7 @@
 - [GoogleChrome/related-website-sets](https://github.com/GoogleChrome/related-website-sets) - Note: This repository will be archived and will no longer accept new submissions.
 - [0x6rss/matkap](https://github.com/0x6rss/matkap) - Matkap - hunt down malicious Telegram bots
 - [REMnux/distro](https://github.com/REMnux/distro) - This repository contains supplemental files for the REMnux distro and the source files for the Debian packages that the distro installs from the REMnux package repository on Launchpad.
-- [akku1139/auto-aur](https://github.com/akku1139/auto-aur) - Updates are currently stopped.
+- [akku1139/auto-aur](https://github.com/akku1139/auto-aur) - Auto-AUR Revived
 - [Ascend/pytorch](https://github.com/Ascend/pytorch) - Ascend PyTorch adapter (torch_npu). Mirror of https://gitcode.com/Ascend/pytorch
 - [ahmia/ahmia-crawler](https://github.com/ahmia/ahmia-crawler) - Collection of crawlers used by the ahmia search engine
 - [ahmia/ahmia-index](https://github.com/ahmia/ahmia-index) - Ahmia's elasticsearch index
@@ -14045,7 +14050,7 @@
 - [hyprwm/hyprland-qt-support](https://github.com/hyprwm/hyprland-qt-support) - A qml style provider for hypr* qt apps
 - [hyprwm/hyprland-qtutils](https://github.com/hyprwm/hyprland-qtutils) - Hyprland QT/qml utility apps
 - [AxOS-project/Sleex](https://github.com/AxOS-project/Sleex) - The shell of the third desktop environement of AxOS
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [econsysqtcam/qtcam](https://github.com/econsysqtcam/qtcam) - QtCAM is a free, Open Source Linux Webcamera Software with more than 10 image control settings, extension settings and Color space switching.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -15436,6 +15441,7 @@
 
 ## SCSS 
 
+- [B4T3S/Fallout4TerminalTheme](https://github.com/B4T3S/Fallout4TerminalTheme) - 
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
@@ -15886,7 +15892,7 @@
 - [shouldbee/docker-coffeescript](https://github.com/shouldbee/docker-coffeescript) - Dockerfile for installing CoffeeScript 1.7.1 on Ubuntu 14.04
 - [alexandregv/42toolbox](https://github.com/alexandregv/42toolbox) - A bunch of macOS scripts to make your life better at @42School
 - [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess / VLESS + ws + tls 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA / SF
+- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵
 - [tstamborski/pixelart-icons](https://github.com/tstamborski/pixelart-icons) - Still growing set of totally free and royalty free pixel art icons.
 - [Azure-Samples/modern-data-warehouse-dataops](https://github.com/Azure-Samples/modern-data-warehouse-dataops) - DataOps for Microsoft Data Platform technologies. https://aka.ms/dataops-repo
 - [Didstopia/rust-server](https://github.com/Didstopia/rust-server) - Provides a dedicated linux server for Rust (the game) running inside a Docker container.
@@ -16907,7 +16913,7 @@
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - Translate text and entire notes in Obsidian
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [glincker/thesvg](https://github.com/glincker/thesvg) - 6,060+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 6,100+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
