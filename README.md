@@ -1564,6 +1564,9 @@
 
 ## C++ 
 
+- [kylemcdonald/FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 3.
+- [kylemcdonald/ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker) - CLM face tracking addon for openFrameworks based on Jason Saragih's FaceTracker.
+- [kylemcdonald/ofxCv](https://github.com/kylemcdonald/ofxCv) - Alternative approach to interfacing with OpenCv from openFrameworks.
 - [jonaslyk/exploitkitpub](https://github.com/jonaslyk/exploitkitpub) - 
 - [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) - RoguePlanet Windows Defender Vulnerability
 - [Subarasheese/daytona-xbla-recomp](https://github.com/Subarasheese/daytona-xbla-recomp) - A static recompilation of Daytona USA (Xbox 360 / XBLA, 2011)
@@ -1623,7 +1626,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [vslavik/poedit](https://github.com/vslavik/poedit) - Simple translation editor for PO, XLIFF, JSON etc. for Mac/Windows/Unix
 - [gbionics/idyntree](https://github.com/gbionics/idyntree) - Multibody Dynamics Library designed for Free Floating Robots
-- [dartsim/dart](https://github.com/dartsim/dart) - Research-focused C++20 physics engine for robotics, animation, and machine learning, with Python bindings
+- [dartsim/dart](https://github.com/dartsim/dart) - Research-focused C++23 physics engine for robotics, animation, and machine learning, with Python bindings
 - [simbody/simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -2524,6 +2527,7 @@
 
 ## CSS 
 
+- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [mitaniraito/gitSample](https://github.com/mitaniraito/gitSample) - 
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [TakahiRoyte/quiz-vue](https://github.com/TakahiRoyte/quiz-vue) - 学習用に作成したVue.jsベースのクイズアプリケーションです。quiz web application based on vue.js. DEMO -&gt;
@@ -4458,6 +4462,7 @@
 
 ## HTML 
 
+- [piguo45/single-file-wbs](https://github.com/piguo45/single-file-wbs) - 単一HTMLで動く WBS/ガント＋イナズマ線ビューア。データはJSON1枚・Claude Codeで保守 / Single-file WBS & Gantt viewer with inazuma (progress) line. Zero dependencies, AI-maintainable.
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
@@ -4927,7 +4932,7 @@
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
-- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+- [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
 - [iam-veeramalla/go-web-app](https://github.com/iam-veeramalla/go-web-app) - This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
@@ -5186,6 +5191,7 @@
 
 ## Java 
 
+- [primefaces/primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 - [processing/processing-android](https://github.com/processing/processing-android) - Processing mode and core library to create Android apps with Processing
 - [TeamDev-IP/JxBrowser-Examples](https://github.com/TeamDev-IP/JxBrowser-Examples) - JxBrowser Examples & Tutorials
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
@@ -5572,7 +5578,7 @@
 - [ygtdmn/VelocityRcon](https://github.com/ygtdmn/VelocityRcon) - Add RCON support to Velocity.
 - [michiruf/MCInvSync](https://github.com/michiruf/MCInvSync) - Minecraft: fabric mod for syncing inventories and player data between minecraft servers
 - [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations. Serialization/deserialization framework.
-- [Tribufu/VelocityRcon](https://github.com/Tribufu/VelocityRcon) - Add RCON support to Velocity
+- [tribufu/VelocityRcon](https://github.com/tribufu/VelocityRcon) - Add RCON support to Velocity
 - [Ivan-1F/Ivan-Carpet-Addition](https://github.com/Ivan-1F/Ivan-Carpet-Addition) - A Carpet mod (fabric-carpet) extension.
 - [RS-256/taichi-carpet](https://github.com/RS-256/taichi-carpet) - A carpet extension made for taichi SMP
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
@@ -5612,7 +5618,7 @@
 - [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) - To beat magic with magic :(
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-- [OrnitheMC/ornithe-standard-libraries](https://github.com/OrnitheMC/ornithe-standard-libraries) - A light-weight library of APIs that provides hooks and events for modding with Ornithe
+- [OrnitheMC/ornithe-standard-libraries](https://github.com/OrnitheMC/ornithe-standard-libraries) - Extended Libraries and APIs for modding with Ornithe.
 - [sVoxelDev/spigot-plugin-template](https://github.com/sVoxelDev/spigot-plugin-template) - Quickstart template to create new Spigot Minecraft plugins.
 - [retrooper/packetevents](https://github.com/retrooper/packetevents) - PacketEvents is a protocol library tailored to Minecraft Java Edition, designed to facilitate the processing and transmission of packets.
 - [Fallen-Breath/worldedit-hang-fix](https://github.com/Fallen-Breath/worldedit-hang-fix) - A simple mod that prevents WorldEdit from hanging the Minecraft server when the server is stopping
@@ -5910,6 +5916,7 @@
 
 ## JavaScript 
 
+- [kylemcdonald/ews](https://github.com/kylemcdonald/ews) - 
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [heistak/langredirector](https://github.com/heistak/langredirector) - Redirects pages of a translated blog to the original English pages
 - [bitburner-official/bitburner-scripts](https://github.com/bitburner-official/bitburner-scripts) - Repository of Bitburner scripts
@@ -6160,10 +6167,10 @@
 - [lec320fd90d/ApolloServer](https://github.com/lec320fd90d/ApolloServer) - Effortlessly harnessing the power of real-time data with automatic ApolloServer projects: adaptive, high-performance, scalable, resilient, concurrent, and fault-tolerant.
 - [lec320fd90d/DjangoR](https://github.com/lec320fd90d/DjangoR) - Distributed, API-Driven Data Fabric with Scalable Caching and Adaptive Security Controls Platform.
 - [lec320fd90d/ExpressRouter](https://github.com/lec320fd90d/ExpressRouter) - Dynamic path routing for real-time content delivery, leveraging intelligent load-balancing and scalable, distributed architecture Engine
-- [akrosmoke/OpenZeppelin](https://github.com/akrosmoke/OpenZeppelin) - Decentralized Smart Contract Governance Ensured via Automated Compliance Enforcement and Verification across the Blockchain Network.
-- [akrosmoke/GasOptimizer](https://github.com/akrosmoke/GasOptimizer) - Cloud-enabled, AI-infused predictive modeling for data-driven energy efficiency, delivering efficient, real-time insights to the GasOptimizerPlatform.
-- [akrosmoke/FoundryChain](https://github.com/akrosmoke/FoundryChain) - Cloud-agnostic FoundryChain orchestrator enables highly-parallelizable, self-healing, event-driven processing with adaptive workload manager.
-- [akrosmoke/PrivacyShield](https://github.com/akrosmoke/PrivacyShield) - Synthetic Risk Governance Engine utilizing advanced data encryption and real-time threat mitigation orchestration infrastructure.
+- [deadlyandro/OpenZeppelin](https://github.com/deadlyandro/OpenZeppelin) - Decentralized Smart Contract Governance Ensured via Automated Compliance Enforcement and Verification across the Blockchain Network.
+- [deadlyandro/GasOptimizer](https://github.com/deadlyandro/GasOptimizer) - Cloud-enabled, AI-infused predictive modeling for data-driven energy efficiency, delivering efficient, real-time insights to the GasOptimizerPlatform.
+- [deadlyandro/FoundryChain](https://github.com/deadlyandro/FoundryChain) - Cloud-agnostic FoundryChain orchestrator enables highly-parallelizable, self-healing, event-driven processing with adaptive workload manager.
+- [deadlyandro/PrivacyShield](https://github.com/deadlyandro/PrivacyShield) - Synthetic Risk Governance Engine utilizing advanced data encryption and real-time threat mitigation orchestration infrastructure.
 - [Jalex-Rosa/realAGI](https://github.com/Jalex-Rosa/realAGI) - A very real AGI that can maybe help you with your predictions. maybe.
 - [Jalex-Rosa/ApexVault](https://github.com/Jalex-Rosa/ApexVault) - Real-Time, AI-Infused, Cyber-Secure Data Orchestration Platform for Intelligent, Scalable, and Adaptive Enterprise Data Exchange Gateway.
 - [Jalex-Rosa/TradeForge](https://github.com/Jalex-Rosa/TradeForge) - Autonomous Enterprise Risk Navigator powered by predictive analytics and modular, adaptive TradeForge CoreIntegrate.
@@ -8250,6 +8257,7 @@
 
 ## Jupyter Notebook 
 
+- [kylemcdonald/AudioNotebooks](https://github.com/kylemcdonald/AudioNotebooks) - Collection of notebooks and scripts related to audio processing and machine learning.
 - [vdslab/qiita-map](https://github.com/vdslab/qiita-map) - Qiitaの投稿記事から作成した日本国内のIT技術マップです。
 - [HayatoHongo/EveryonesLLM](https://github.com/HayatoHongo/EveryonesLLM) - 
 - [mims-harvard/TDC](https://github.com/mims-harvard/TDC) - Therapeutics Commons (TDC): Multimodal Foundation for Therapeutic Science
@@ -8570,7 +8578,6 @@
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [ibm-aur-nlp/PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) - 
 - [pytorch/functorch](https://github.com/pytorch/functorch) - functorch is JAX-like composable function transforms for PyTorch.
-- [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
 - [meta-pytorch/botorch](https://github.com/meta-pytorch/botorch) - Bayesian optimization in PyTorch
 - [smartcorelib/smartcore-jupyter](https://github.com/smartcorelib/smartcore-jupyter) - Experiment with Smartcore using Jupyter Notebooks
 - [personabb/colab_AI_sample](https://github.com/personabb/colab_AI_sample) - 
@@ -11144,6 +11151,7 @@
 
 ## Python 
 
+- [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [andrewmccalip/Scribe](https://github.com/andrewmccalip/Scribe) - Vibe coded tool for marking up STEP files.
@@ -11358,7 +11366,7 @@
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
-- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency theory of everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point that survives 
+- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency simulation theory of everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point tha
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [Mellon-Inc/FLAIR](https://github.com/Mellon-Inc/FLAIR) - FLAIR: Factored Level And Interleaved Ridge - single-equation time series forecasting
 - [filiksyos/gittodoc](https://github.com/filiksyos/gittodoc) - Turn any Git repository into a documentation link.
@@ -11742,7 +11750,7 @@
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [t3kt/raytk](https://github.com/t3kt/raytk) - Raymarching shader toolkit for TouchDesigner
 - [kimjammer/Neuro](https://github.com/kimjammer/Neuro) - A recreation of Neuro-Sama originally created in 7 days.
-- [neurokitti/AIRIS-VtuberAI](https://github.com/neurokitti/AIRIS-VtuberAI) - 
+- [StudioMovieGirl/AIRIS-VtuberAI](https://github.com/StudioMovieGirl/AIRIS-VtuberAI) - 
 - [Redback-Operations/redback-documentation](https://github.com/Redback-Operations/redback-documentation) - Docusaurus instance for Redback Operations documentation
 - [a-mitani/welford](https://github.com/a-mitani/welford) - python (numpy) implementation of welford algorithm
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
@@ -13897,6 +13905,7 @@
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [webdataset/webdataset](https://github.com/webdataset/webdataset) - A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch.
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
+- [meta-pytorch/opacus](https://github.com/meta-pytorch/opacus) - Training PyTorch models with differential privacy
 - [meta-pytorch/torcheval](https://github.com/meta-pytorch/torcheval) - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools fo
 - [meta-pytorch/captum](https://github.com/meta-pytorch/captum) - Model interpretability and understanding for PyTorch
 - [meta-pytorch/torchx](https://github.com/meta-pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
@@ -14458,6 +14467,7 @@
 
 ## Rust 
 
+- [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [Muvon/octomind](https://github.com/Muvon/octomind) - Plug and play AI agents for any domain
 - [coord-e/thrust](https://github.com/coord-e/thrust) - Refinement type checking and inference tool for Rust
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
@@ -14594,8 +14604,8 @@
 - [lec320fd90d/FastA](https://github.com/lec320fd90d/FastA) - Decentralized, event-driven microservice orchestrator enabling high-performance, scalable API gateways with adaptive security authentication hubs.
 - [lec320fd90d/CosmosHub](https://github.com/lec320fd90d/CosmosHub) - Transformative, real-time, event-driven architecture for interoperable, decentralized blockchain applications on a scalable multi-cloud BlockchainPlatform.
 - [lec320fd90d/PolkadotBridge](https://github.com/lec320fd90d/PolkadotBridge) - Autonomous Cross-Chain Data Convergence Engine: Real-time Synchronization Relay featuring Risk management and mitigation capabilities with Scalable architecture
-- [akrosmoke/TestnetFaucet](https://github.com/akrosmoke/TestnetFaucet) - Optimizing Real-time Transaction Processing, High-Performance Caching, and Fault-Tolerant Architectures TestnetFaucet projects: Expedited, Resilient, Optimized, Secure, Efficient, and Scalable.
-- [akrosmoke/SignatureVerify](https://github.com/akrosmoke/SignatureVerify) - Digital Transaction Authenticator leveraging Machine-Learning-Powered Real-Time Processing for Scalable Distributed Signature Verification.
+- [deadlyandro/TestnetFaucet](https://github.com/deadlyandro/TestnetFaucet) - Optimizing Real-time Transaction Processing, High-Performance Caching, and Fault-Tolerant Architectures TestnetFaucet projects: Expedited, Resilient, Optimized, Secure, Efficient, and Scalable.
+- [deadlyandro/SignatureVerify](https://github.com/deadlyandro/SignatureVerify) - Digital Transaction Authenticator leveraging Machine-Learning-Powered Real-Time Processing for Scalable Distributed Signature Verification.
 - [Jalex-Rosa/XaraPLX](https://github.com/Jalex-Rosa/XaraPLX) - What makes a Good AI?
 - [Jalex-Rosa/EV](https://github.com/Jalex-Rosa/EV) - Transformative, self-healing EchoVault orchestrates real-time data harmonization with adaptive resilience across ApexInfrastructure.
 - [Jalex-Rosa/LumenMatch](https://github.com/Jalex-Rosa/LumenMatch) - Holistic omnichannel intelligence hub leveraging predictive event-driven architecture for intelligent, scalable, and distributed analytics.
@@ -16718,6 +16728,7 @@
 
 ## TypeScript 
 
+- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens.
 - [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow) - Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
 - [vdslab/steam-suggester](https://github.com/vdslab/steam-suggester) - 
@@ -16780,7 +16791,7 @@
 - [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
 - [vorahardik7/patronus-ai](https://github.com/vorahardik7/patronus-ai) - 
 - [akaghef/M3E](https://github.com/akaghef/M3E) - Mind Map Model Engine(M3E) develop
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the sovereign AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and 
 - [Legcord/Legacy](https://github.com/Legcord/Legacy) - Discord client for Windows 7 and Mac OS X
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [takuya0206/bigquery-mcp-server](https://github.com/takuya0206/bigquery-mcp-server) - 
@@ -18551,7 +18562,6 @@
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Use Hugging Face with JavaScript
 - [MuhammadUsman-DevOps/react-editor](https://github.com/MuhammadUsman-DevOps/react-editor) - Image, Presentation and Video editor. Canva clone
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
-- [Joi/chanoyu-db](https://github.com/Joi/chanoyu-db) - 
 - [radu985/recruit-landing-page-promotion](https://github.com/radu985/recruit-landing-page-promotion) - A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
 - [radu985/shadcn-saas-landing](https://github.com/radu985/shadcn-saas-landing) - open-source landing page - tailwindcss, shadcn-ui, react, typescript
 - [radu985/landing-page-template-3](https://github.com/radu985/landing-page-template-3) - 🎯 A free Next.js 15 + Tailwind CSS v4 SaaS landing page template. Clean, fast, and ready to launch your next startup or product.
@@ -20213,6 +20223,7 @@
 
 ## Vue 
 
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [chiuhans111/OpticTool](https://github.com/chiuhans111/OpticTool) - Web-based interactive lens design tool.
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
