@@ -256,7 +256,6 @@
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [nukep/gbshader](https://github.com/nukep/gbshader) - A real-time shader demo for the Game Boy Color!
-- [johnny-shaman/Sign](https://github.com/johnny-shaman/Sign) - Sign integrity generic notation
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [minagi-yu/acrylic-sign](https://github.com/minagi-yu/acrylic-sign) - 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -3312,6 +3311,7 @@
 
 ## Go 
 
+- [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [openclaw/crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
 - [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go) - High-performance Go package to read and write Parquet files
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -4296,7 +4296,7 @@
 - [Ullaakut/astronomer](https://github.com/Ullaakut/astronomer) - A tool to detect illegitimate stars from bot accounts on GitHub projects
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [mattn/go-tty](https://github.com/mattn/go-tty) - 
-- [bluesky-social/jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
+- [bluesky-social/jetstream-legacy](https://github.com/bluesky-social/jetstream-legacy) - A simplified JSON event stream for AT Proto
 - [sim1222/mixi2proto](https://github.com/sim1222/mixi2proto) - 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
@@ -4489,6 +4489,7 @@
 
 ## HTML 
 
+- [superfly/docs](https://github.com/superfly/docs) - 
 - [bergice/liquidglass](https://github.com/bergice/liquidglass) - Drinking the kool-aid.
 - [ProgMEM-CC/WhirlwindInjector](https://github.com/ProgMEM-CC/WhirlwindInjector) - 
 - [neutron42-jp/p2p-game](https://github.com/neutron42-jp/p2p-game) - 
@@ -5625,7 +5626,7 @@
 - [ygtdmn/VelocityRcon](https://github.com/ygtdmn/VelocityRcon) - Add RCON support to Velocity.
 - [michiruf/MCInvSync](https://github.com/michiruf/MCInvSync) - Minecraft: fabric mod for syncing inventories and player data between minecraft servers
 - [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations. Serialization/deserialization framework.
-- [tribufu/VelocityRcon](https://github.com/tribufu/VelocityRcon) - Add RCON support to Velocity
+- [Tribufu/VelocityRcon](https://github.com/Tribufu/VelocityRcon) - Add RCON support to Velocity
 - [Ivan-1F/Ivan-Carpet-Addition](https://github.com/Ivan-1F/Ivan-Carpet-Addition) - A Carpet mod (fabric-carpet) extension.
 - [RS-256/taichi-carpet](https://github.com/RS-256/taichi-carpet) - A carpet extension made for taichi SMP
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
@@ -5754,7 +5755,7 @@
 - [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) - RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
 - [ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - Image Cropping Library for Android, optimized for Camera / Gallery.
 - [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
-- [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android Permissions Framework, Adapt to Android 16
+- [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android Permissions Framework, Adapt to Android 17
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [GrenderG/Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids 💪
 - [getActivity/AndroidProject](https://github.com/getActivity/AndroidProject) - Android 技术中台，但愿人长久，搬砖不再有
@@ -6464,6 +6465,7 @@
 - [rocicorp/fractional-indexing](https://github.com/rocicorp/fractional-indexing) - Fractional Indexing in JavaScript
 - [expressjs/cookie-parser](https://github.com/expressjs/cookie-parser) - Parse HTTP request cookies
 - [johnny-shaman/white_cats](https://github.com/johnny-shaman/white_cats) - White Cats define Pure functions
+- [johnny-shaman/Sign](https://github.com/johnny-shaman/Sign) - Sign integrity generic notation
 - [lachlan2k/React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc) - Original Proof-of-Concepts for React2Shell CVE-2025-55182
 - [BrianMunizSilveira/cubemaster](https://github.com/BrianMunizSilveira/cubemaster) - 
 - [linfaxin/AndroidUIX](https://github.com/linfaxin/AndroidUIX) - Make a high-performance mobile web app / SPA with Android UI
@@ -8683,6 +8685,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client based on LiquidBounce.
 - [soltia48/SiliCaTool](https://github.com/soltia48/SiliCaTool) - Android NFC utility that reads FeliCa cards and writes selected systems/services—trimmed or zero-padded to 12 blocks—to SiliCa.
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
@@ -13631,7 +13634,7 @@
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
 - [termux/termux-create-package](https://github.com/termux/termux-create-package) - Python script to create Termux packages easily.
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL/MariaDB connector for Python
 - [DonJayamanne/vscode-python-samples](https://github.com/DonJayamanne/vscode-python-samples) - Samples for VS Code Python extension
 - [progate-hackathon-party/party-backend](https://github.com/progate-hackathon-party/party-backend) - 🏆 Progate ハッカソン powered by AWS 優秀賞受賞【OFF】 バックエンド側
@@ -14042,7 +14045,7 @@
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [embeddings-benchmark/results](https://github.com/embeddings-benchmark/results) - Data for the MTEB leaderboard
 - [embeddings-benchmark/arena](https://github.com/embeddings-benchmark/arena) - Code for the MTEB Arena
-- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
+- [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: State-of-the-art evaluation of embeddings across languages and modalities
 - [psf/cachecontrol](https://github.com/psf/cachecontrol) - The httplib2 caching algorithms packaged up for use with requests.
 - [psf/pypistats.org](https://github.com/psf/pypistats.org) - PyPI downloads analytics dashboard
 - [psf/pyperf](https://github.com/psf/pyperf) - Toolkit to run Python benchmarks
@@ -16913,6 +16916,7 @@
 
 ## TypeScript 
 
+- [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [aidenybai/cnfast](https://github.com/aidenybai/cnfast) - Fast drop in replacement for `cn`
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing config for your Linux desktop
@@ -16952,7 +16956,7 @@
 - [sqdshguy/wreq-js](https://github.com/sqdshguy/wreq-js) - HTTP client for Node.js with browser TLS fingerprint impersonation
 - [NO6KIKO/gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator) - Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
-- [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens.
+- [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 - [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow) - Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
 - [vdslab/steam-suggester](https://github.com/vdslab/steam-suggester) - 
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
@@ -17014,7 +17018,7 @@
 - [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
 - [vorahardik7/patronus-ai](https://github.com/vorahardik7/patronus-ai) - 
 - [akaghef/M3E](https://github.com/akaghef/M3E) - Mind Map Model Engine(M3E) develop
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [Legcord/Legacy](https://github.com/Legcord/Legacy) - Discord client for Windows 7 and Mac OS X
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [takuya0206/bigquery-mcp-server](https://github.com/takuya0206/bigquery-mcp-server) - 
@@ -20084,7 +20088,7 @@
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Open-source collection of stunning Components built with Tailwind CSS, shadcn/ui and Motion to use on your websites
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
+- [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Perplexity Inspired Answer Engine
@@ -20443,6 +20447,7 @@
 
 ## Vue 
 
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [chiuhans111/OpticTool](https://github.com/chiuhans111/OpticTool) - Web-based interactive lens design tool.
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
