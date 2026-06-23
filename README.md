@@ -454,7 +454,6 @@
 - [microsoft/git](https://github.com/microsoft/git) - A fork of Git containing Microsoft-specific patches.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [sefcom/Witcher](https://github.com/sefcom/Witcher) - Witcher is the first framework for using AFL to fuzz web applications.
-- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [ip-arch/linux-riscv32](https://github.com/ip-arch/linux-riscv32) - Linux code reading text execution environment
 - [pham-tuan-binh/claude-knob](https://github.com/pham-tuan-binh/claude-knob) - A Knob For Claude
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -1583,6 +1582,7 @@
 - [Subarasheese/daytona-xbla-recomp](https://github.com/Subarasheese/daytona-xbla-recomp) - A static recompilation of Daytona USA (Xbox 360 / XBLA, 2011)
 - [GensokyoClub/th08](https://github.com/GensokyoClub/th08) - Decompilation of 東方永夜抄　～ Imperishable Night 1.00d
 - [GensokyoClub/th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
+- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [nvdajp/nvdajp](https://github.com/nvdajp/nvdajp) - NVDA Japanese. see readme-nvdajp.md
 - [KillerZeus666/ProyectoEstructurasDeDatos](https://github.com/KillerZeus666/ProyectoEstructurasDeDatos) - Este repositorio contiene la implementación de un proyecto para la representación y manipulación de mallas poligonales en computación gráfica. Incluye algoritmos para manejar vértices, aristas y caras
 - [lip6/coriolis](https://github.com/lip6/coriolis) - Coriolis VLSI EDA Tool (LIP6)
@@ -4497,7 +4497,6 @@
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 - [ericfortis/lissajous](https://github.com/ericfortis/lissajous) - Lissajous Curve Interactive Demo
 - [sergiger/TMA_BeReal](https://github.com/sergiger/TMA_BeReal) - 
-- [piguo45/single-file-wbs](https://github.com/piguo45/single-file-wbs) - 単一HTMLで動く WBS/ガント＋イナズマ線ビューア。データはJSON1枚・Claude Codeで保守 / Single-file WBS & Gantt viewer with inazuma (progress) line. Zero dependencies, AI-maintainable.
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
@@ -5964,6 +5963,7 @@
 
 ## JavaScript 
 
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [Raadsl/website-spammer](https://github.com/Raadsl/website-spammer) - Spam a lot of tabs. Prank your friends when they leave their computer alone!
 - [7GrandDadPGN/MinibloxTranslationLayer](https://github.com/7GrandDadPGN/MinibloxTranslationLayer) - 
 - [veriepicc/Serenity-Bloxd](https://github.com/veriepicc/Serenity-Bloxd) - 
@@ -9557,6 +9557,8 @@
 
 ## Others 
 
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [aaronjmars/soul.md](https://github.com/aaronjmars/soul.md) - The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [SetProtocol/uniswap-tokenlist](https://github.com/SetProtocol/uniswap-tokenlist) - 
 - [takamichi-lab/ss-jdsc](https://github.com/takamichi-lab/ss-jdsc) - SS-JDSC: SINGLE-SPEAKER JAPANESE DYSARTHRIC SPEECH CORPUS
@@ -10265,7 +10267,7 @@
 - [rusty-sj/rusty-sj](https://github.com/rusty-sj/rusty-sj) - GitHub Profile README.md
 - [24stefan/24stefan](https://github.com/24stefan/24stefan) - config files for my github profile
 - [JetinAI/.github](https://github.com/JetinAI/.github) - JetinAI — Think Beyond Intelligence
-- [TheM1ddleM1n/TheM1ddleM1n](https://github.com/TheM1ddleM1n/TheM1ddleM1n) - All About Me Github page! Star repo = happiness
+- [TheM1ddleM1n/TheM1ddleM1n](https://github.com/TheM1ddleM1n/TheM1ddleM1n) - All About TheM1ddleM1n! The One Piece is real
 - [Pikolo7235/Pikolobase](https://github.com/Pikolo7235/Pikolobase) - 
 - [toxy4ny/toxy4ny](https://github.com/toxy4ny/toxy4ny) - Config files for my GitHub profile.
 - [osinj/based](https://github.com/osinj/based) - hello
@@ -11187,6 +11189,7 @@
 
 ## PowerShell 
 
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 - [microsoft/MSRC-Microsoft-Security-Updates-API](https://github.com/microsoft/MSRC-Microsoft-Security-Updates-API) - Repo with getting started projects for the Microsoft Security Updates API (msrc.microsoft.com/update-guide)
 - [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) - Automate the setup and configuration of your Windows development environment.
 - [SpecterShell/Dumplings](https://github.com/SpecterShell/Dumplings) - Dump remote resources and lint outdated packages
@@ -11258,9 +11261,10 @@
 
 ## Python 
 
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [chopratejas/ephemeral-ai](https://github.com/chopratejas/ephemeral-ai) - Self-healing AI workbench with warm Droplet pools on DigitalOcean
 - [chopratejas/vitals](https://github.com/chopratejas/vitals) - Codebase vital signs for Claude Code — finds hotspots, diagnoses root causes, ranks fixes by ROI
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform) - A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.
 - [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Libraries for Python
 - [googleapis/gapic-generator-python](https://github.com/googleapis/gapic-generator-python) - This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/gapic-generator
@@ -11301,6 +11305,7 @@
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKIL
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.
 - [HiyokoSauna37/claudecode-re-toolkit](https://github.com/HiyokoSauna37/claudecode-re-toolkit) - Reverse engineering & malware analysis toolkit for Claude Code - Static/Dynamic/Network analysis with Docker isolation
+- [piguo45/single-file-wbs](https://github.com/piguo45/single-file-wbs) - 単一HTMLで動く WBS/ガント＋イナズマ線ビューア。データはJSON1枚・Claude Codeで保守 / Single-file WBS & Gantt viewer with inazuma (progress) line. Zero dependencies, AI-maintainable.
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [andrewmccalip/Scribe](https://github.com/andrewmccalip/Scribe) - Vibe coded tool for marking up STEP files.
@@ -11381,7 +11386,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [cybertronai/schmidhuber-problems](https://github.com/cybertronai/schmidhuber-problems) - 58 implementations of synthetic learning problems from Jürgen Schmidhuber's papers (1989-2025). Pure numpy, laptop-runnable, paper-comparison metrics per stub. Algorithmic-lineage companion to hinton-
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [aisa-group/skill-inject](https://github.com/aisa-group/skill-inject) - Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks
 - [aisa-group/PostTrainBench](https://github.com/aisa-group/PostTrainBench) - Measuring how well CLI agents like Claude Code or Codex CLI can post-train base LLMs on a single H100 GPU in 10 hours
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -13720,7 +13725,7 @@
 - [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld) - Search, understand, reproduce, and improve an idea with ease
 - [inclusionAI/Ling](https://github.com/inclusionAI/Ling) - Ling is a MoE LLM provided and open-sourced by InclusionAI.
 - [areal-project/AReaL](https://github.com/areal-project/AReaL) - The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
-- [osuAkatsuki/bancho.py](https://github.com/osuAkatsuki/bancho.py) - The all-in-one osu! server backend for the general public. Simpler than the production Akatsuki stack, while maintaining 99% of the use cases with unique features.
+- [osuAkatsuki/bancho.py](https://github.com/osuAkatsuki/bancho.py) - The all-in-one osu! server backend for everyone. Simpler than Akatsuki's production stack, while maintaining core functionality.. plus a few unique features
 - [GoogleChrome/chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard) - Chrome Status Dashboard
 - [GoogleChrome/related-website-sets](https://github.com/GoogleChrome/related-website-sets) - Note: This repository will be archived and will no longer accept new submissions.
 - [0x6rss/matkap](https://github.com/0x6rss/matkap) - Matkap - hunt down malicious Telegram bots
@@ -14635,7 +14640,7 @@
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [peteretelej/tree](https://github.com/peteretelej/tree) - tree is an open-source cross-platform tree cli implemented in Rust
-- [nubjs/nub](https://github.com/nubjs/nub) - The all-in-one Node.js toolkit
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [idanarye/bevy-tnua](https://github.com/idanarye/bevy-tnua) - A floating character controller for Bevy
 - [crcrworks/manaba](https://github.com/crcrworks/manaba) - manaba utils
 - [beejjorgensen/Wizards-Castle-Rust](https://github.com/beejjorgensen/Wizards-Castle-Rust) - Wizard's Castle as a vehicle for learning Rust
@@ -17547,7 +17552,7 @@
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [TencentEdgeOne/self-hosted-pages-mcp](https://github.com/TencentEdgeOne/self-hosted-pages-mcp) - Self-host the HTTP-based EdgeOne Pages MCP Server and bind it to your own domain.
-- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
+- [TencentEdgeOne/edgeone-makers-mcp](https://github.com/TencentEdgeOne/edgeone-makers-mcp) - An MCP service designed for deploying HTML content to EdgeOne Pages and obtaining an accessible public URL.
 - [seagirl/musigny](https://github.com/seagirl/musigny) - (UNDER DEVELOPMENT) Generates Boilerplate for TypeScript with Clean Architecture
 - [nithsP09/nithya-parvathy-portfolio-new](https://github.com/nithsP09/nithya-parvathy-portfolio-new) - My new personal portfolio website built with Next.js, React, Tailwind CSS & ShadCN UI — fully responsive for mobile and desktop.
 - [brc-dd/iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - A cryptographic utility for sealing a JSON object using symmetric key encryption with message integrity verification.
@@ -19907,7 +19912,7 @@
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [tegnike/aituber-kit](https://github.com/tegnike/aituber-kit) - A web application for chatting with AI characters that anyone can easily set up and deploy.
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
@@ -20262,7 +20267,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [minagishl/google-calendar-tonton](https://github.com/minagishl/google-calendar-tonton) - Auto-send Tonton’s schedule from Google Calendar.
+- [minagishl/google-calendar-schedule-fill](https://github.com/minagishl/google-calendar-schedule-fill) - Auto-send Tonton’s schedule from Google Calendar.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [sendou-ink/sendou.ink](https://github.com/sendou-ink/sendou.ink) - Competitive Splatoon Platform
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
