@@ -447,6 +447,7 @@
 
 ## C 
 
+- [tado/openFrameworks-examples](https://github.com/tado/openFrameworks-examples) - openFrameworks examples for my class.
 - [bikini/cve](https://github.com/bikini/cve) - 
 - [HandHeldLegend/NS-LIB-HID](https://github.com/HandHeldLegend/NS-LIB-HID) - A portable C library designed to assist in emulating the function of Nintendo Switch gamepads.
 - [mizuyoukanao/BOWHEAD](https://github.com/mizuyoukanao/BOWHEAD) - Automate your Gamecube with ESP32.
@@ -1094,6 +1095,8 @@
 
 ## C# # 
 
+- [keijiro/LaspVfx](https://github.com/keijiro/LaspVfx) - Audio reactive Unity VFX with LASP
+- [Taku3939/ArtNetForUnity](https://github.com/Taku3939/ArtNetForUnity) - Unity内でArtNetでデータを簡易に受信と録画するためのプロジェクト
 - [supermomonga/papers-cli](https://github.com/supermomonga/papers-cli) - A CLI tool for searching, downloading, and managing academic papers from arXiv, J-STAGE, and IRDB (Institutional Repositories).
 - [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [JitHubApp/JitHubV2](https://github.com/JitHubApp/JitHubV2) - GitHub WinUI Client
@@ -1576,6 +1579,8 @@
 
 ## C++ 
 
+- [keijiro/KlakSpout](https://github.com/keijiro/KlakSpout) - Spout plugin for Unity
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [bikini/notepad-plus-plus](https://github.com/bikini/notepad-plus-plus) - Notepad++ official repository
 - [bikini/iphone-dos](https://github.com/bikini/iphone-dos) - dos iphones with mass bluetooth connections
 - [mizuyoukanao/WHALE](https://github.com/mizuyoukanao/WHALE) - DOL Macro ControllerとORCA GC Controllerに対応するGC自動化用Arduinoファームウェア
@@ -2552,6 +2557,7 @@
 
 ## CSS 
 
+- [naginoyu/_2amscene](https://github.com/naginoyu/_2amscene) - 
 - [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox) - A clean and compact Firefox theme.
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [yot-sailing/YOT-novel](https://github.com/yot-sailing/YOT-novel) - 小説投稿サイト Roman
@@ -4554,6 +4560,7 @@
 
 ## HTML 
 
+- [naginoyu/naginoyu.github.io](https://github.com/naginoyu/naginoyu.github.io) - 
 - [Metnew/telegram-links-nsworkspace-open](https://github.com/Metnew/telegram-links-nsworkspace-open) - Telegram (v4.9.155353) was rendering file:// links + opening them via NSWorkspace.open -&gt; code execution.
 - [Metnew/uxss-db](https://github.com/Metnew/uxss-db) - 🔪Browser logic vulnerabilities :skull_and_crossbones:
 - [intelligencedev/PromptForge](https://github.com/intelligencedev/PromptForge) - PromptForge is a visual prompt management system for AI image generation. It provides an intuitive interface to organize, browse, and manage artistic style prompts with visual references.
@@ -4590,7 +4597,6 @@
 - [w3c/i18n-drafts](https://github.com/w3c/i18n-drafts) - A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.
 - [nhkrd/basjoo.js](https://github.com/nhkrd/basjoo.js) - 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [obdev/WebYep](https://github.com/obdev/WebYep) - Web Content Management System
 - [obdev/CrossPack-AVR](https://github.com/obdev/CrossPack-AVR) - Script and associated files for building avr-gcc and related tools on Mac OS X with Xcode 4
 - [YoYoGames/GameMaker-Manual](https://github.com/YoYoGames/GameMaker-Manual) - 
@@ -6038,6 +6044,7 @@
 
 ## JavaScript 
 
+- [duino-coin/duco-webservices](https://github.com/duino-coin/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
 - [cupy/cupy.dev](https://github.com/cupy/cupy.dev) - The CuPy Website
 - [uellenberg/tutorials](https://github.com/uellenberg/tutorials) - 
 - [Cratecode/cli](https://github.com/Cratecode/cli) - Cratecode's CLI for interacting with the API.
@@ -6061,6 +6068,7 @@
 - [TwintailTeam/runner-manifests](https://github.com/TwintailTeam/runner-manifests) - Official linux runners repository for TwintailLauncher.
 - [neutron42-jp/WebGameLauncher-and-ModManager](https://github.com/neutron42-jp/WebGameLauncher-and-ModManager) - 
 - [daydreamlive/example-apps](https://github.com/daydreamlive/example-apps) - Example apps and creative interfaces for DEMON realtime music generation
+- [pashov/skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
 - [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification
 - [beejjorgensen/pl0-compiler](https://github.com/beejjorgensen/pl0-compiler) - A simple PL/0 compiler in JavaScript
 - [ryo-a/tw2csv](https://github.com/ryo-a/tw2csv) - Easy CLI Tool for collecting tweets.
@@ -9096,6 +9104,7 @@
 
 ## Lua 
 
+- [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
 - [dragonfireclient/killaura](https://github.com/dragonfireclient/killaura) - A dragonfire CSM that add Killaura and ForceField
 - [dragonfireclient/nametags](https://github.com/dragonfireclient/nametags) - 
 - [dragonfireclient/autotool](https://github.com/dragonfireclient/autotool) - A dragonfire CSM to automatically select the best tool for digging a node
@@ -9653,6 +9662,7 @@
 
 ## Others 
 
+- [ElPepe101/Kinect-TouchDesigner-point-cloud](https://github.com/ElPepe101/Kinect-TouchDesigner-point-cloud) - 
 - [Cratecode/run-protobuf](https://github.com/Cratecode/run-protobuf) - 
 - [Cratecode/provided](https://github.com/Cratecode/provided) - 
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
@@ -9666,7 +9676,7 @@
 - [voidly-ai/voidly-public](https://github.com/voidly-ai/voidly-public) - Research documentation, architecture, and API examples for the Voidly censorship intelligence platform
 - [ombharatiya/ombharatiya](https://github.com/ombharatiya/ombharatiya) - 
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
-- [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
+- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [TheAjinkya/remote-job-sites](https://github.com/TheAjinkya/remote-job-sites) - List of 50+ Remote Job Portals that are actively hiring for a fully remote or semi remote jobs
 - [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -9760,6 +9770,7 @@
 - [valeman/awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 - [valeman/Transformers_And_LLM_Are_What_You_Dont_Need](https://github.com/valeman/Transformers_And_LLM_Are_What_You_Dont_Need) - The best repository showing why transformers might not be the answer for time series forecasting and showcasing the best SOTA non transformer models.
 - [valeman/Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books) - 
+- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [Rybatter50-cloud/Feeds](https://github.com/Rybatter50-cloud/Feeds) - Global News Feed File
 - [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories withi
 - [criccomini/write-like-paul-graham](https://github.com/criccomini/write-like-paul-graham) - An agent skill for thesis-first essays, distilled from Paul Graham’s writing without imitating his exact voice.
@@ -11366,6 +11377,9 @@
 
 ## Python 
 
+- [arusyukuhai/gpdiffusion-test](https://github.com/arusyukuhai/gpdiffusion-test) - 
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [ghidraninja/game-boy-ntgbtminer](https://github.com/ghidraninja/game-boy-ntgbtminer) - The (Python-based) mining software required for the Game Boy mining project.
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [bikini/funny](https://github.com/bikini/funny) - 
@@ -11426,7 +11440,6 @@
 - [neutron42-jp/conv-ascii-art](https://github.com/neutron42-jp/conv-ascii-art) - 
 - [neutron42-jp/AIcodeswarm-lmstudio](https://github.com/neutron42-jp/AIcodeswarm-lmstudio) - 
 - [daydreamlive/demonTD](https://github.com/daydreamlive/demonTD) - WIP TouchDesigner operator for DEMON — real-time AI music generation. Drop-in .tox with all DEMON params, audio I/O via CHOPs, and optional Daydream auth.
-- [pashov/skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [Reverse-Engineering-Freaks/freflow-modem](https://github.com/Reverse-Engineering-Freaks/freflow-modem) - Modem for FreFlow glow stick
 - [Reverse-Engineering-Freaks/sc-tools](https://github.com/Reverse-Engineering-Freaks/sc-tools) - Tools for exploration inside Smart Cards
@@ -11664,7 +11677,7 @@
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
-- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency simulation theory of everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point tha
+- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency theory-of-everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point that survives 
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [Mellon-Inc/FLAIR](https://github.com/Mellon-Inc/FLAIR) - FLAIR: Factored Level And Interleaved Ridge - single-equation time series forecasting
 - [filiksyos/gittodoc](https://github.com/filiksyos/gittodoc) - Turn any Git repository into a documentation link.
@@ -12008,7 +12021,7 @@
 - [sibapybot/Siba-Security](https://github.com/sibapybot/Siba-Security) - 
 - [TheAndreyZakharov/Botyan](https://github.com/TheAndreyZakharov/Botyan) - 🤖👩🏻 Botyan is a cross-platform Telegram and Discord bot powered by a language model and featuring the persona of Kate Artivian. Botyan can chat, generate memes-demotivators, run mini-games, apply vide
 - [TheAndreyZakharov/Russian-Automotive-Assistance-System](https://github.com/TheAndreyZakharov/Russian-Automotive-Assistance-System) - 🚘⚠️ RAAS is a modular driver assistance system developed in the CARLA simulator for integration into Russian vehicles such as Lada, Aurus, and others. It includes a wide range of ADAS features and pro
-- [TheAndreyZakharov/Compass-HR-AI-Module](https://github.com/TheAndreyZakharov/Compass-HR-AI-Module) - 📊📈 COMPASS-HR: AI-powered module for career paths, skill-gap analysis & org competency mapping. Recommends learning plans, helps build teams, models future roles, estimates hiring costs and aligns peo
+- [TheAndreyZakharov/Frappe-HR-Forge](https://github.com/TheAndreyZakharov/Frappe-HR-Forge) - 🧩🏢 Frappe HR Forge is a local ERPNext/Frappe HRMS development project for building custom HR modules. It includes a Docker portal, a prepared Frappe app, custom HR DocTypes, workspace, roles, permissi
 - [simonw/denobox](https://github.com/simonw/denobox) - Run JavaScript code and WASM in a Deno sandbox
 - [Esonhugh/How-AI-Kills-the-VShell](https://github.com/Esonhugh/How-AI-Kills-the-VShell) - Article backup
 - [mohodar/Kotak-terminal](https://github.com/mohodar/Kotak-terminal) - 
@@ -13426,7 +13439,7 @@
 - [kfuku52/csubst](https://github.com/kfuku52/csubst) - Analyzing combinations of codon substitution histories
 - [kfuku52/nwkit](https://github.com/kfuku52/nwkit) - Newick tree processing
 - [kfuku52/cdskit](https://github.com/kfuku52/cdskit) - Processing protein-coding DNA sequences in frame
-- [vokrob/yt-dlp-gui](https://github.com/vokrob/yt-dlp-gui) - Desktop GUI for yt-dlp. Download videos and audio from 1000+ sites.
+- [vokrob/yt-dlp-gui](https://github.com/vokrob/yt-dlp-gui) - Desktop GUI for yt-dlp. Download videos and audio from 1000+ sites
 - [TheIndependentCode/Neural-Network](https://github.com/TheIndependentCode/Neural-Network) - Machine Learning library for educational purpose.
 - [SpM-lab/sparse-ir](https://github.com/SpM-lab/sparse-ir) - On-the-fly computation of IR basis functions
 - [issp-center-dev/DCore](https://github.com/issp-center-dev/DCore) - DMFT software for CORrelated Electrons
@@ -14768,6 +14781,7 @@
 
 ## Rust 
 
+- [equalsraf/win32yank](https://github.com/equalsraf/win32yank) - Windows clipboard tool
 - [aembke/fred.rs](https://github.com/aembke/fred.rs) - An async client for Valkey and Redis
 - [Cratecode/rust](https://github.com/Cratecode/rust) - 
 - [uellenberg/SLL](https://github.com/uellenberg/SLL) - Simple Low-level Language
@@ -17092,6 +17106,9 @@
 
 ## TypeScript 
 
+- [anametologin/krohnkite](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin
+- [GitBolt/expense-tracker-workshop](https://github.com/GitBolt/expense-tracker-workshop) - 💵 Simple workshop code for expense tracker Solana dApp
+- [solana-foundation/program-examples](https://github.com/solana-foundation/program-examples) - A repository of Solana program examples
 - [uellenberg/DecimalSystem-Site](https://github.com/uellenberg/DecimalSystem-Site) - 
 - [uellenberg/DecimalSystem](https://github.com/uellenberg/DecimalSystem) - A library for converting numbers to any non-integer/decimal (or just integer) base.
 - [uellenberg/REXS](https://github.com/uellenberg/REXS) - A language for writing regular expressions.
@@ -17607,7 +17624,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [ether/ep_markdown](https://github.com/ether/ep_markdown) - See edits as markdown in Etherpad
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [JichouP/obsidian-marp-plugin](https://github.com/JichouP/obsidian-marp-plugin) - Plugin to use Marp with Obsidian
 - [sqlrooms/sqlrooms](https://github.com/sqlrooms/sqlrooms) - Building blocks for React data analytics apps powered by DuckDB-WASM
 - [ZephyrCloudIO/zephyr-examples](https://github.com/ZephyrCloudIO/zephyr-examples) - Zephyr reference examples
@@ -19556,7 +19573,7 @@
 - [ORCID/orcid-angular](https://github.com/ORCID/orcid-angular) - Angular UI for ORCID
 - [logos-messaging/logos-delivery-js](https://github.com/logos-messaging/logos-delivery-js) - JavaScript implementation of Waku v2
 - [MTKruto/MTKruto](https://github.com/MTKruto/MTKruto) - Cross-runtime JavaScript library for building Telegram clients
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, and Aube.
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, Nub, Aube.
 - [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
 - [fa0311/x-client-transaction-id-pair-dict](https://github.com/fa0311/x-client-transaction-id-pair-dict) - A dictionary for easily generating x-client-transaction-id
 - [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
@@ -20841,6 +20858,7 @@
 
 ## YARA 
 
+- [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
 - [magicsword-io/bootloaders](https://github.com/magicsword-io/bootloaders) - bootloaders.io is a curated list of known malicious bootloaders for various operating systems. The project aims to assist security professionals in staying informed and mitigating potential threats as
 - [magicsword-io/LOLDrivers](https://github.com/magicsword-io/LOLDrivers) - Living Off The Land Drivers
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
