@@ -640,7 +640,7 @@
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [ygwyg/system](https://github.com/ygwyg/system) - Control your mac from anywhere with AI
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
@@ -849,7 +849,7 @@
 - [justinmeiners/neural-nets-sim](https://github.com/justinmeiners/neural-nets-sim) - Neural net simulator (McCulloch & Pitts)
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
-- [TheAndreyZakharov/Compass-HR-AI-Module](https://github.com/TheAndreyZakharov/Compass-HR-AI-Module) - 📊📈 COMPASS-HR: AI-powered module for career paths, skill-gap analysis & org competency mapping. Recommends learning plans, helps build teams, models future roles, estimates hiring costs and aligns peo
+- [TheAndreyZakharov/Frappe-HR-Forge](https://github.com/TheAndreyZakharov/Frappe-HR-Forge) - 🧩🏢 Frappe HR Forge is a local ERPNext/Frappe HRMS development project for building custom HR modules. It includes a Docker portal, a prepared Frappe app, custom HR DocTypes, workspace, roles, permissi
 - [asyhak/Solo-Leveling-Self-Improvement-App](https://github.com/asyhak/Solo-Leveling-Self-Improvement-App) - Solo Leveling - Self-Improvement App is a gamified self-improvement application that transforms personal development into an immersive RPG experience.
 - [ygwyg/system](https://github.com/ygwyg/system) - Control your mac from anywhere with AI
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -1222,7 +1222,7 @@
 - [kwalus/Canopy](https://github.com/kwalus/Canopy) - A local-first, encrypted Slack/Discord alternative built for the agentic era. AI agents, such as openclaw, join channels, receive tasks, and coordinate on equal footing with humans — over a serverless
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [papercomputeco/stereOS](https://github.com/papercomputeco/stereOS) - A Linux based operating system hardened and purpose built for AI agents
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
@@ -2292,6 +2292,7 @@
 
 ## arduino 
 
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [Bastelschlumpf/M5PaperWeather](https://github.com/Bastelschlumpf/M5PaperWeather) - M5Paper project with weather information from openweathermap
 - [Eddddddddy/E-ink-esp32-arduino-weather-time-note](https://github.com/Eddddddddy/E-ink-esp32-arduino-weather-time-note) - You can get time\weather\temperature-inside\humility-inside\pressure-inside\IAQ-inside\QQ-note\computer-info on this device.
 - [SolderedElectronics/Inkplate-Arduino-library](https://github.com/SolderedElectronics/Inkplate-Arduino-library) - Inkplate family Arduino library. The easiest way to add e-paper to your project.
@@ -3209,6 +3210,7 @@
 
 ## blockchain 
 
+- [solana-foundation/program-examples](https://github.com/solana-foundation/program-examples) - A repository of Solana program examples
 - [otter-sec/anchor](https://github.com/otter-sec/anchor) - ⚓ Solana Program Framework
 - [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py) - A Python library to interact with the XRP Ledger (XRPL) blockchain
 - [XRPLF/xrpl.js](https://github.com/XRPLF/xrpl.js) - A JavaScript/TypeScript API for interacting with the XRP Ledger in Node.js and the browser
@@ -3412,7 +3414,6 @@
 
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
 - [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [Crypto-toolbox/HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -4064,7 +4065,7 @@
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [cannedsigmas/claudex](https://github.com/cannedsigmas/claudex) - 🔧 Build and host your own Claude Code UI locally or in the cloud, offering a full IDE experience with powerful extensibility options.
@@ -5176,6 +5177,8 @@
 
 ## cryptocurrency 
 
+- [duino-coin/duco-webservices](https://github.com/duino-coin/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [man-c/pycoingecko](https://github.com/man-c/pycoingecko) - Python wrapper for the CoinGecko API
 - [veebch/btcticker](https://github.com/veebch/btcticker) - ePaper Cryptocurrency Ticker
 - [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py) - A Python library to interact with the XRP Ledger (XRPL) blockchain
@@ -6869,6 +6872,7 @@
 
 ## distributed-systems 
 
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
@@ -10358,6 +10362,8 @@
 
 ## hacktoberfest 
 
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
+- [solana-foundation/program-examples](https://github.com/solana-foundation/program-examples) - A repository of Solana program examples
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -15058,6 +15064,7 @@
 
 ## machine-learning 
 
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [mims-harvard/TDC](https://github.com/mims-harvard/TDC) - Therapeutics Commons (TDC): Multimodal Foundation for Therapeutic Science
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
@@ -16835,6 +16842,7 @@
 
 ## nextjs 
 
+- [GitBolt/expense-tracker-workshop](https://github.com/GitBolt/expense-tracker-workshop) - 💵 Simple workshop code for expense tracker Solana dApp
 - [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) - Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront.
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -17519,6 +17527,7 @@
 - [seratch/notion-translator](https://github.com/seratch/notion-translator) - CLI tool to translate Notion pages into a different language
 - [watsuyo/notion-rss-reader](https://github.com/watsuyo/notion-rss-reader) - You can save articles from your favorite sites in the Notion Database.
 - [levz0r/gmail-tester](https://github.com/levz0r/gmail-tester) - A simple Node.js Gmail client which checks the inbox for message existence
+- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine for offline and realtime use. Postgres, openapi & react-query are foundational layers.
 - [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for self-host. Example, npm registry Mirror on China https://registry.npmmirror.com
 - [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
@@ -17620,7 +17629,7 @@
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [mktoho12/zensla-cli](https://github.com/mktoho12/zensla-cli) - Slack ワークスペース内のチャンネル一覧を取得するためのツールです
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [8amjp/novel-builder](https://github.com/8amjp/novel-builder) - Web小説執筆補助ツール
 - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper) - :robot: :palm_tree: Real-time automated dependency updates for npm and GitHub
 - [greenkeeperio/greenkeeper-lockfile](https://github.com/greenkeeperio/greenkeeper-lockfile) - :lock: Your lockfile, up to date, all the time
@@ -18450,6 +18459,16 @@
 
 ## others 
 
+- [arusyukuhai/gpdiffusion-test](https://github.com/arusyukuhai/gpdiffusion-test) - 
+- [tado/openFrameworks-examples](https://github.com/tado/openFrameworks-examples) - openFrameworks examples for my class.
+- [ElPepe101/Kinect-TouchDesigner-point-cloud](https://github.com/ElPepe101/Kinect-TouchDesigner-point-cloud) - 
+- [naginoyu/_2amscene](https://github.com/naginoyu/_2amscene) - 
+- [naginoyu/naginoyu.github.io](https://github.com/naginoyu/naginoyu.github.io) - 
+- [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
+- [anametologin/krohnkite](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin
+- [equalsraf/win32yank](https://github.com/equalsraf/win32yank) - Windows clipboard tool
+- [ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts) - Scripts for the Ghidra software reverse engineering suite.
+- [ghidraninja/game-boy-ntgbtminer](https://github.com/ghidraninja/game-boy-ntgbtminer) - The (Python-based) mining software required for the Game Boy mining project.
 - [cupy/cupy.dev](https://github.com/cupy/cupy.dev) - The CuPy Website
 - [uellenberg/DecimalSystem-Site](https://github.com/uellenberg/DecimalSystem-Site) - 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
@@ -18573,7 +18592,7 @@
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 - [nisarg0/Algorithm-Implementation](https://github.com/nisarg0/Algorithm-Implementation) - This is our effort to collect the best implementations to tough algorithms. All codes are written in c++.
 - [nisarg0/CheatSheetForSDE2](https://github.com/nisarg0/CheatSheetForSDE2) - This is repo with collection of most important stuff needed to become an SDE2.
-- [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
+- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [TheAjinkya/remote-job-sites](https://github.com/TheAjinkya/remote-job-sites) - List of 50+ Remote Job Portals that are actively hiring for a fully remote or semi remote jobs
 - [FareedKhan-dev/production-grade-agentic-system](https://github.com/FareedKhan-dev/production-grade-agentic-system) - Core 7 layers of production grade agentic system
 - [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
@@ -26301,7 +26320,7 @@
 - [kfuku52/nwkit](https://github.com/kfuku52/nwkit) - Newick tree processing
 - [kfuku52/cdskit](https://github.com/kfuku52/cdskit) - Processing protein-coding DNA sequences in frame
 - [mfansler/txcutr](https://github.com/mfansler/txcutr) - R methods for generating truncated transcript annotations
-- [vokrob/yt-dlp-gui](https://github.com/vokrob/yt-dlp-gui) - Desktop GUI for yt-dlp. Download videos and audio from 1000+ sites.
+- [vokrob/yt-dlp-gui](https://github.com/vokrob/yt-dlp-gui) - Desktop GUI for yt-dlp. Download videos and audio from 1000+ sites
 - [TheIndependentCode/Neural-Network](https://github.com/TheIndependentCode/Neural-Network) - Machine Learning library for educational purpose.
 - [MinusKelvin/ice4](https://github.com/MinusKelvin/ice4) - Chess engine in 4KB
 - [official-clockwork/Clockwork](https://github.com/official-clockwork/Clockwork) - HCE uci chess engine
@@ -27596,7 +27615,7 @@
 - [fadhiilrachman/line-protocol](https://github.com/fadhiilrachman/line-protocol) - LINE Messaging's private protocol
 - [klinbee/Bad-Apple-World-Preset](https://github.com/klinbee/Bad-Apple-World-Preset) - Adds a Bad Apple!! World Preset to Minecraft
 - [vikejs/bati](https://github.com/vikejs/bati) - 🔨 Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.
-- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, and Aube.
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun, Deno, Nub, Aube.
 - [honojs/website](https://github.com/honojs/website) - Repository for hono.dev
 - [fa0311/x-client-transaction-id-pair-dict](https://github.com/fa0311/x-client-transaction-id-pair-dict) - A dictionary for easily generating x-client-transaction-id
 - [Comamoca/sandbox](https://github.com/Comamoca/sandbox) - My sandbox
@@ -29541,7 +29560,7 @@
 ## physics 
 
 - [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
-- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency simulation theory of everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point tha
+- [FloatingPragma/observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - Observer Patch Holography is the observer-consistency theory-of-everything. No observer sees the whole world at once; each observer gets a local patch; physics is the public fixed point that survives 
 - [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) - A web port of Marble Blast Gold and Marble Blast Platinum.
@@ -30913,6 +30932,7 @@
 
 ## python3 
 
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [man-c/pycoingecko](https://github.com/man-c/pycoingecko) - Python wrapper for the CoinGecko API
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
@@ -32757,6 +32777,7 @@
 
 ## rust 
 
+- [GitBolt/expense-tracker-workshop](https://github.com/GitBolt/expense-tracker-workshop) - 💵 Simple workshop code for expense tracker Solana dApp
 - [bruits/maudit](https://github.com/bruits/maudit) - A static site generator 👑 The still scrolls of the web, unchanging and steadfast, at last!
 - [tyml-org/tyml](https://github.com/tyml-org/tyml) - type checker for markup language
 - [sett4/chissu-pam](https://github.com/sett4/chissu-pam) - chissu-pam is face-recognition PAM Module written in Rust, powered by Dlib
@@ -35376,6 +35397,7 @@
 
 ## typescript 
 
+- [GitBolt/expense-tracker-workshop](https://github.com/GitBolt/expense-tracker-workshop) - 💵 Simple workshop code for expense tracker Solana dApp
 - [d-kimuson/ts-type-expand](https://github.com/d-kimuson/ts-type-expand) - vscode extension for expand type of typescript
 - [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) - Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront.
 - [ahmetvural79/Vitrus](https://github.com/ahmetvural79/Vitrus) - your glass-box company brain — tells you what it doesn't know (deterministic gap analysis). MIT core · MCP · PGLite→Postgres.
@@ -35466,7 +35488,7 @@
 - [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [JichouP/obsidian-marp-plugin](https://github.com/JichouP/obsidian-marp-plugin) - Plugin to use Marp with Obsidian
 - [aymericzip/esbuild-fix-imports-plugin](https://github.com/aymericzip/esbuild-fix-imports-plugin) - An ESBuild plugin that fixes import paths. It ensures correct file extensions, resolves path aliases, and fixes directory imports in your build output when using 'tsup' with 'bundle: false'.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
@@ -36281,6 +36303,9 @@
 
 ## unity 
 
+- [keijiro/KlakSpout](https://github.com/keijiro/KlakSpout) - Spout plugin for Unity
+- [keijiro/LaspVfx](https://github.com/keijiro/LaspVfx) - Audio reactive Unity VFX with LASP
+- [Taku3939/ArtNetForUnity](https://github.com/Taku3939/ArtNetForUnity) - Unity内でArtNetでデータを簡易に受信と録画するためのプロジェクト
 - [BasisVR/Basis](https://github.com/BasisVR/Basis) - Basis is an open-source social framework for VR and Desktop usage.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - An example of how to use the Tilia packages to create great content with VRTK v4.
@@ -37225,6 +37250,7 @@
 
 ## web3 
 
+- [solana-foundation/program-examples](https://github.com/solana-foundation/program-examples) - A repository of Solana program examples
 - [New-Chat/new.chat-sdk](https://github.com/New-Chat/new.chat-sdk) - ⚒️ An SDK for building applications on top of NewChat
 - [Hexens/Smart-Contract-Review-Public-Reports](https://github.com/Hexens/Smart-Contract-Review-Public-Reports) - List of the public smart contract audit reports and security reviews performed by Hexens.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -37342,6 +37368,7 @@
 
 ## website 
 
+- [duino-coin/duco-webservices](https://github.com/duino-coin/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
 - [avinash201199/Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection) - This repository contains collection of portfolio's .
 - [PaperMC/website](https://github.com/PaperMC/website) - The PaperMC website
 - [bludit/homepage](https://github.com/bludit/homepage) - Source code of Bludit.com
