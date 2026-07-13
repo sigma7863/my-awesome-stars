@@ -2649,7 +2649,7 @@
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [ifokeev/awesome-copilots](https://github.com/ifokeev/awesome-copilots) - A curated list of AI copilots and assistants that enhance productivity across various domains, with a focus on coding and software development tools.
 - [hacxy/awesome-vitepress](https://github.com/hacxy/awesome-vitepress) - This is a curated list of awesome things related to VitePress.
-- [remvze/desengs](https://github.com/remvze/desengs) - 🏴 Resources for design engineers.
+- [remvze/desengs](https://github.com/remvze/desengs) - Resources for design engineers.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -4013,7 +4013,7 @@
 - [zhixuan2333/group-tab-ai-extension](https://github.com/zhixuan2333/group-tab-ai-extension) - A browser extension that uses ChatGPT to group your browser tabs into logical categories.
 - [minagishl/gradia](https://github.com/minagishl/gradia) - A lightweight Chrome extension screensaver built with React, Vite, and Canvas.
 - [seanverano/reboost](https://github.com/seanverano/reboost) - Reboost is a Chrome extension with two features: a hydration tracker for logging water intake and a wellness reminder for setting custom break alerts. ✨
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 25k times by 400+ developers ⚡
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used ~30k times by 450+ developers ⚡
 - [AminoffZ/catonaut](https://github.com/AminoffZ/catonaut) - Astro + Bun browser extension template.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [DervexDev/github-loc](https://github.com/DervexDev/github-loc) - A Chrome extension that shows Lines Of Code of GitHub repository in simple yet elegant way
@@ -6795,7 +6795,7 @@
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [typesnippet/antd-phone-input](https://github.com/typesnippet/antd-phone-input) - Advanced, highly customizable phone input component for Ant Design.
-- [remvze/desengs](https://github.com/remvze/desengs) - 🏴 Resources for design engineers.
+- [remvze/desengs](https://github.com/remvze/desengs) - Resources for design engineers.
 - [ViktorSvertoka/ViktorSvertoka](https://github.com/ViktorSvertoka/ViktorSvertoka) - Hi 👋, I'm glad to see you here! This is my :octocat: GitHub Profile ✍️
 - [diaoliu/provector](https://github.com/diaoliu/provector) - Another lightweight vector drawing tool
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
@@ -6877,7 +6877,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [BruinGrowly/Semantic-Compressor](https://github.com/BruinGrowly/Semantic-Compressor) - DNA-inspired semantic compression for AI reasoning at scale. Compress codebases 1000x while preserving meaning. 99.8% token reduction.
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 25k times by 400+ developers ⚡
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used ~30k times by 450+ developers ⚡
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -7717,6 +7717,7 @@
 
 ## electron 
 
+- [klotzbrocken/Reframe](https://github.com/klotzbrocken/Reframe) - Reframe — today's web, yesterday's look. A modern Chromium browser wrapped in pixel-faithful retro chrome (IE5, Netscape, Aqua Safari). An open-source homage; trademarks belong to Microsoft, Netscape/
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [kurouna/elecxzy](https://github.com/kurouna/elecxzy) - elecxzy project
 - [ExpTechTW/TREM-Lite-v2](https://github.com/ExpTechTW/TREM-Lite-v2) - Taiwan Real-time Earthquake Monitoring Lite ( 臺灣即時地震監測 輕量版 )
@@ -9439,7 +9440,7 @@
 - [game-ci/unity-actions](https://github.com/game-ci/unity-actions) - Github actions for testing and building Unity projects
 - [greenkeeperio/greenkeeper](https://github.com/greenkeeperio/greenkeeper) - :robot: :palm_tree: Real-time automated dependency updates for npm and GitHub
 - [js-org/js.org-cleanup](https://github.com/js-org/js.org-cleanup) - The scripts behind the annual js.org cleanup process
-- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 25k times by 400+ developers ⚡
+- [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub) - CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used ~30k times by 450+ developers ⚡
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [DervexDev/github-loc](https://github.com/DervexDev/github-loc) - A Chrome extension that shows Lines Of Code of GitHub repository in simple yet elegant way
 - [AtomMaterialUI/mtslack](https://github.com/AtomMaterialUI/mtslack) - Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
@@ -12590,7 +12591,7 @@
 - [vectrix-space/ignite](https://github.com/vectrix-space/ignite) - A Mixin loader for Paper/Velocity/Spigot/Hytale
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [retrooper/packetevents](https://github.com/retrooper/packetevents) - PacketEvents is a protocol library tailored to Minecraft Java Edition, designed to facilitate the processing and transmission of packets.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.2 Lightweight Minecraft server
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [axel-op/googlejavaformat-action](https://github.com/axel-op/googlejavaformat-action) - GitHub Action that formats Java files following Google Style guidelines
@@ -14348,6 +14349,7 @@
 
 ## language 
 
+- [puruslang/purus](https://github.com/puruslang/purus) - ✨ Write code without the Shift key. Beautiful, simple, and easy-to-use.
 - [Beblia/Holy-Bible-XML-Format](https://github.com/Beblia/Holy-Bible-XML-Format) - Holy Bible in 200+ Languages and 1000+ versions in XML Format.
 - [uellenberg/REXS](https://github.com/uellenberg/REXS) - A language for writing regular expressions.
 - [uellenberg/Logimat](https://github.com/uellenberg/Logimat) - A language for abusing mathematical functions and writing things with them that were never meant to be written. It provides an interface for performing logical comparisons (equal, less than, etc) and 
@@ -15827,6 +15829,7 @@
 
 ## macos 
 
+- [klotzbrocken/Reframe](https://github.com/klotzbrocken/Reframe) - Reframe — today's web, yesterday's look. A modern Chromium browser wrapped in pixel-faithful retro chrome (IE5, Netscape, Aqua Safari). An open-source homage; trademarks belong to Microsoft, Netscape/
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
@@ -16720,7 +16723,7 @@
 - [vectrix-space/ignite](https://github.com/vectrix-space/ignite) - A Mixin loader for Paper/Velocity/Spigot/Hytale
 - [Hendrix-Shen/MagicLib](https://github.com/Hendrix-Shen/MagicLib) - To beat magic with magic :(
 - [retrooper/packetevents](https://github.com/retrooper/packetevents) - PacketEvents is a protocol library tailored to Minecraft Java Edition, designed to facilitate the processing and transmission of packets.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.2 Lightweight Minecraft server
 - [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
 - [thebuildcraft/Universal-Mod-Template](https://github.com/thebuildcraft/Universal-Mod-Template) - multi-loader, multi-version, client & server mod / plugin template
 - [mcbrawls/inject](https://github.com/mcbrawls/inject) - A library for making injecting into Netty easier!
@@ -19044,6 +19047,15 @@
 
 ## others 
 
+- [shimizu/las-viewer-example](https://github.com/shimizu/las-viewer-example) - deck.glで作ったポイントクラウド(LIDAR)の簡易ビューアー
+- [shimizu/deckgl-minimum-template](https://github.com/shimizu/deckgl-minimum-template) - deck.glの最小構成テンプレート
+- [shimizu/H27_gs_maps](https://github.com/shimizu/H27_gs_maps) - 全国の燃料給油所マップ
+- [shimizu/OSM-GeoJSON-MCP-Server](https://github.com/shimizu/OSM-GeoJSON-MCP-Server) - OpenStreetMap（OSM）のデータをGeoJSON形式で取得するMCP（Model Context Protocol）サーバー。
+- [shimizu/vt_pbf2json](https://github.com/shimizu/vt_pbf2json) - .pbf(.mvt)ファイルをgeojsonに変換するコマンド
+- [shimizu/H25_yearly_income](https://github.com/shimizu/H25_yearly_income) - 平成25年住宅・土地統計調査 - H25家計を主に支える者の年齢・世帯年収区分
+- [vvedantb/eva](https://github.com/vvedantb/eva) - Orchestrate sandboxed agents that run in the cloud while you work. Fully open source
+- [otnc/fake-repo-ogp-image](https://github.com/otnc/fake-repo-ogp-image) - 
+- [otnc/spotify-lyrics-position](https://github.com/otnc/spotify-lyrics-position) - A Spicetify extension that shows lyrics wherever you want — instead of the full-screen center view.
 - [alchg/AlchgLinux](https://github.com/alchg/AlchgLinux) - Simple and lightweight Linux live distribution.
 - [Danilaa1/slot-text](https://github.com/Danilaa1/slot-text) - Dependency-free text roll animation for vanilla JS, React, and Vue.
 - [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
@@ -19796,7 +19808,6 @@
 - [Cqmbo1/VapeandWurst4Miniblox](https://github.com/Cqmbo1/VapeandWurst4Miniblox) - 
 - [Catuquei/cascade](https://github.com/Catuquei/cascade) - I love vape v4 crack
 - [evaan/ApeClient](https://github.com/evaan/ApeClient) - ApeClient 🦧 is a hacked client for Minecraft 1.8.9 that includes an External GUI
-- [TrilliumSolutions/Opal-1.6](https://github.com/TrilliumSolutions/Opal-1.6) - $100.00 1.20.4 Fabric mod. KeyAuth auth goes hard bruh.
 - [Raadsl/website-spammer](https://github.com/Raadsl/website-spammer) - Spam a lot of tabs. Prank your friends when they leave their computer alone!
 - [Backupps/Raven-F](https://github.com/Backupps/Raven-F) - Raven F is a forge based client based on Raven b+ Raven B+++, This client has decent polar, intave, grim, vulcan. hypixel bmc, bypasses, it bypasses every anticheat with the right config!
 - [7GrandDadPGN/MinibloxTranslationLayer](https://github.com/7GrandDadPGN/MinibloxTranslationLayer) - 
@@ -25688,8 +25699,6 @@
 - [renderffx/baremetal](https://github.com/renderffx/baremetal) - 
 - [Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) - 
 - [googlearchive/Firebase-Unity](https://github.com/googlearchive/Firebase-Unity) - 
-- [akifgrape/JarvisAssistant](https://github.com/akifgrape/JarvisAssistant) - JARVIS is a cutting-edge voice assistant that combines the power of multiple AI models with advanced web technologies. Built for modern browsers, it offers an intuitive voice-controlled interface with
-- [akifgrape/quantum-tunnel-protocol](https://github.com/akifgrape/quantum-tunnel-protocol) - Professional-grade distributed resource sharing and messaging protocol for modern infrastructure
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [write-blog-every-week/write-blog-every-week-remind](https://github.com/write-blog-every-week/write-blog-every-week-remind) - 
 - [rauchg/phantomjs-node](https://github.com/rauchg/phantomjs-node) - PhantomJS integration module for NodeJS
@@ -28153,7 +28162,7 @@
 - [SlyMarbo/rss](https://github.com/SlyMarbo/rss) - A Go library for fetching, parsing, and updating RSS feeds.
 - [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR update rss, SSR organization
 - [scrpgil/ltc](https://github.com/scrpgil/ltc) - mp4→hls変換の補助CLI
-- [zj13924/Net2](https://github.com/zj13924/Net2) - 
+- [zj13924/Net2](https://github.com/zj13924/Net2) - 茨城高専 国際創造工学科 情報系 4年前期 「情報ネットワークⅡ」 プログラミング課題
 - [zj13924/IslayTouchRelease](https://github.com/zj13924/IslayTouchRelease) - 😸📤This repository hosts the release versions(nightly builds) of IslayTouch in binary format, namely the APK files.
 - [Automattic/expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 - [Automattic/cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
@@ -32593,6 +32602,7 @@
 
 ## react 
 
+- [klotzbrocken/Reframe](https://github.com/klotzbrocken/Reframe) - Reframe — today's web, yesterday's look. A modern Chromium browser wrapped in pixel-faithful retro chrome (IE5, Netscape, Aqua Safari). An open-source homage; trademarks belong to Microsoft, Netscape/
 - [family/connectkit](https://github.com/family/connectkit) - Connecting a wallet, made simple.
 - [fuma-nama/omagize](https://github.com/fuma-nama/omagize) - A Modern Web Chat App
 - [fuma-nama/discord-bot-dashboard-2](https://github.com/fuma-nama/discord-bot-dashboard-2) - A Modern Discord bot Dashboard Template
@@ -34052,7 +34062,7 @@
 - [kawarimidoll/guard-and-guide](https://github.com/kawarimidoll/guard-and-guide) - 🛡️ Guard coding agents from dangerous operations, and 🧭 Guide them to safer alternatives.
 - [unvalley/rt](https://github.com/unvalley/rt) - run tasks interactively, no matter task runners
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
-- [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
+- [motion-core/motion-core](https://github.com/motion-core/motion-core) - Curated Motion Core Svelte components
 - [yaneurao/Pytra](https://github.com/yaneurao/Pytra) - Ultimate transpiler: converts Python to C++, Rust, C#, PowerShell, JavaScript, TypeScript, Dart, Go, Java, Swift,  Kotlin, Ruby, Lua, Scala3, PHP, Nim, Julia, and Zig.
 - [rtk-ai/icm](https://github.com/rtk-ai/icm) - Permanent memory for AI agents. Single binary, zero dependencies, MCP native.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -35489,7 +35499,7 @@
 - [opral/paraglide-js](https://github.com/opral/paraglide-js) - Compiler-based i18n library that emits tree-shakable translations, leading to up to 70% smaller bundle sizes.
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [storyblok/monoblok](https://github.com/storyblok/monoblok) - The Storyblok OSS monorepo
-- [Motion-Core/motion-core](https://github.com/Motion-Core/motion-core) - Curated Motion Core Svelte components
+- [motion-core/motion-core](https://github.com/motion-core/motion-core) - Curated Motion Core Svelte components
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [glincker/thesvg](https://github.com/glincker/thesvg) - 6,400+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [svelte-jp/japanese-svelte-companies](https://github.com/svelte-jp/japanese-svelte-companies) - Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
@@ -36690,6 +36700,7 @@
 
 ## typescript 
 
+- [klotzbrocken/Reframe](https://github.com/klotzbrocken/Reframe) - Reframe — today's web, yesterday's look. A modern Chromium browser wrapped in pixel-faithful retro chrome (IE5, Netscape, Aqua Safari). An open-source homage; trademarks belong to Microsoft, Netscape/
 - [pnsk-lab/hikkaku](https://github.com/pnsk-lab/hikkaku) - Let AI create Scratch projects, via TypeScript
 - [family/connectkit](https://github.com/family/connectkit) - Connecting a wallet, made simple.
 - [palmier-io/sixsevenstudio](https://github.com/palmier-io/sixsevenstudio) - Sora 2 Storyboard
@@ -38124,7 +38135,7 @@
 
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- [shayanb/MoaV](https://github.com/shayanb/MoaV) - Mother of all VPNs
+- [MotherofallVPNs/MoaV](https://github.com/MotherofallVPNs/MoaV) - Mother of all VPNs
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [Ali-hey-0/Hacking-Tools](https://github.com/Ali-hey-0/Hacking-Tools) - 🌐Collate and develop network security, Hackers technical documentation and tools, code.
