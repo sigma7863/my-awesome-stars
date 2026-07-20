@@ -481,6 +481,7 @@
 
 ## C 
 
+- [udu3324/stm32pe-midi](https://github.com/udu3324/stm32pe-midi) - a midi controller using the mpe protocol to create more expressive music
 - [matsumur/m5zoomctl](https://github.com/matsumur/m5zoomctl) - 
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -1265,6 +1266,7 @@
 
 ## C# # 
 
+- [Wea017net/GkmStatus](https://github.com/Wea017net/GkmStatus) - 『学園アイドルマスター』のプロデューサー情報をDiscordに表示できる非公式のファンメイドアプリ / A Discord Rich Presence app for THE iDOLM@STER Gakuen
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.
 - [Brighthui/WifiP2P](https://github.com/Brighthui/WifiP2P) - Xamarin Forms Android WiFi Direct
 - [google/xr-objects](https://github.com/google/xr-objects) - XR-Objects is an open-source prototype that anchors contextual interactions onto analog objects to not only convey information but also to initiate digital actions, such as querying LLMs for details o
@@ -3729,6 +3731,8 @@
 
 ## Go 
 
+- [Finatext/lapper](https://github.com/Finatext/lapper) - Lapper is a wrapper programs for Container running on Lambda. (Beta)
+- [Finatext/belldog](https://github.com/Finatext/belldog) - Manage and proxy Slack webhooks
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
@@ -8488,6 +8492,7 @@
 - [toio/toio-spec](https://github.com/toio/toio-spec) - toio™Core Cube Technical Specification
 - [statsig-io/statuspage](https://github.com/statsig-io/statuspage) - A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter
@@ -9160,6 +9165,8 @@
 
 ## Jupyter Notebook 
 
+- [chakki-works/chariot](https://github.com/chakki-works/chariot) - Deliver the ready-to-train data to your NLP model.
+- [icoxfog417/baby-steps-of-rl-ja](https://github.com/icoxfog417/baby-steps-of-rl-ja) - Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Optimization
 - [vvolhejn/spacetime-maps](https://github.com/vvolhejn/spacetime-maps) - Maps that show time instead of space
 - [rykov8/ssd_keras](https://github.com/rykov8/ssd_keras) - Port of Single Shot MultiBox Detector to Keras
@@ -10101,7 +10108,6 @@
 - [mazipan/mazipan.space](https://github.com/mazipan/mazipan.space) - 👿 Codebase for mazipan.space
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord Developer Docs
 - [utelecon/utelecon.github.io](https://github.com/utelecon/utelecon.github.io) - 
-- [BonyChops/blog](https://github.com/BonyChops/blog) - My blog built with Docusaurus
 - [dotenvx/docs](https://github.com/dotenvx/docs) - docs for `dotenvx`
 - [Green-Software-Foundation/learn](https://github.com/Green-Software-Foundation/learn) - Green Software Practitioner course
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -10501,6 +10507,8 @@
 
 ## Others 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+- [icoxfog417/awesome-financial-nlp](https://github.com/icoxfog417/awesome-financial-nlp) - Researches for Natural Language Processing for Financial Domain
 - [ASLP-lab/MeanVC2](https://github.com/ASLP-lab/MeanVC2) - 
 - [flano-yuki/http3-note](https://github.com/flano-yuki/http3-note) - My HTTP/3 Note
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches
@@ -12356,6 +12364,8 @@
 
 ## Python 
 
+- [ayghri/pgcuts](https://github.com/ayghri/pgcuts) - Probabilistic Graph Cuts - PyTorch implementation
+- [chakki-works/xbrr](https://github.com/chakki-works/xbrr) - eXtensible Business Report Reader
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [microsoft/MoGe](https://github.com/microsoft/MoGe) - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
 - [ASLP-lab/MeanVC](https://github.com/ASLP-lab/MeanVC) - A Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows
@@ -16002,6 +16012,8 @@
 
 ## Rust 
 
+- [Finatext/gls](https://github.com/Finatext/gls) - Support gitleaks config development and extend some gitleaks features.
+- [Finatext/orgu](https://github.com/Finatext/orgu) - orgu is a tool for implementing organization-wide workflows on GitHub
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [EdamAme-x/pentect](https://github.com/EdamAme-x/pentect) - Pentect is a local secret-capability boundary for AI agents: it masks tool/file/MCP/browser output before the AI sees it
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
@@ -16284,7 +16296,7 @@
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ruvnet/RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
@@ -18522,6 +18534,9 @@
 
 ## TypeScript 
 
+- [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+- [neon-solutions/better-env](https://github.com/neon-solutions/better-env) - 
+- [neon-solutions/add-mcp](https://github.com/neon-solutions/add-mcp) - The open MCP config tool - npx add-mcp
 - [webspatial/webspatial-sdk](https://github.com/webspatial/webspatial-sdk) - Unlock native-level spatial power with the WebSpatial SDK without losing the power of the web
 - [hideakitai/obsidian-vim-im-control](https://github.com/hideakitai/obsidian-vim-im-control) - Obsidian plugin to switch Input Method when "InsertLeave" and "InsertEnter". Supports macOS, Windows, and Linux.
 - [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
@@ -18955,10 +18970,10 @@
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [TeamDev-IP/JxBrowser-Gallery](https://github.com/TeamDev-IP/JxBrowser-Gallery) - A gallery of apps built with JxBrowser, each solving a real-world use-case
 - [mo-browser-apps/icons](https://github.com/mo-browser-apps/icons) - Generate macOS app icons using AI.
-- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, Soniox, Zoom AI, and more
 - [vorahardik7/patronus-ai](https://github.com/vorahardik7/patronus-ai) - 
 - [akaghef/M3E](https://github.com/akaghef/M3E) - Mind Map Model Engine(M3E) develop
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
 - [Legcord/Legacy](https://github.com/Legcord/Legacy) - Discord client for Windows 7 and Mac OS X
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [takuya0206/bigquery-mcp-server](https://github.com/takuya0206/bigquery-mcp-server) - 
@@ -19140,7 +19155,7 @@
 - [justlaunch-app/core](https://github.com/justlaunch-app/core) - This collection features a curated selection of components used by Vador Studio for building their apps.
 - [ritmillio/expo-router-starter-kit](https://github.com/ritmillio/expo-router-starter-kit) - Opiniated expo-router starter to boost development.
 - [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
-- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 - [warpdotdev/oz-agent-action](https://github.com/warpdotdev/oz-agent-action) - Use the Oz coding agent in GitHub Actions
 - [bddicken/tuitter](https://github.com/bddicken/tuitter) - tuitter
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
@@ -19244,7 +19259,6 @@
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [nathonius/obsidian-trello](https://github.com/nathonius/obsidian-trello) - An Obsidian Plugin that connects Trello cards to Obsidian notes.
 - [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
-- [chan-mai/misskey-instance-list](https://github.com/chan-mai/misskey-instance-list) - 非公式Misskeyインスタンスリスト
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
@@ -21146,7 +21160,6 @@
 - [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks) - A VS Code extension for todo tasks
 - [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
-- [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [angular/web-codegen-scorer](https://github.com/angular/web-codegen-scorer) - Web Codegen Scorer is a tool for evaluating the quality of web code generated by LLMs.
@@ -22436,6 +22449,7 @@
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [vitejs/docs-ja](https://github.com/vitejs/docs-ja) - Japanese translation of vitejs.dev
+- [chan-mai/misskey-instance-list](https://github.com/chan-mai/misskey-instance-list) - 非公式Misskeyインスタンスリスト
 - [chan-mai/username-palette](https://github.com/chan-mai/username-palette) - インスタやTikTokなどのSNSで使える、いい感じのエモいユーザーネームを生成するWebアプリケーション
 - [chan-mai/mq1-web](https://github.com/chan-mai/mq1-web) - blogとか
 - [cloudpack/vue.js-uikit3](https://github.com/cloudpack/vue.js-uikit3) - Frontend development kit. This kit include vue.js,uikit3 and axios.
